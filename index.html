@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>財資日曆 App</title>
+  
+  <!-- 引入樣式與 PWA 設定 -->
+  <link rel="stylesheet" href="style.css">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#173d34">
+
+  <!-- 註冊 Service Worker，讓 App 可以離線開啟 -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('./sw.js')
+        .then(() => console.log('Service Worker 註冊成功'))
+        .catch(err => console.log('Service Worker 註冊失敗', err));
+    }
+  </script>
+</head>
+<body>
+  <header class="header">
+    <div id="quoteCount" style="font-size: 14px; opacity: 0.8;">投資智慧</div>
+    <div class="logic-row">
+      <div class="quick-stat">
+        <div class="quick-num" id="financeCount">--</div>
+        <div class="quick-label">金融事件</div>
+      </div>
+      <div class="quick-stat">
+        <div class="quick-num" id="activityCount">--</div>
+        <div class="quick-label">台灣活動</div>
+      </div>
+    </div>
+  </header>
+
+  <main class="content">
+    <!-- 分頁：今日 -->
+    <section id="page-home" class="page active">
+      <div class="card">
+        <div class="section-title"><span class="pill pill-gold">每日一句</span></div>
+        <div id="todayQuoteText" class="author">載入中...</div>
+      </div>
+      <div class="card">
+        <div class="section-title">今日重大事件</div>
+        <div id="todayFinanceList">目前無重大事件</div>
+      </div>
+    </section>
+
+    <!-- 分頁：事件 -->
+    <section id="page-events" class="page">
+      <div class="card">
+        <div class="section-title">總經數據與事件</div>
+        <div id="financeList">載入中...</div>
+      </div>
+    </section>
+
+    <!-- 分頁：活動 -->
+    <section id="page-activities" class="page">
+      <div class="card">
+        <div class="section-title">藝文與理財活動</div>
+        <div id="activityList">載入中...</div>
+      </div>
+    </section>
+  </main>
+
+  <!-- 底部導覽列 -->
+  <nav class="tabs">
+    <div class="tab active" data-page="home" onclick="showPage('home')">今日</div>
+    <div class="tab" data-page="events" onclick="showPage('events')">事件</div>
+    <div class="tab" data-page="activities" onclick="showPage('activities')">活動</div>
+  </nav>
+
+  <script src="app.js"></script>
+</body>
+</html>
