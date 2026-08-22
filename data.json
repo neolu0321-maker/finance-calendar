@@ -1,0 +1,32 @@
+{
+  "quotes": [
+    {
+      "text": "投資最重要的事，就是先確保不賠錢。",
+      "author": "華倫·巴菲特"
+    }
+  ],
+  "financeEvents": [
+    {
+      "title": "美國 CPI 消費者物價指數",
+      "date": "2026-08-10",
+      "impact": "高",
+      "market": "全球"
+    },
+    {
+      "title": "台灣央行理監事會",
+      "date": "2026-09-19",
+      "impact": "高",
+      "market": "台股"
+    }
+  ],
+  "activities": [
+    {
+      "title": "ETF 投資入門講座",
+      "city": "台北",
+      "price": "免費",
+      "time": "8/26 19:00",
+      "organizer": "證券公會"
+    }
+  ],
+  "lastUpdated": "2026-08-22 21:31:42"
+}
