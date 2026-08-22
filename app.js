@@ -1,61 +1,90 @@
-document.addEventListener("DOMContentLoaded", () => {
-  initApp();
+document.addEventListener('DOMContentLoaded', () => {
+    // 註冊 Service Worker (PWA 功能)
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('./sw.js')
+            .then(reg => console.log('SW 註冊成功!'))
+            .catch(err => console.log('SW 註冊失敗!', err));
+    }
+
+    // 建立分頁切換邏輯
+    const navItems = document.querySelectorAll('.nav-item');
+    const sections = document.querySelectorAll('.content-section');
+
+    navItems.forEach(item => {
+        item.addEventListener('click', () => {
+            // 移除所有 active class
+            navItems.forEach(nav => nav.classList.remove('active'));
+            sections.forEach(sec => sec.classList.remove('active'));
+
+            // 加入 active class 到點擊的目標
+            item.classList.add('active');
+            const targetId = item.getAttribute('data-target');
+            document.getElementById(targetId).classList.add('active');
+        });
+    });
+
+    // 啟動遠端資料連線！
+    fetchData();
 });
 
-function initApp() {
-  // 這裡先寫入測試用的乾淨資料，確認 App 能正常運作
-  // 未來我們會將這裡改成讀取 GitHub Actions 自動生成的 JSON 檔案
-  const mockData = {
-    quotes: [{ text: "風險來自於你不知道自己在做什麼。", author: "華倫·巴菲特" }],
-    financeEvents: [
-      { title: "美國 CPI 消費者物價指數", date: "2026-08-10", impact: "高", market: "全球" },
-      { title: "台灣央行理監事會", date: "2026-09-19", impact: "高", market: "台股" }
-    ],
-    activities: [
-      { title: "ETF 投資入門講座", city: "台北", price: "免費", time: "8/26 19:00" },
-      { title: "城市閱讀與生活講座", city: "高雄", price: "免費", time: "8/28 14:00" }
-    ]
-  };
+// 負責去讀取 data.json 的新功能
+async function fetchData() {
+    try {
+        // 加上時間參數避免手機快取抓到舊資料
+        const response = await fetch('data.json?t=' + new Date().getTime());
+        const data = await response.json();
 
-  renderData(mockData);
-}
+        // 1. 更新金句
+        if (data.quotes && data.quotes.length > 0) {
+            const quoteContent = document.querySelector('#today .card-content');
+            quoteContent.innerHTML = `
+                <p class="quote-text">${data.quotes[0].text}</p>
+                <p class="quote-author">— ${data.quotes[0].author}</p>
+            `;
+        }
 
-function renderData(data) {
-  // 1. 渲染金句
-  document.getElementById('todayQuoteText').innerText = `${data.quotes[0].text} \n— ${data.quotes[0].author}`;
-  
-  // 2. 渲染金融事件
-  const financeHtml = data.financeEvents.map(e => `
-    <div class="item">
-      <span class="pill pill-red">${e.impact}</span>
-      <span class="pill pill-gold">${e.market}</span>
-      <strong>${e.title}</strong>
-      <div style="font-size:12px; color:#666; margin-top:4px;">日期：${e.date}</div>
-    </div>
-  `).join('');
-  document.getElementById('financeList').innerHTML = financeHtml;
-  document.getElementById('todayFinanceList').innerHTML = financeHtml; // 示範：今日事件同步顯示
-  
-  // 3. 渲染活動
-  const activityHtml = data.activities.map(a => `
-    <div class="item">
-      <span class="pill pill-gold">${a.city}</span>
-      <strong>${a.title}</strong>
-      <div style="font-size:12px; color:#666; margin-top:4px;">時間：${a.time} | 費用：${a.price}</div>
-    </div>
-  `).join('');
-  document.getElementById('activityList').innerHTML = activityHtml;
+        // 2. 更新重大事件
+        if (data.financeEvents) {
+            const eventList = document.querySelector('#events .event-list');
+            eventList.innerHTML = data.financeEvents.map(event => `
+                <div class="event-item">
+                    <div class="event-header">
+                        <span class="tag tag-high">${event.impact}</span>
+                        <span class="tag tag-market">${event.market}</span>
+                        <h3>${event.title}</h3>
+                    </div>
+                    <div class="event-details">
+                        <p>日期：${event.date}</p>
+                    </div>
+                </div>
+            `).join('');
+            
+            // 更新儀表板數字
+            document.getElementById('event-count').innerText = data.financeEvents.length;
+        }
 
-  // 4. 更新頂部數量
-  document.getElementById('financeCount').innerText = data.financeEvents.length;
-  document.getElementById('activityCount').innerText = data.activities.length;
-}
+        // 3. 更新理財活動 (這裡就是過濾完詐騙的乾淨資料！)
+        if (data.activities) {
+            const activityList = document.querySelector('#activities .event-list');
+            activityList.innerHTML = data.activities.map(act => `
+                <div class="event-item">
+                    <div class="event-header">
+                        <span class="tag tag-high">${act.price}</span>
+                        <span class="tag tag-market">${act.city}</span>
+                        <h3>${act.title}</h3>
+                    </div>
+                    <div class="event-details">
+                        <p>時間：${act.time}</p>
+                        <p>主辦：${act.organizer}</p>
+                    </div>
+                </div>
+            `).join('');
 
-// 底部導覽列切換邏輯
-window.showPage = function(pageId) {
-  document.querySelectorAll('.page').forEach(page => page.classList.remove('active'));
-  document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
-  
-  document.getElementById(`page-${pageId}`).classList.add('active');
-  document.querySelector(`[data-page="${pageId}"]`).classList.add('active');
+            // 更新儀表板數字
+            document.getElementById('activity-count').innerText = data.activities.length;
+        }
+
+    } catch (error) {
+        console.error("載入資料失敗:", error);
+    }
 }
