@@ -1,0 +1,109 @@
+* {
+  box-sizing: border-box;
+  font-family: 'PingFang TC', 'Microsoft JhengHei', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f4f5f7;
+  color: #333;
+  padding-bottom: 70px; /* 留給底部導覽列的空間 */
+}
+
+.header {
+  background: linear-gradient(135deg, rgba(23,61,52,0.98), rgba(167,123,34,0.96));
+  color: white;
+  padding: 26px 20px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+.logic-row {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+}
+
+.quick-stat {
+  text-align: center;
+}
+
+.quick-num {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.quick-label {
+  font-size: 12px;
+  opacity: 0.8;
+}
+
+.card {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 16px;
+  margin: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.section-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.author {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #555;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 9px;
+  border-radius: 99px;
+  font-size: 12px;
+  font-weight: 900;
+  margin-right: 8px;
+}
+.pill-gold { background: #fce0da; color: #9c2f1f; }
+.pill-red { background: #fee2e2; color: #dc2626; }
+
+.item {
+  margin-bottom: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #eee;
+}
+.item:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.tabs {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  background: white;
+  border-top: 1px solid #ddd;
+  justify-content: space-around;
+  padding: 12px 0;
+  padding-bottom: env(safe-area-inset-bottom, 12px);
+}
+
+.tab {
+  cursor: pointer;
+  color: #999;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.tab.active {
+  color: #173d34;
+}
+
+.page { display: none; }
+.page.active { display: block; }
