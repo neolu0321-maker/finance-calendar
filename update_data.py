@@ -2,7 +2,7 @@ import json
 import os
 import requests
 import calendar
-import google.generativeai as genai
+from google import genai
 from datetime import datetime, timezone, timedelta
 
 def get_recurring_events(year, month):
@@ -21,15 +21,14 @@ def get_recurring_events(year, month):
 
 def get_ai_data(today_str, year, month):
     api_key = os.environ.get("GEMINI_API_KEY")
-    # 確保金鑰沒有多餘空白
     if api_key:
         api_key = api_key.strip()
         
     if not api_key:
         return {"date": today_str, "quote": "本金安全第一。", "author": "巴菲特", "explanation": "無API", "reminder": "請檢查金鑰"}, []
     
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    # 使用 Google 全新升級的 SDK 寫法
+    client = genai.Client(api_key=api_key)
     
     prompt = f"""
     今天是 {today_str}。請扮演精通華爾街歷史與總體經濟的財經大師。
@@ -53,10 +52,13 @@ def get_ai_data(today_str, year, month):
     }}
     """
     try:
-        response = model.generate_content(prompt)
+        # 指定使用最新的 gemini-2.5-flash 模型
+        response = client.models.generate_content(
+            model='gemini-2.5-flash',
+            contents=prompt
+        )
         text = response.text.strip()
         
-        # 💡 強大防錯：把 AI 假會加上的 markdown 標籤清乾淨
         if text.startswith("```json"):
             text = text[7:]
         if text.endswith("```"):
@@ -67,7 +69,6 @@ def get_ai_data(today_str, year, month):
         wisdom = data.get("wisdom", {})
         wisdom["date"] = today_str
         
-        # 💡 強力清洗：強制刪除 AI 亂加的非農事件
         clean_events = []
         for evt in data.get("dynamic_events", []):
             if "非農" not in evt.get("title", ""):
@@ -80,10 +81,10 @@ def get_ai_data(today_str, year, month):
 
 def fetch_activities(today_str):
     api_urls = {
-        "音樂戲劇": "https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=1",
-        "展覽": "https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=6",
-        "講座": "https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=7",
-        "親子與綜合": "https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=15"
+        "音樂戲劇": "[https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=1](https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=1)",
+        "展覽": "[https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=6](https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=6)",
+        "講座": "[https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=7](https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=7)",
+        "親子與綜合": "[https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=15](https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=15)"
     }
     finance_keywords = ['理財', '投資', '財經', '股票', '股市', 'ETF', '金融', '經濟', '資產配置', '退休規劃', '基金']
     activities = []
