@@ -20,7 +20,7 @@ jobs:
           python-version: "3.11"
           
       - name: 安裝套件
-        run: pip install requests google-generativeai
+        run: pip install requests google-genai
         
       - name: 執行爬蟲
         env:
