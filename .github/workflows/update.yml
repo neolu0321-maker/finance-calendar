@@ -2,31 +2,34 @@ name: 每日財資數據自動更新
 
 on:
   schedule:
-    # 每天台灣時間凌晨 05:00 執行 (UTC 時間 21:00)
-    - cron: '0 21 * * *'
-  workflow_dispatch: # 允許我們手動點擊按鈕來測試執行
+    # 每天台灣時間 05:00 (UTC 21:00)
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
-    
     steps:
-      - name: 下載最新程式碼
-        uses: actions/checkout@v3
-        
-      - name: 設定 Python 環境
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: "3.11"
           
-      - name: 執行資料抓取與過濾爬蟲
+      - name: 安裝套件
+        run: pip install requests google-generativeai
+        
+      - name: 執行爬蟲
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python update_data.py
         
-      - name: 將最新數據 (data.json) 存回 App 資料庫
+      - name: 提交 data.json
         run: |
-          git config --global user.name 'GitHub Action Bot'
-          git config --global user.email 'action@github.com'
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add data.json
-          git commit -m "自動更新：每日總經與活動資料" || echo "資料無變動，無需更新"
-          git push
- 
+          git diff --cached --quiet || (git commit -m "自動更新：每日總經與活動資料" && git push)
