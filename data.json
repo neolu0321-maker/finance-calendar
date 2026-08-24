@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-08-25T00:30:09.199321+08:00",
+  "generated_at": "2026-08-25T00:47:33.284799+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "date": "2026-08-25",
       "quote": "等待 AI 靈感中...",
       "author": "系統",
-      "explanation": "大腦正在升級",
+      "explanation": "錯誤代碼: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
       "reminder": "請稍後重試"
     }
   ],
-  "activities": [],
+  "activities": [
+    {
+      "event_date": "2026-08-25",
+      "end_date": "2026-08-25",
+      "title": "文化部資料連線延遲，請稍後重試",
+      "category": "其他藝文活動",
+      "venue": "系統提示",
+      "city": "線上",
+      "summary": "政府開放資料 API 連線超時，目前顯示為舊有快取資料。",
+      "url": "[https://cloud.culture.tw/](https://cloud.culture.tw/)",
+      "organizer": "系統"
+    }
+  ],
   "events": [
     {
       "date": "2026-08-07",
