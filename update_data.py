@@ -26,7 +26,7 @@ def get_ai_data(today_str, year, month):
     
     genai.configure(api_key=api_key)
     # 🚀 升級 1：改用目前最新支援的模型 gemini-2.5-flash
-    model = genai.GenerativeModel('gemini-2.5-flash', generation_config={"response_mime_type": "application/json"})
+    model = genai.GenerativeModel('gemini-3.6-flash', generation_config={"response_mime_type": "application/json"})
     
     prompt = f"""
     今天是 {today_str}。請扮演精通華爾街歷史與總體經濟的財經大師。
