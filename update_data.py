@@ -25,8 +25,8 @@ def get_ai_data(today_str, year, month):
         return {"date": today_str, "quote": "本金安全第一。", "author": "巴菲特", "explanation": "無API", "reminder": "請檢查金鑰"}, []
     
     genai.configure(api_key=api_key)
-    # 💡 破解1：強制指定雲端只能回傳 JSON 格式，徹底杜絕解析失敗
-    model = genai.GenerativeModel('gemini-1.5-flash', generation_config={"response_mime_type": "application/json"})
+    # 🚀 升級 1：改用目前最新支援的模型 gemini-2.5-flash
+    model = genai.GenerativeModel('gemini-2.5-flash', generation_config={"response_mime_type": "application/json"})
     
     prompt = f"""
     今天是 {today_str}。請扮演精通華爾街歷史與總體經濟的財經大師。
@@ -55,9 +55,7 @@ def get_ai_data(today_str, year, month):
         wisdom = data.get("wisdom", {})
         wisdom["date"] = today_str
         
-        # 強力清洗：強制刪除 AI 亂加的非農事件
         clean_events = [evt for evt in data.get("dynamic_events", []) if "非農" not in evt.get("title", "")]
-                
         return wisdom, clean_events
     except Exception as e:
         print(f"AI 生成失敗: {e}")
@@ -65,22 +63,20 @@ def get_ai_data(today_str, year, month):
 
 def fetch_activities(today_str):
     api_urls = {
-        "音樂戲劇": "[https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=1](https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=1)",
-        "展覽": "[https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=6](https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=6)",
-        "講座": "[https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=7](https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=7)",
-        "親子與綜合": "[https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=15](https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=15)"
+        "音樂戲劇": "https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=1",
+        "展覽": "https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=6",
+        "講座": "https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=7",
+        "親子與綜合": "https://cloud.culture.tw/frontsite/trans/SearchShowAction.do?method=doFindTypeJ&category=15"
     }
     finance_keywords = ['理財', '投資', '財經', '股票', '股市', 'ETF', '金融', '經濟', '資產配置', '退休規劃', '基金']
     activities = []
     
-    # 💡 破解2：戴上面具！偽裝成一般電腦的 Chrome 瀏覽器，突破政府防火牆
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
     }
     
     for base_cat, url in api_urls.items():
         try:
-            # 加入 headers 與延長超時時間
             response = requests.get(url, headers=headers, timeout=20)
             for item in response.json()[:100]:
                 event_url = item.get('sourceWebPromote', '').strip()
@@ -120,6 +116,17 @@ def fetch_activities(today_str):
     activities.sort(key=lambda x: x["event_date"], reverse=True)
     return activities[:150]
 
+# 🛡️ 升級 2：讀取舊檔案的備用方案，避免文化部當機時資料被清空
+def get_old_activities():
+    try:
+        if os.path.exists('data.json'):
+            with open('data.json', 'r', encoding='utf-8') as f:
+                old_data = json.load(f)
+                return old_data.get('activities', [])
+    except Exception as e:
+        print(f"讀取舊資料失敗: {e}")
+    return []
+
 def main():
     tz = timezone(timedelta(hours=8))
     today = datetime.now(tz)
@@ -137,19 +144,10 @@ def main():
 
     real_activities = fetch_activities(today_str)
     
-    # 💡 保護機制：萬一文化部大當機，至少給一筆系統提示，不要讓前端變 0 筆陣列
+    # 🛡️ 如果今天運氣不好被文化部擋住（0筆），就直接把舊檔案的活動抓回來塞進去！
     if not real_activities:
-        real_activities.append({
-            "event_date": today_str,
-            "end_date": today_str,
-            "title": "文化部資料連線延遲，請稍後重試",
-            "category": "其他藝文活動",
-            "venue": "系統提示",
-            "city": "線上",
-            "summary": "政府開放資料 API 連線超時，目前顯示為舊有快取資料。",
-            "url": "[https://cloud.culture.tw/](https://cloud.culture.tw/)",
-            "organizer": "系統"
-        })
+        print("文化部 API 無回應，沿用上一份舊清單...")
+        real_activities = get_old_activities()
     
     final_data = {
         "generated_at": today.isoformat(),
