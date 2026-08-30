@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-30T05:07:56.907781+08:00",
+  "generated_at": "2026-08-31T05:07:54.187269+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "思考問題時，不要只專注於如何獲得成功，而是先研究別人是如何失敗的，並竭力避免相同的錯誤。",
-      "reminder": "在投資市場中，減少致命錯誤比盲目追求高收益更加重要，懂得規避風險才能長久生存。",
-      "date": "2026-08-30"
+      "explanation": "在投資與人生中，比起思考如何創造輝煌成果，先思考如何避免愚蠢與毀滅，更能確保長期穩定獲利。",
+      "reminder": "做任何投資決策前，請先仔細評估最壞情況與潛在風險，而不是只計算樂觀情境下的獲利。",
+      "date": "2026-08-31"
     }
   ],
   "activities": [
@@ -640,11 +640,11 @@
     },
     {
       "event_date": "2026-09-02",
-      "end_date": "2026-09-30",
+      "end_date": "2026-09-02",
       "title": "《好好回來》Season 01｜臺北閱讀空間系列",
       "category": "文化中心活動",
-      "venue": "臺北閱讀空間系列",
-      "city": "線上",
+      "venue": "2026/9/2（三）場｜ 郭怡美書店",
+      "city": "大同區",
       "summary": "文化部開放資料 (親子與綜合)",
       "url": "https://www.instagram.com/hi.kyoo/",
       "organizer": ""
@@ -661,39 +661,6 @@
       "organizer": ""
     },
     {
-      "event_date": "2026-08-30",
-      "end_date": "2026-08-30",
-      "title": "遊•藝•敘•惑鋼琴三重奏",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心表演廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19HD9LE",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-08-30",
-      "end_date": "2026-08-30",
-      "title": "《管樂•Taiwan•金曲》",
-      "category": "文化中心活動",
-      "venue": "嘉義市政府文化局音樂廳",
-      "city": "嘉義市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1C3DWHA",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-08-30",
-      "end_date": "2026-08-30",
-      "title": "琴弦小時光",
-      "category": "文化中心活動",
-      "venue": "高雄市音樂館演奏廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DYR12Y",
-      "organizer": ""
-    },
-    {
       "event_date": "2026-08-16",
       "end_date": "2026-09-16",
       "title": "智慧型手機化身樂器 《愛的總動員》臺東聲音藝術節亞洲首演",
@@ -703,17 +670,6 @@
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://tour.taitung.gov.tw/zh-tw/event-calendar/details/6273",
       "organizer": "Amir Shpilman Studio"
-    },
-    {
-      "event_date": "2026-08-02",
-      "end_date": "2026-08-30",
-      "title": "2026通霄沙雕藝術節-舞台表演、藺草DIY（115年8月-6場）",
-      "category": "文化中心活動",
-      "venue": "通霄鎮（苗栗縣）=",
-      "city": "苗栗縣",
-      "summary": "文化部開放資料 (親子與綜合)",
-      "url": "https://www.facebook.com/profile.php?id=61561158719047",
-      "organizer": "(中華民國)苗栗縣政府文化觀光局"
     },
     {
       "event_date": "2026-07-24",
@@ -736,17 +692,6 @@
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://reurl.cc/M3QzNL",
       "organizer": "(中華民國)西伯米達部落樂團"
-    },
-    {
-      "event_date": "2026-06-13",
-      "end_date": "2026-08-30",
-      "title": "2026鹿港慶端陽《小鎮光影藝術節》",
-      "category": "文化中心活動",
-      "venue": "鹿港鎮（彰化縣）=",
-      "city": "彰化縣",
-      "summary": "文化部開放資料 (親子與綜合)",
-      "url": "https://lightuplukang2026.com/",
-      "organizer": "(中華民國)彰化縣政府"
     },
     {
       "event_date": "2026-06-06",
@@ -1660,6 +1605,61 @@
       "summary": "文化部開放資料 (親子與綜合)",
       "url": "https://www.nwac.org.tw/tw/news-content/0378575Ae540",
       "organizer": "(法國)ALAIN FRANÇAIS;(法國)高雄市交響樂團;(法國)高雄市國樂團"
+    },
+    {
+      "event_date": "2026-01-01",
+      "end_date": "2026-12-31",
+      "title": "《微醺大飯店》沉浸式劇場",
+      "category": "文化中心活動",
+      "venue": "鼓山區（高雄市）=",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://www.surpriselab.com.tw/thegreattipsy/",
+      "organizer": "(中華民國)驚喜製造"
+    },
+    {
+      "event_date": "2025-10-15",
+      "end_date": "2026-12-31",
+      "title": "《定格微光》線上攝影展",
+      "category": "文化中心活動",
+      "venue": "《定格微光》線上攝影展",
+      "city": "新北市",
+      "summary": "文化部開放資料 (展覽)",
+      "url": "https://www.waker.org.tw/",
+      "organizer": "社團法人台灣為客公益行動協會"
+    },
+    {
+      "event_date": "2025-09-17",
+      "end_date": "2035-12-31",
+      "title": "科博館《大地瑰寶》礦物常設展",
+      "category": "博物館活動",
+      "venue": "國立自然科學博物館",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (展覽)",
+      "url": "https://web3.nmns.edu.tw/Exhibits/114/2025earths-treasures/",
+      "organizer": "國立自然科學博物館"
+    },
+    {
+      "event_date": "2024-01-19",
+      "end_date": "2034-12-31",
+      "title": "科博館《奇幻自然》常設展",
+      "category": "博物館活動",
+      "venue": "國立自然科學博物館",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (展覽)",
+      "url": "https://www.nmns.edu.tw/ch/exhibitions/galleries/life-science-hall/fantastic/",
+      "organizer": "國立自然科學博物館"
+    },
+    {
+      "event_date": "2022-03-10",
+      "end_date": "2031-03-10",
+      "title": "付費課程【線上 online】核心幹部管理實務認證班-線上課程",
+      "category": "文化中心活動",
+      "venue": "線上活動",
+      "city": "地點未",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://kktix.com/",
+      "organizer": ""
     }
   ],
   "events": [
