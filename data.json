@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-31T05:07:54.187269+08:00",
+  "generated_at": "2026-09-01T05:08:02.472745+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "在投資與人生中，比起思考如何創造輝煌成果，先思考如何避免愚蠢與毀滅，更能確保長期穩定獲利。",
-      "reminder": "做任何投資決策前，請先仔細評估最壞情況與潛在風險，而不是只計算樂觀情境下的獲利。",
-      "date": "2026-08-31"
+      "explanation": "在投資與生活中，比起思考如何才能獲得成功，不如先找出導致毀滅與失敗的原因，並極力去避免它。",
+      "reminder": "在盲目追求高報酬前，請先做好風險控管，確保自己的資產不會因為單一決策失誤而面臨毀滅性打擊。",
+      "date": "2026-09-01"
     }
   ],
   "activities": [
@@ -647,17 +647,6 @@
       "city": "大同區",
       "summary": "文化部開放資料 (親子與綜合)",
       "url": "https://www.instagram.com/hi.kyoo/",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-08-31",
-      "end_date": "2026-08-31",
-      "title": "2026馬聿明小提琴獨奏會",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心表演廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19CDUHP",
       "organizer": ""
     },
     {
@@ -1660,31 +1649,42 @@
       "summary": "文化部開放資料 (親子與綜合)",
       "url": "https://kktix.com/",
       "organizer": ""
+    },
+    {
+      "event_date": "2022-03-03",
+      "end_date": "2031-03-03",
+      "title": "付費課程【線上 online】薪資管理師認證班 -線上課程",
+      "category": "文化中心活動",
+      "venue": "線上活動",
+      "city": "地點未",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://kktix.com/",
+      "organizer": ""
     }
   ],
   "events": [
-    {
-      "date": "2026-08-07",
-      "title": "美國非農就業報告 (NFP)",
-      "category": "總經"
-    },
-    {
-      "date": "2026-08-12",
-      "title": "美國 CPI 發布 (預估)",
-      "category": "CPI"
-    },
-    {
-      "date": "2026-08-19",
-      "title": "台指期與選擇權結算",
-      "category": "期貨"
-    },
     {
       "date": "2026-09-04",
       "title": "美國非農就業報告 (NFP)",
       "category": "總經"
     },
     {
+      "date": "2026-09-11",
+      "title": "美國 CPI 發布 (預估)",
+      "category": "CPI"
+    },
+    {
       "date": "2026-09-16",
+      "title": "台指期與選擇權結算",
+      "category": "期貨"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "美國非農就業報告 (NFP)",
+      "category": "總經"
+    },
+    {
+      "date": "2026-10-21",
       "title": "台指期與選擇權結算",
       "category": "期貨"
     }
