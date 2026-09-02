@@ -1,16 +1,49 @@
 {
-  "generated_at": "2026-09-02T05:14:31.666267+08:00",
+  "generated_at": "2026-09-03T05:14:08.342006+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "反過來想，總是反過來想。",
-      "author": "查理·蒙格",
-      "explanation": "在投資與生活中，與其思考如何成功，不如先思考如何避免失敗與愚蠢的決定。當你避開了所有致命的風險，剩下的自然就是通往成功的道路。",
-      "reminder": "當市場熱度高漲或陷入極端恐慌時，不妨反向思考：如果大家都看好，還有誰能買進？如果大家都在拋售，最壞的結果我能否承受？",
-      "date": "2026-09-02"
+      "quote": "小狗跑在前面或跑到後面，但總會回到主人的身邊。",
+      "author": "安德烈·科斯托蘭尼",
+      "explanation": "經濟基本面就像牽著小狗的主人，而股市價格則是跑來跑去的小狗。短期內股價可能因情緒過度誇大而偏離基本面，但長期來看，價格必定會回歸到內在價值的軌道上。",
+      "reminder": "面對市場的短期劇烈波動，切勿被市場情緒牽著鼻子走，專注於經濟基本面與資產的真實價值才是長期獲利的關鍵。",
+      "date": "2026-09-03"
     }
   ],
   "activities": [
+    {
+      "event_date": "2026-12-10",
+      "end_date": "2026-12-10",
+      "title": "蔡宇歆鋼琴演奏會",
+      "category": "文化中心活動",
+      "venue": "國立陽明交通大學演藝廳",
+      "city": "陽明交",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://arts.nycu.edu.tw/yu-hsin-tsai-piano-recital/",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-12-02",
+      "end_date": "2026-12-02",
+      "title": "魯特琴與歌曲，紀念道蘭逝世400週年",
+      "category": "文化中心活動",
+      "venue": "國立陽明交通大學演藝廳",
+      "city": "陽明交",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://arts.nycu.edu.tw/john-dowlands-400th-death-anniversary/",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-11-26",
+      "end_date": "2026-11-26",
+      "title": "搖擺不設限．致敬大師風範",
+      "category": "文化中心活動",
+      "venue": "國立陽明交通大學演藝廳",
+      "city": "陽明交",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://arts.nycu.edu.tw/a-tribute-to-clarinet-maestros/",
+      "organizer": ""
+    },
     {
       "event_date": "2026-11-01",
       "end_date": "2026-11-01",
@@ -31,6 +64,50 @@
       "city": "潮州街",
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.maisontempsreves.com/collections/newarrival/products/booktalk2026yuchen-tsai",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-08",
+      "end_date": "2026-10-08",
+      "title": "Amabile 王子欣小提琴獨奏會",
+      "category": "文化中心活動",
+      "venue": "國立陽明交通大學演藝廳",
+      "city": "陽明交",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://arts.nycu.edu.tw/amabile-sophie-wang-violin-recital/",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-02",
+      "end_date": "2026-10-02",
+      "title": "9月我們的文學夢：鍾喬",
+      "category": "文化中心活動",
+      "venue": "紀州庵文學森林",
+      "city": "中正區",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://kishuan.org.tw/activity_detail1891.htm",
+      "organizer": "紀州庵文學森林"
+    },
+    {
+      "event_date": "2026-10-02",
+      "end_date": "2026-10-02",
+      "title": "10月我們的文學夢：石德華",
+      "category": "文化中心活動",
+      "venue": "紀州庵文學森林",
+      "city": "中正區",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://kishuan.org.tw/activity_detail1900.htm",
+      "organizer": "紀州庵文學森林"
+    },
+    {
+      "event_date": "2026-09-30",
+      "end_date": "2026-09-30",
+      "title": "巴雀室重瘋:弦樂四重奏《日出 . 映像》",
+      "category": "文化中心活動",
+      "venue": "國立陽明交通大學演藝廳",
+      "city": "陽明交",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://arts.nycu.edu.tw/ensemble-amore-portrait-of-a-sunrise/",
       "organizer": ""
     },
     {
@@ -57,6 +134,17 @@
     },
     {
       "event_date": "2026-09-23",
+      "end_date": "2026-09-23",
+      "title": "Cello In Between．樂無止境",
+      "category": "文化中心活動",
+      "venue": "國立陽明交通大學演藝廳",
+      "city": "陽明交",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://arts.nycu.edu.tw/cello-in-between-music-without-borders/",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-09-23",
       "end_date": "2026-10-04",
       "title": "駐永的青春：東方與西方交融的花朵-吳澤慧、李若梅雙個展",
       "category": "文化中心活動",
@@ -64,6 +152,17 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (展覽)",
       "url": "https://www.arte.gov.tw/pro1_exh_now.asp?KeyID=4595",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-09-22",
+      "end_date": "2026-10-13",
+      "title": "《你好不好？》演前戲劇工作坊",
+      "category": "文化中心活動",
+      "venue": "國立陽明交通大學演藝廳",
+      "city": "陽明交",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://arts.nycu.edu.tw/alive-pre-performance-theatre-workshop/",
       "organizer": ""
     },
     {
