@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-05T05:13:59.784263+08:00",
+  "generated_at": "2026-09-06T05:13:15.871769+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "在投資與思考問題時，與其試圖尋找成功的秘訣，不如先思考哪些行為會導致失敗，並竭力避免它們。",
-      "reminder": "面對市場的誘惑與波動，先想清楚最壞的情況與毀滅性的風險，保持理性才是長久生存之道。",
-      "date": "2026-09-05"
+      "explanation": "思考問題時，不要只專注於如何獲得成功，而是去思考什麼樣的行為會導致失敗，然後極力避開那些錯誤。",
+      "reminder": "在投資市場中，比起盲目追求暴利，先確保自己不會因為愚蠢的風險而踩雷毀滅，才是長期存活並累積財富的關鍵。",
+      "date": "2026-09-06"
     }
   ],
   "activities": [
@@ -307,28 +307,6 @@
       "summary": "文化部開放資料 (展覽)",
       "url": "https://www.art-msac.com/exhibitions/155/overview/",
       "organizer": "黃冠鈞"
-    },
-    {
-      "event_date": "2026-08-26",
-      "end_date": "2026-09-06",
-      "title": "第廿九屆【金鴻獎】全國書法比賽優勝作品展",
-      "category": "文化中心活動",
-      "venue": "美學空間",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (展覽)",
-      "url": "https://www.arte.gov.tw/pro1_exh_now.asp?KeyID=4587",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-08-26",
-      "end_date": "2026-09-06",
-      "title": "《流動與凝視》莊振鑫·周淑霞雙個展",
-      "category": "文化中心活動",
-      "venue": "第3展覽廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (展覽)",
-      "url": "https://www.arte.gov.tw/pro1_exh_now.asp?KeyID=4586",
-      "organizer": ""
     },
     {
       "event_date": "2026-08-21",
