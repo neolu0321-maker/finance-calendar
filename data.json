@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-07T05:13:36.640393+08:00",
+  "generated_at": "2026-09-08T05:14:57.357149+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "在投資與人生中，與其苦思如何獲得成功，不如先列出會導致失敗的原因並極力避免。避開愚蠢比試圖變得聰明更能帶來長期優勢。",
-      "reminder": "面對複雜的經濟數據與市場波動時，先思考最壞的情境，確保資產具備足夠的安全邊際與抗風險能力。",
-      "date": "2026-09-07"
+      "explanation": "在投資與生活中，比起盲目思考如何迅速獲得成功，先思考如何避免失敗與愚蠢，反而更能引導我們做出明智的決策並避開重大災難。",
+      "reminder": "在做出任何投資決定前，請先評估最壞的狀況與潛在風險，而不是只專注於預期獲利。",
+      "date": "2026-09-08"
     }
   ],
   "activities": [
@@ -109,6 +109,17 @@
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://arts.nycu.edu.tw/ensemble-amore-portrait-of-a-sunrise/",
       "organizer": ""
+    },
+    {
+      "event_date": "2026-09-26",
+      "end_date": "2026-09-26",
+      "title": "科瓦勒夫亞洲巡迴 - 臺灣首演",
+      "category": "文化中心活動",
+      "venue": "衛武營國家藝術文化中心音樂廳",
+      "city": "鳳山區",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.facebook.com/share/1DqWo6nrXd/",
+      "organizer": "Viola｜Georgy Kovalev 格奧基 科瓦勒夫    Piano｜Akane Sakai 酒井 茜"
     },
     {
       "event_date": "2026-09-24",
