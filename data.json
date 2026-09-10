@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T05:13:47.431778+08:00",
+  "generated_at": "2026-09-11T05:13:26.225311+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "反過來想，總是反過來想。",
+      "quote": "如果我知道我會死在哪裡，我將永遠不去那個地方。",
       "author": "查理·蒙格",
-      "explanation": "在投資與生活中，比起思考如何才能成功，先思考如何避免失敗與愚蠢，往往能更容易達到目標。",
-      "reminder": "投資前請先評估最壞情況與潛在風險，確保風險可控後再進場。",
-      "date": "2026-09-10"
+      "explanation": "在投資與人生中，逆向思考至關重要。先找出導致失敗與重大虧損的原因並嚴格避免，往往比盲目追求成功更能確保長期穩健的報酬。",
+      "reminder": "入市前請務必優先評估潛在的最大風險與下行空間，嚴格執行止損與資產配置，避免陷入無法挽回的毀滅性打擊。",
+      "date": "2026-09-11"
     }
   ],
   "activities": [
@@ -219,6 +219,17 @@
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/event/2070320630652866561?srsltid=AfmBOopKWebAZz9vrcE-ibw-TCtPYuBb8R2GHkbwloAdBkcWraN-kQdD",
       "organizer": "雅卓藝術"
+    },
+    {
+      "event_date": "2026-09-12",
+      "end_date": "2026-10-03",
+      "title": "我們的繁榮，來自她們的每個清晨-平仙妮個展",
+      "category": "文化中心活動",
+      "venue": "藝站 One Station (香山車站前)",
+      "city": "香山區",
+      "summary": "文化部開放資料 (展覽)",
+      "url": "https://www.facebook.com/HsinchuXiangshan",
+      "organizer": "藝站 One Station"
     },
     {
       "event_date": "2026-09-12",
@@ -441,17 +452,6 @@
       "organizer": "(中華民國)國立臺灣歷史博物館"
     },
     {
-      "event_date": "2026-04-02",
-      "end_date": "2026-09-10",
-      "title": "【新月．音樂賞析】作曲家的浪漫一生：浪漫樂派六大家",
-      "category": "文化中心活動",
-      "venue": "新月藝文",
-      "city": "中山區",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.artfocus.com.tw/?,1286",
-      "organizer": "新月藝文"
-    },
-    {
       "event_date": "2026-01-01",
       "end_date": "2026-12-31",
       "title": "國史館臺灣文獻館史蹟大樓常設展",
@@ -591,7 +591,7 @@
       "category": "總經"
     },
     {
-      "date": "2026-09-11",
+      "date": "2026-09-15",
       "title": "美國 CPI 發布 (預估)",
       "category": "CPI"
     },
