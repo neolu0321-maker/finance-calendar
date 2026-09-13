@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-13T05:14:32.207340+08:00",
+  "generated_at": "2026-09-14T05:14:22.378045+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "在投資與生活中，與其盲目思考如何迅速致富，不如先思考如何避免失敗與毀滅。只要排除所有致命的錯誤與風險，成功的機率自然會大幅提升。",
-      "reminder": "在市場情緒高漲時，切忌盲目追高；先思考最壞的下情風險，做好風險管理再入場。",
-      "date": "2026-09-13"
+      "explanation": "面對複雜的市場與投資決策時，不要只思考「如何賺大錢」，而是先思考「做出什麼決定會導致慘賠」，然後竭盡所能去避免那些錯誤。",
+      "reminder": "在行情熱絡、人人爭相追高時，記得先逆向評估最壞情境與下行風險，保持頭腦清醒。",
+      "date": "2026-09-14"
     }
   ],
   "activities": [
@@ -210,17 +210,6 @@
       "organizer": ""
     },
     {
-      "event_date": "2026-09-13",
-      "end_date": "2026-09-13",
-      "title": "聽見島嶼的舞步-2026侯志正長笛作品集音樂會",
-      "category": "文化中心活動",
-      "venue": "兩廳院國家演奏廳",
-      "city": "中正區",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/event/2070320630652866561?srsltid=AfmBOopKWebAZz9vrcE-ibw-TCtPYuBb8R2GHkbwloAdBkcWraN-kQdD",
-      "organizer": "雅卓藝術"
-    },
-    {
       "event_date": "2026-09-12",
       "end_date": "2026-10-03",
       "title": "我們的繁榮，來自她們的每個清晨-平仙妮個展",
@@ -244,17 +233,6 @@
     },
     {
       "event_date": "2026-09-01",
-      "end_date": "2026-09-13",
-      "title": "光影漫衍 張綺舫創作個展",
-      "category": "文化中心活動",
-      "venue": "孟焦畫坊",
-      "city": "士林區",
-      "summary": "文化部開放資料 (展覽)",
-      "url": "https://www.facebook.com/LookingForwardGallery/",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-09-01",
       "end_date": "2026-12-08",
       "title": "建築版『穿著Prada的惡魔』Zaha Hadid特輯",
       "category": "文化中心活動",
@@ -263,17 +241,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://artfocus.com.tw/?,1300",
       "organizer": "新月藝文"
-    },
-    {
-      "event_date": "2026-08-29",
-      "end_date": "2026-09-13",
-      "title": "《二度刺秦宇宙》利志達個人畫展",
-      "category": "文化中心活動",
-      "venue": "陋室五月小風景",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (展覽)",
-      "url": "https://www.facebook.com/zuandpi/?locale=zh_TW",
-      "organizer": "陋室五月小風景"
     },
     {
       "event_date": "2026-08-29",
@@ -569,7 +536,7 @@
       "category": "總經"
     },
     {
-      "date": "2026-09-15",
+      "date": "2026-09-11",
       "title": "美國 CPI 發布 (預估)",
       "category": "CPI"
     },
