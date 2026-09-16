@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-16T05:15:17.604056+08:00",
+  "generated_at": "2026-09-17T05:15:55.926446+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
-      "author": "查理·蒙格 (Charlie Munger)",
-      "explanation": "在思考投資或人生問題時，不要只專注於如何獲得成功，而是要先思考如何避免失敗與愚蠢的決定。",
-      "reminder": "投資時多想想哪些行為會讓自己賠光本金，避開這些陷阱，成功自然隨之而來。",
-      "date": "2026-09-16"
+      "author": "查理·蒙格",
+      "explanation": "在思考投資決策時，與其專注於如何獲得巨大的成功，不如先思考哪些行為會導致毀滅性的失敗，並竭力避免它們。",
+      "reminder": "控制下行風險遠比預測上漲更為關鍵，永遠記得在市場熱絡時保留足夠的安全邊際。",
+      "date": "2026-09-17"
     }
   ],
   "activities": [
@@ -287,17 +287,6 @@
       "organizer": "首都藝術中心 Capital Art Center"
     },
     {
-      "event_date": "2026-08-16",
-      "end_date": "2026-09-16",
-      "title": "智慧型手機化身樂器 《愛的總動員》臺東聲音藝術節亞洲首演",
-      "category": "文化中心活動",
-      "venue": "跨國互動式聲音藝術《愛的總動員》臺東聲音藝術節亞洲首演",
-      "city": "臺東美",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://tour.taitung.gov.tw/zh-tw/event-calendar/details/6273",
-      "organizer": "Amir Shpilman Studio"
-    },
-    {
       "event_date": "2026-08-04",
       "end_date": "2027-05-23",
       "title": "【特展預告】一座博物館的誕生：藝術化世十年探索與實踐",
@@ -536,7 +525,7 @@
       "category": "總經"
     },
     {
-      "date": "2026-09-11",
+      "date": "2026-09-10",
       "title": "美國 CPI 發布 (預估)",
       "category": "CPI"
     },
