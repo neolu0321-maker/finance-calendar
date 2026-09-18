@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-18T05:15:16.458772+08:00",
+  "generated_at": "2026-09-19T05:14:23.726491+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "反過來想，總是反過來想。",
-      "author": "查理·蒙格",
-      "explanation": "在思考投資或解決問題時，與其苦思如何獲得成功，不如反向思考如何避免失敗與愚蠢的決定。",
-      "reminder": "市場充滿誘惑，先確保自己不犯下毀滅性的錯誤，長期報酬自然會隨之而來。",
-      "date": "2026-09-18"
+      "quote": "小狗跑在主人前面，但最終還是會回到主人身邊。",
+      "author": "安德烈·科斯托蘭尼",
+      "explanation": "主人代表經濟基本面，小狗代表股市價格。短期內股價可能因市場情緒過度狂熱或悲觀而大幅偏離經濟現實，但長期而言，價格終究會回歸內在價值。",
+      "reminder": "投資時切忌隨市場短期波動起舞，應保持理性並專注於長期基本面與企業價值的變化。",
+      "date": "2026-09-19"
     }
   ],
   "activities": [
@@ -133,6 +133,17 @@
       "organizer": "Viola｜Georgy Kovalev 格奧基 科瓦勒夫    Piano｜Akane Sakai 酒井 茜"
     },
     {
+      "event_date": "2026-09-26",
+      "end_date": "2026-10-17",
+      "title": "《Watershed 分水嶺》王綺穗 個展",
+      "category": "美術館展覽",
+      "venue": "阿波羅畫廊",
+      "city": "忠孝東",
+      "summary": "文化部開放資料 (展覽)",
+      "url": "https://artgalleryapollo.com/2021/event/%e5%88%86%e6%b0%b4%e5%b6%ba%ef%bd%9c%e7%8e%8b%e7%b6%ba%e7%a9%97-%e5%80%8b%e5%b1%95-watershed-solo-exhibition-by-wang-chi-sui/",
+      "organizer": "阿波羅畫廊"
+    },
+    {
       "event_date": "2026-09-24",
       "end_date": "2026-10-15",
       "title": "「閱圖讀文」雙獎聯展-全國學生圖畫書創作獎及教育部文藝創作獎得獎作品展",
@@ -186,17 +197,6 @@
       "summary": "文化部開放資料 (親子與綜合)",
       "url": "https://arts.nycu.edu.tw/alive-pre-performance-theatre-workshop/",
       "organizer": ""
-    },
-    {
-      "event_date": "2026-09-18",
-      "end_date": "2026-09-18",
-      "title": "【新月．藝術鑑賞】墨染鄉土．現代水墨的在地美學",
-      "category": "文化中心活動",
-      "venue": "新月藝文",
-      "city": "中山區",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLScHbu7kA_Uox4CMnER7H5s7nnro2X9jmSOrhWHGSGd67QPv-w/viewform?usp=header",
-      "organizer": "新月藝文"
     },
     {
       "event_date": "2026-09-18",
