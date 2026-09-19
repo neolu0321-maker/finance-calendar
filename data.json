@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-19T05:14:23.726491+08:00",
+  "generated_at": "2026-09-20T05:14:06.371916+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "小狗跑在主人前面，但最終還是會回到主人身邊。",
-      "author": "安德烈·科斯托蘭尼",
-      "explanation": "主人代表經濟基本面，小狗代表股市價格。短期內股價可能因市場情緒過度狂熱或悲觀而大幅偏離經濟現實，但長期而言，價格終究會回歸內在價值。",
-      "reminder": "投資時切忌隨市場短期波動起舞，應保持理性並專注於長期基本面與企業價值的變化。",
-      "date": "2026-09-19"
+      "quote": "反過來想，總是反過來想。",
+      "author": "查理·蒙格",
+      "explanation": "在投資與生活中，與其思考如何才能成功，不如先列出所有會導致失敗的行為並努力避免。只要能持續避開致命的錯誤，長期而言自然能取得優秀的成績。",
+      "reminder": "在市場熱絡時，請先思考若大盤出現大幅修正，自己的資產與心態是否能夠承受，而不是只關注能賺取多少利潤。",
+      "date": "2026-09-20"
     }
   ],
   "activities": [
@@ -199,17 +199,6 @@
       "organizer": ""
     },
     {
-      "event_date": "2026-09-18",
-      "end_date": "2026-09-19",
-      "title": "2026EMBA雜誌【策略破框】2天實戰工作坊，9月場",
-      "category": "文化中心活動",
-      "venue": "崇友文教基金會",
-      "city": "中正區",
-      "summary": "文化部開放資料 (親子與綜合)",
-      "url": "https://www.plus.emba.com.tw/%E7%AD%96%E7%95%A5%E7%A0%B4%E6%A1%862%E5%A4%A9%E5%AF%A6%E6%88%B0%E5%B7%A5%E4%BD%9C%E5%9D%8A",
-      "organizer": ""
-    },
-    {
       "event_date": "2026-09-12",
       "end_date": "2026-10-03",
       "title": "我們的繁榮，來自她們的每個清晨-平仙妮個展",
@@ -276,17 +265,6 @@
       "organizer": ""
     },
     {
-      "event_date": "2026-08-21",
-      "end_date": "2026-09-19",
-      "title": "微光日常 —— 劉漢文個展",
-      "category": "美術館展覽",
-      "venue": "首都藝術中心 Capital Art Center",
-      "city": "大安區",
-      "summary": "文化部開放資料 (展覽)",
-      "url": "https://www.capitalart.com.tw/exhibitions/157.html",
-      "organizer": "首都藝術中心 Capital Art Center"
-    },
-    {
       "event_date": "2026-08-04",
       "end_date": "2027-05-23",
       "title": "【特展預告】一座博物館的誕生：藝術化世十年探索與實踐",
@@ -340,17 +318,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.artfocus.com.tw/?,1248",
       "organizer": "新月藝文"
-    },
-    {
-      "event_date": "2026-06-30",
-      "end_date": "2026-09-20",
-      "title": "科技藝想樂園",
-      "category": "文化中心活動",
-      "venue": "第1、2展覽廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (展覽)",
-      "url": "https://www.arte.gov.tw/pro1_exh_now.asp?KeyID=4563",
-      "organizer": ""
     },
     {
       "event_date": "2026-05-30",
