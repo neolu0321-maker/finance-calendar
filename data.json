@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-24T07:30:47.214947+08:00",
+  "generated_at": "2026-09-25T07:48:49.608489+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "小狗跑在主人前面，但最後還是會回到主人身邊。",
-      "author": "安德烈·科斯托蘭尼",
-      "explanation": "小狗代表股票價格，主人代表經濟基本面。短期內股價會因為市場情緒或資金炒作爆漲爆跌，但長期來看，價格最終必定會回歸到企業與經濟的真實內在價值。",
-      "reminder": "當市場陷入極端狂熱或恐慌時，請務必保持理性，專注於基本面，切勿盲目追高殺低。",
-      "date": "2026-09-24"
+      "quote": "反過來想，總是反過來想。",
+      "author": "查理·蒙格",
+      "explanation": "在投資與決策時，與其盲目思考如何才能賺大錢，不如先反向思考如何才會導致虧損與破產。只要設法避開所有可能帶來毀滅性打擊的錯誤，成功的機率自然大幅提升。",
+      "reminder": "當市場情緒高漲、眾人爭相追高時，請務必反向思考最壞的潛在風險，確保資產安全永遠放在第一位。",
+      "date": "2026-09-25"
     }
   ],
   "activities": [
@@ -243,6 +243,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "title": "極地之光管弦樂團《德意志浪漫交響》",
+      "category": "文化中心活動",
+      "venue": "衛武營國家藝術文化中心音樂廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2064988549014851585",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-11-25",
       "end_date": "2026-11-25",
       "title": "2026探索管風琴音樂《管風琴與天籟》",
@@ -427,6 +438,17 @@
       "city": "高雄市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2052306394696761345",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-11-11",
+      "end_date": "2026-11-11",
+      "title": "《雅聲櫻舞・韻染東瀛》雅韻合唱團與日本音樂家之夜",
+      "category": "文化中心活動",
+      "venue": "衛武營國家藝術文化中心表演廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2070066032631992320",
       "organizer": ""
     },
     {
@@ -914,6 +936,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-10-10",
+      "end_date": "2026-10-10",
+      "title": "2026臺灣國際大提琴藝術節─東西交響《絢麗篇》",
+      "category": "文化中心活動",
+      "venue": "國家兩廳院演奏廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2062095105110286336",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-10-09",
       "end_date": "2026-10-09",
       "title": "當是貝多芬I：光啓之時",
@@ -944,6 +977,17 @@
       "city": "高雄市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2011666592979537921",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-08",
+      "end_date": "2026-10-08",
+      "title": "東西交響—大提琴名家 & TCO",
+      "category": "文化中心活動",
+      "venue": "國家音樂廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2068886907321294849",
       "organizer": ""
     },
     {
@@ -1277,50 +1321,6 @@
       "organizer": ""
     },
     {
-      "event_date": "2026-09-24",
-      "end_date": "2026-09-24",
-      "title": "『台日火花.隨想禮讚II』坂橋矢波與隨想愛樂三重奏",
-      "category": "文化中心活動",
-      "venue": "國家兩廳院演奏廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2044678422602534913",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-09-24",
-      "end_date": "2026-09-24",
-      "title": "法國號詩學",
-      "category": "文化中心活動",
-      "venue": "高雄市音樂館",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2054413262648524801",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-09-24",
-      "end_date": "2026-09-24",
-      "title": "2026蔡承翰小提琴獨奏會",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心表演廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2054449338462523393",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-09-24",
-      "end_date": "2026-09-24",
-      "title": "《The Road is Life》2026鳳山高中校友管樂團年度音樂會",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心音樂廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2065041869470478337",
-      "organizer": ""
-    },
-    {
       "event_date": "2026-09-22",
       "end_date": "2026-10-13",
       "title": "《你好不好？》演前戲劇工作坊",
@@ -1352,6 +1352,17 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://tcsac.taichung.gov.tw/Activity/Activity_More?id=81bc2ff98bd4407aa40d1aeaca3be0b3",
       "organizer": "(中華民國)臺中市港區藝術中心"
+    },
+    {
+      "event_date": "2026-07-10",
+      "end_date": "2026-10-09",
+      "title": "【新月．音樂賞析】認識古典音樂產業的火車頭 - 交響曲Symphony(2)",
+      "category": "文化中心活動",
+      "venue": "中山區（臺北市）=",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://forms.gle/AqX5x2EwkAbcfKWM7",
+      "organizer": "(中華民國)彭廣林"
     },
     {
       "event_date": "2026-07-08",
@@ -1649,17 +1660,6 @@
       "summary": "文化部開放資料 (展覽)",
       "url": "https://www.th.gov.tw/new_site/index.php",
       "organizer": "(中華民國)黃金田"
-    },
-    {
-      "event_date": "2026-01-01",
-      "end_date": "2026-12-31",
-      "title": "第三特展室（兒童館）：客庄遊樂去－探索客庄生活智慧及節慶生活",
-      "category": "文化中心活動",
-      "venue": "臺灣客家文化館（客家委員會客家文化發展中心）",
-      "city": "苗栗縣",
-      "summary": "文化部開放資料 (展覽)",
-      "url": "https://thcdc.hakka.gov.tw/1241/1258/7372/8011/post",
-      "organizer": "(中華民國)客家委員會客家文化發展中心"
     }
   ],
   "events": [
