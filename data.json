@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-26T07:54:36.102731+08:00",
+  "generated_at": "2026-09-27T07:27:17.088435+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "不要在乾草堆裡找針，買下整個乾草堆。",
-      "author": "約翰·柏格",
-      "explanation": "不要試圖去挑選極少數能勝過市場的單一飆股，而是直接購買涵蓋整個市場的指數型基金，享受整體經濟成長的紅利。",
-      "reminder": "頻繁交易與預測市場大多只會徒增手續費與心理負擔，保持低成本並長期持有才是資產穩健增長的關鍵。",
-      "date": "2026-09-26"
+      "quote": "反過來想，總是反過來想。",
+      "author": "查理·蒙格",
+      "explanation": "思考投資決策時，不要只專注於如何快速獲利，而是先思考哪些錯誤會導致嚴重虧損，並全力避免這些致命陷阱。",
+      "reminder": "入場前先做好風險管理與最壞打算，避免盲目樂觀帶來的災難性損失。",
+      "date": "2026-09-27"
     }
   ],
   "activities": [
@@ -20,6 +20,28 @@
       "city": "臺中市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2068951869855346689",
+      "organizer": ""
+    },
+    {
+      "event_date": "2027-01-09",
+      "end_date": "2027-01-09",
+      "title": "2027風動室內樂團《無限》電影配樂音樂會",
+      "category": "文化中心活動",
+      "venue": "臺中市中山堂",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2069253113025007617",
+      "organizer": ""
+    },
+    {
+      "event_date": "2027-01-08",
+      "end_date": "2027-01-08",
+      "title": "2027風動室內樂團《無限》ACG交響音樂會",
+      "category": "文化中心活動",
+      "venue": "臺中市中山堂",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2068970591988879361",
       "organizer": ""
     },
     {
@@ -142,6 +164,17 @@
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://event.culture.tw/mocweb/reg/CHCSEC/Detail.init.ctr?actId=60309",
       "organizer": "(中華民國)彰化青年管樂團"
+    },
+    {
+      "event_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "title": "【2026聲浪藝術節】聖誕魔幻音符",
+      "category": "文化中心活動",
+      "venue": "恆春文化中心劇場館表演廳",
+      "city": "屏東縣",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2071876226227695617",
+      "organizer": ""
     },
     {
       "event_date": "2026-12-13",
@@ -1058,6 +1091,17 @@
     },
     {
       "event_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "title": "《島鳴》",
+      "category": "文化中心活動",
+      "venue": "新竹縣政府文化局演藝廳",
+      "city": "新竹縣",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2072195909995245569",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-04",
       "end_date": "2026-10-18",
       "title": "2026年10月【員林市立圖書館-說故事活動】共2場",
       "category": "圖書館講座",
@@ -1286,50 +1330,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.facebook.com/yuanlinlibrary",
       "organizer": "(中華民國)員林市立圖書館"
-    },
-    {
-      "event_date": "2026-09-26",
-      "end_date": "2026-09-26",
-      "title": "【2026 TSO 室內沙龍】從陰影到光亮──蔡弦修中提琴獨奏會",
-      "category": "文化中心活動",
-      "venue": "國家兩廳院演奏廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2028381927359692800",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-09-26",
-      "end_date": "2026-09-26",
-      "title": "寶塚OG夢幻舞台《築夢之橋》",
-      "category": "文化中心活動",
-      "venue": "丰二三晨露廳",
-      "city": "臺中市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2047993997244669953",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-09-26",
-      "end_date": "2026-09-26",
-      "title": "《光之勇士》讚頌演唱會",
-      "category": "文化中心活動",
-      "venue": "高雄流行音樂中心 海音館",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2060291516934070273",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-09-26",
-      "end_date": "2026-09-26",
-      "title": "科瓦勒夫亞洲巡迴 - 臺灣首演",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心音樂廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2066450884948570113",
-      "organizer": ""
     },
     {
       "event_date": "2026-09-22",
