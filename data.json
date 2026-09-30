@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-29T08:53:47.656430+08:00",
+  "generated_at": "2026-09-30T08:13:58.961936+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "在投資與生活中，與其思考如何成功，不如先找出會導致失敗與毀滅的原因，並極力避免它們。",
-      "reminder": "投資前先評估風險與最壞打算，遠比盲目追求高報酬更能確保長期資產的安全與成長。",
-      "date": "2026-09-29"
+      "explanation": "在投資與人生中，比起盲目追求「如何成功」，不如先仔細思考「如何會導致失敗」，然後嚴格避開那些致命錯誤。",
+      "reminder": "當市場熱情高漲時，先別急著計算能賺多少，反過來想想有什麼風險會讓你虧損本金。",
+      "date": "2026-09-30"
     }
   ],
   "activities": [
@@ -273,6 +273,17 @@
       "city": "臺中市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2010907685806804993",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-12-04",
+      "end_date": "2026-12-04",
+      "title": "安德烈亞・范佐 Intimacy Vol.2 鋼琴演奏會台灣站",
+      "category": "文化中心活動",
+      "venue": "臺北市政大樓親子劇場",
+      "city": "台北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1COVZN7",
       "organizer": ""
     },
     {
@@ -1310,17 +1321,6 @@
       "organizer": ""
     },
     {
-      "event_date": "2026-09-29",
-      "end_date": "2026-09-29",
-      "title": "狂美《璀璨經典百老匯》交響音樂會-2026震撼再現",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心音樂廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/1989181657008705537",
-      "organizer": ""
-    },
-    {
       "event_date": "2026-09-22",
       "end_date": "2026-10-13",
       "title": "《你好不好？》演前戲劇工作坊",
@@ -1341,6 +1341,17 @@
       "summary": "文化部開放資料 (親子與綜合)",
       "url": "https://www.instagram.com/hi.kyoo/",
       "organizer": ""
+    },
+    {
+      "event_date": "2026-09-01",
+      "end_date": "2026-12-08",
+      "title": "建築版『穿著Prada的惡魔』Zaha Hadid特輯",
+      "category": "文化中心活動",
+      "venue": "新月藝文",
+      "city": "中山區",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://artfocus.com.tw/?,1300",
+      "organizer": "新月藝文"
     },
     {
       "event_date": "2026-07-24",
@@ -1365,6 +1376,17 @@
       "organizer": "(中華民國)彭廣林"
     },
     {
+      "event_date": "2026-07-10",
+      "end_date": "2026-10-09",
+      "title": "認識古典音樂產業的火車頭 - 交響曲Symphony(二)",
+      "category": "文化中心活動",
+      "venue": "新月藝文",
+      "city": "中山區",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://artfocus.com.tw/?,1296",
+      "organizer": "新月藝文"
+    },
+    {
       "event_date": "2026-07-08",
       "end_date": "2026-12-30",
       "title": "【新月．藝文講座】西洋藝術鑑賞．20世紀混亂的新世界",
@@ -1374,6 +1396,17 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://forms.gle/Vvejnh2tzqiSzeNi8",
       "organizer": "(中華民國)邱建一"
+    },
+    {
+      "event_date": "2026-07-08",
+      "end_date": "2026-12-30",
+      "title": "【新月．藝術鑑賞】西洋藝術鑑賞：20世紀．混亂的新世界",
+      "category": "文化中心活動",
+      "venue": "新月藝文",
+      "city": "中山區",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.artfocus.com.tw/?,1275",
+      "organizer": "新月藝文"
     },
     {
       "event_date": "2026-07-06",
@@ -1418,6 +1451,17 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.facebook.com/YuShanNationalPark",
       "organizer": "(中華民國)玉山國家公園管理處志工"
+    },
+    {
+      "event_date": "2026-05-30",
+      "end_date": "2026-11-30",
+      "title": "【新月．行程講座】從高第到伊東豊雄．北西班牙建築美學行旅 ",
+      "category": "文化中心活動",
+      "venue": "新月藝文",
+      "city": "中山區",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.artfocus.com.tw/?,1292",
+      "organizer": "新月藝文"
     },
     {
       "event_date": "2026-05-09",
@@ -1616,50 +1660,6 @@
       "summary": "文化部開放資料 (展覽)",
       "url": "https://culture.bocach.gov.tw/portfolio/",
       "organizer": "(中華民國)羅厝天主堂文物館"
-    },
-    {
-      "event_date": "2026-01-01",
-      "end_date": "2026-12-31",
-      "title": "亮光與暗影：1945年前後的臺灣重要史料微型展",
-      "category": "文化中心活動",
-      "venue": "國史館臺灣文獻館",
-      "city": "南投縣",
-      "summary": "文化部開放資料 (展覽)",
-      "url": "https://www.th.gov.tw/new_site/index.php",
-      "organizer": "(中華民國)國史館臺灣文獻館"
-    },
-    {
-      "event_date": "2026-01-01",
-      "end_date": "2026-12-31",
-      "title": "漫遊里山-地方特色工藝材質展",
-      "category": "文化中心活動",
-      "venue": "國立臺灣工藝研究發展中心（臺灣工藝文化園區）",
-      "city": "南投縣",
-      "summary": "文化部開放資料 (展覽)",
-      "url": "https://www.ntcri.gov.tw/home/zh-tw",
-      "organizer": "(中華民國)國立臺灣工藝研究發展中心"
-    },
-    {
-      "event_date": "2026-01-01",
-      "end_date": "2026-12-31",
-      "title": "國史館臺灣文獻館史蹟大樓常設展",
-      "category": "文化中心活動",
-      "venue": "國史館臺灣文獻館",
-      "city": "南投縣",
-      "summary": "文化部開放資料 (展覽)",
-      "url": "http://www.th.gov.tw/new_index/index.php",
-      "organizer": "(中華民國)國史館臺灣文獻館"
-    },
-    {
-      "event_date": "2026-01-01",
-      "end_date": "2026-12-31",
-      "title": "國史館臺灣文獻館文物大樓常設展",
-      "category": "文化中心活動",
-      "venue": "國史館臺灣文獻館",
-      "city": "南投縣",
-      "summary": "文化部開放資料 (展覽)",
-      "url": "https://www.th.gov.tw/",
-      "organizer": "(中華民國)國史館臺灣文獻館"
     }
   ],
   "events": [
