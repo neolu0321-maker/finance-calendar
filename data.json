@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-30T08:13:58.961936+08:00",
+  "generated_at": "2026-10-01T08:26:22.793411+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "反過來想，總是反過來想。",
-      "author": "查理·蒙格",
-      "explanation": "在投資與人生中，比起盲目追求「如何成功」，不如先仔細思考「如何會導致失敗」，然後嚴格避開那些致命錯誤。",
-      "reminder": "當市場熱情高漲時，先別急著計算能賺多少，反過來想想有什麼風險會讓你虧損本金。",
-      "date": "2026-09-30"
+      "quote": "小狗跑在主人前面，但最後總是會回到主人身邊。",
+      "author": "安德烈·科斯托蘭尼 (André Kostolany)",
+      "explanation": "主人代表經濟基本面，小狗代表股市價格。短期內股價會因為市場情緒過度樂觀或悲觀而偏離基本面，但長期來看，價格終將回歸經濟與企業的實際價值。",
+      "reminder": "切勿在市場狂熱時盲目追高，也別在恐慌時隨意殺低；看清基本面的發展方向，才能安定地持有優質資產。",
+      "date": "2026-10-01"
     }
   ],
   "activities": [
@@ -1167,6 +1167,17 @@
       "organizer": "(中華民國)員林市立圖書館志工、彰化縣故事閱讀協會"
     },
     {
+      "event_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "title": "苗北藝術學苑-2026苗北講堂III：打擊樂、豎琴與鍵盤樂器-節奏、色彩與特殊音響《從定音鼓到鋼片琴與鋼琴，聽見管弦樂中的各種敲擊之聲》",
+      "category": "文化中心活動",
+      "venue": "苗栗縣苗北藝文中心",
+      "city": "苗栗縣",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.miaobeiac.org/",
+      "organizer": "(中華民國)林仁斌"
+    },
+    {
       "event_date": "2026-10-03",
       "end_date": "2026-10-03",
       "title": "亞歷山大．李維《Miedka：野性面容》",
@@ -1329,17 +1340,6 @@
       "city": "陽明交",
       "summary": "文化部開放資料 (親子與綜合)",
       "url": "https://arts.nycu.edu.tw/alive-pre-performance-theatre-workshop/",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-09-02",
-      "end_date": "2026-09-30",
-      "title": "《好好回來》Season 01｜臺北閱讀空間系列",
-      "category": "文化中心活動",
-      "venue": "臺北閱讀空間系列",
-      "city": "線上",
-      "summary": "文化部開放資料 (親子與綜合)",
-      "url": "https://www.instagram.com/hi.kyoo/",
       "organizer": ""
     },
     {
@@ -1664,27 +1664,27 @@
   ],
   "events": [
     {
-      "date": "2026-09-04",
-      "title": "美國非農就業報告 (NFP)",
-      "category": "總經"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "美國 CPI 發布 (預估)",
-      "category": "CPI"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "台指期與選擇權結算",
-      "category": "期貨"
-    },
-    {
       "date": "2026-10-02",
       "title": "美國非農就業報告 (NFP)",
       "category": "總經"
     },
     {
+      "date": "2026-10-14",
+      "title": "美國 CPI 發布 (預估)",
+      "category": "CPI"
+    },
+    {
       "date": "2026-10-21",
+      "title": "台指期與選擇權結算",
+      "category": "期貨"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "美國非農就業報告 (NFP)",
+      "category": "總經"
+    },
+    {
+      "date": "2026-11-18",
       "title": "台指期與選擇權結算",
       "category": "期貨"
     }
