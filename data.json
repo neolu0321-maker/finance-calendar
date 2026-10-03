@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-03T08:19:07.697573+08:00",
+  "generated_at": "2026-10-04T07:40:47.782584+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "與其思考如何獲利，不如先思考如何避免致命的錯誤與虧損。擺脫愚蠢比展現聰明更能帶來長期成功的投資結果。",
-      "reminder": "在做出任何投資決策前，先列出所有可能導致虧損的極端情境，確定自己能承受最壞風險後再進場。",
-      "date": "2026-10-03"
+      "explanation": "在投資與人生中，避免犯下重大錯誤比試圖做出極其聰明的決定更重要。透過逆向思考，先找出可能導致失敗的因素並嚴格規避，長期下來回報自然隨之而來。",
+      "reminder": "在做任何投資決策前，請先思考『這筆交易最糟糕會怎麼輸光』，先做好風險防禦而非盲目期待獲利。",
+      "date": "2026-10-04"
     }
   ],
   "activities": [
@@ -221,6 +221,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-12-10",
+      "end_date": "2026-12-10",
+      "title": "《光影與詩》馬利歐．凡薩戈、帕斯卡．羅傑與NSO",
+      "category": "文化中心活動",
+      "venue": "國家音樂廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2071788709521534976",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-12-09",
       "end_date": "2026-12-09",
       "title": "【2026衛武營小時光】茱蒂口琴樂團《跟著口琴去旅行》",
@@ -328,6 +339,17 @@
       "city": "高雄市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2064988549014851585",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-11-27",
+      "end_date": "2026-11-27",
+      "title": "勇源音樂饗宴：四十週年系列《馬勒第八，千人》",
+      "category": "文化中心活動",
+      "venue": "國家音樂廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2071531444179013633",
       "organizer": ""
     },
     {
@@ -617,6 +639,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-11-04",
+      "end_date": "2026-11-04",
+      "title": "2026秋天藝術節【藝術家對談】共存的想像：菲利普．肯恩 × 李貞葳 × 法庫亞．佐坦",
+      "category": "文化中心活動",
+      "venue": "國家戲劇院四樓交誼廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2077963745139183617",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-11-03",
       "end_date": "2026-11-03",
       "title": "絢麗系列 — 歐拉夫森鋼琴獨奏會",
@@ -683,6 +716,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "title": "時代的軌跡–扎斯拉夫斯基獨奏",
+      "category": "文化中心活動",
+      "venue": "衛武營國家藝術文化中心表演廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2072870491394531328",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-10-30",
       "end_date": "2026-10-30",
       "title": "【2026 TSO 大師系列】殷巴爾、齊柏絲坦與TSO",
@@ -702,6 +746,17 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2032338803290832897",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-26",
+      "end_date": "2026-10-26",
+      "title": "2026 王昱翔薩克斯風獨奏會-法國作品集 II",
+      "category": "文化中心活動",
+      "venue": "衛武營國家藝術文化中心表演廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2074437015481688065",
       "organizer": ""
     },
     {
@@ -790,6 +845,17 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2074402517626675201",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-22",
+      "end_date": "2026-10-22",
+      "title": "四十週年系列《簡文彬 、薇薇安．哈格納與NSO》",
+      "category": "文化中心活動",
+      "venue": "國家音樂廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2071441935697416192",
       "organizer": ""
     },
     {
@@ -947,6 +1013,17 @@
       "organizer": "(中華民國)莊鈺惠"
     },
     {
+      "event_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "title": "2026北藝散步：士林街區導覽",
+      "category": "美術館展覽",
+      "venue": "臺北表演藝術中心",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2067154178015539201",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-10-16",
       "end_date": "2026-10-16",
       "title": "《協奏曲》2026黃楚涵鋼琴獨奏會",
@@ -955,6 +1032,17 @@
       "city": "高雄市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2066438193235144705",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "title": "顏華容2026鋼琴獨奏會II–水・樂",
+      "category": "文化中心活動",
+      "venue": "臺中國家歌劇院小劇場",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2074331493916798976",
       "organizer": ""
     },
     {
@@ -1213,6 +1301,17 @@
     {
       "event_date": "2026-10-04",
       "end_date": "2026-10-04",
+      "title": "2026朱宗慶打擊樂團擊樂劇場《六部曲》",
+      "category": "文化中心活動",
+      "venue": "國家戲劇院",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2064989613489934337",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-04",
+      "end_date": "2026-10-04",
       "title": "《島鳴》",
       "category": "文化中心活動",
       "venue": "新竹縣政府文化局演藝廳",
@@ -1242,105 +1341,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.miaobeiac.org/",
       "organizer": "(中華民國)林仁斌"
-    },
-    {
-      "event_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "title": "亞歷山大．李維《Miedka：野性面容》",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心表演廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2050557592687513601",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "title": "2026臺東藝術節《蝙蝠》歌劇音樂會",
-      "category": "文化中心活動",
-      "venue": "臺東縣政府文化處藝文中心演藝廳",
-      "city": "臺東縣",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2054813652109467649",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "title": "華麗的探戈｜皮亞佐拉五重奏",
-      "category": "文化中心活動",
-      "venue": "國家音樂廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2062364642343882753",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "title": "2026朱宗慶打擊樂團擊樂劇場《六部曲》",
-      "category": "文化中心活動",
-      "venue": "國家戲劇院",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2064989613489934337",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "title": "奇美音樂節【燦爛的深邃：布拉姆斯與他的時代】抒情雋永的低吟魔法：德奧大提琴奏鳴曲經典",
-      "category": "博物館活動",
-      "venue": "奇美博物館奇美廳",
-      "city": "臺南市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2061376604485722112",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "title": "《哀歌與禮讚: 一段穿越旋律轉化與創新的音樂旅程》",
-      "category": "文化中心活動",
-      "venue": "新竹縣政府文化局演藝廳",
-      "city": "新竹縣",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2072206343936102400",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "title": "2026年10月【和美鎮立圖書館-歡樂溫馨說故事活動】",
-      "category": "圖書館講座",
-      "venue": "彰化縣和美鎮立圖書館",
-      "city": "彰化縣",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.facebook.com/profile.php?id=100064506377025",
-      "organizer": "(中華民國)和美鎮立圖書館"
-    },
-    {
-      "event_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "title": "2026「書香彰化—與大師有約」陳宥達：半線書香，閱讀處方",
-      "category": "文化中心活動",
-      "venue": "北斗鎮（彰化縣）=",
-      "city": "彰化縣",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.bocach.gov.tw/News_Content.aspx?n=1241&s=50518",
-      "organizer": "(中華民國)陳宥達"
-    },
-    {
-      "event_date": "2026-10-03",
-      "end_date": "2026-10-03",
-      "title": "TPAC會員限定：《身體的隱形連線》表演體驗課",
-      "category": "美術館展覽",
-      "venue": "臺北表演藝術中心 11樓排練場4",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.opentix.life/program/2060265544164958209",
-      "organizer": ""
     },
     {
       "event_date": "2026-09-22",
