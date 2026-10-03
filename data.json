@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-02T08:37:05.376042+08:00",
+  "generated_at": "2026-10-03T08:19:07.697573+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "賺大錢靠的不是思考，而是耐心地坐著等待。",
-      "author": "傑西·李佛摩",
-      "explanation": "頻繁進出市場往往只會增加交易成本與犯錯機率，真正可觀的利潤來自於看準大趨勢後的耐心抱牢。",
-      "reminder": "在市場波動時保持定力，切忌頻繁追高殺低，學會給予優質部位足夠的時間發酵。",
-      "date": "2026-10-02"
+      "quote": "反過來想，總是反過來想。",
+      "author": "查理·蒙格",
+      "explanation": "與其思考如何獲利，不如先思考如何避免致命的錯誤與虧損。擺脫愚蠢比展現聰明更能帶來長期成功的投資結果。",
+      "reminder": "在做出任何投資決策前，先列出所有可能導致虧損的極端情境，確定自己能承受最壞風險後再進場。",
+      "date": "2026-10-03"
     }
   ],
   "activities": [
@@ -586,6 +586,17 @@
     {
       "event_date": "2026-11-07",
       "end_date": "2026-11-07",
+      "title": "我只在乎你 - 鄧麗君名曲交響之夜",
+      "category": "文化中心活動",
+      "venue": "衛武營國家藝術文化中心音樂廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2074043552615690241",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-11-07",
+      "end_date": "2026-11-07",
       "title": "2026年11月【和美鎮立圖書館-歡樂溫馨說故事活動】",
       "category": "圖書館講座",
       "venue": "彰化縣和美鎮立圖書館",
@@ -771,6 +782,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-10-22",
+      "end_date": "2026-10-22",
+      "title": "2026《蘭心揚韵》台北室內女聲合唱團 4 專場音樂會",
+      "category": "文化中心活動",
+      "venue": "台北生技園區多功能廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2074402517626675201",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-10-21",
       "end_date": "2026-10-21",
       "title": "【2026衛武營小時光】韓國傳統說唱故事《水底王國，彼岸之歌》",
@@ -824,6 +846,17 @@
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2049025062059745280",
       "organizer": ""
+    },
+    {
+      "event_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "title": "苗北藝術學苑-2026苗北講堂III：管弦總動員-搭配人聲昇華為終極交響宇宙心靈之聲《從貝多芬《合唱》到馬勒《復活》，人聲與交響詮釋出管弦樂至高境界》",
+      "category": "文化中心活動",
+      "venue": "苗栗縣苗北藝文中心",
+      "city": "苗栗縣",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.miaobeiac.org/",
+      "organizer": "(中華民國)林仁斌"
     },
     {
       "event_date": "2026-10-17",
@@ -1112,6 +1145,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-10-06",
+      "end_date": "2026-10-06",
+      "title": "《花漾50》台北室內50混聲合唱團十五周年音樂會",
+      "category": "文化中心活動",
+      "venue": "臺北市中山堂中正廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2074114129161904128",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-10-04",
       "end_date": "2026-10-04",
       "title": "屏東演藝廳《沙龍音樂會》",
@@ -1120,6 +1164,17 @@
       "city": "屏東縣",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2013173153050226689",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "title": "《失速在B612行星之後？》說書音樂會",
+      "category": "文化中心活動",
+      "venue": "國家兩廳院實驗劇場",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2046062449614901248",
       "organizer": ""
     },
     {
@@ -1224,6 +1279,17 @@
     {
       "event_date": "2026-10-03",
       "end_date": "2026-10-03",
+      "title": "2026朱宗慶打擊樂團擊樂劇場《六部曲》",
+      "category": "文化中心活動",
+      "venue": "國家戲劇院",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2064989613489934337",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-03",
+      "end_date": "2026-10-03",
       "title": "奇美音樂節【燦爛的深邃：布拉姆斯與他的時代】抒情雋永的低吟魔法：德奧大提琴奏鳴曲經典",
       "category": "博物館活動",
       "venue": "奇美博物館奇美廳",
@@ -1274,61 +1340,6 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.opentix.life/program/2060265544164958209",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-02",
-      "end_date": "2026-10-02",
-      "title": "【2026 TSO 首席指揮】里柏瑞契與TSO─抒情‧交響曲",
-      "category": "文化中心活動",
-      "venue": "國家音樂廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/1992888855001788417",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-02",
-      "end_date": "2026-10-02",
-      "title": "《失速在B612行星之後？》說書音樂會",
-      "category": "文化中心活動",
-      "venue": "宜蘭演藝廳",
-      "city": "宜蘭縣",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2046062449614901248",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-02",
-      "end_date": "2026-10-02",
-      "title": "「爵士禾聲」系列音樂會 #06｜DonSir《康達效應》",
-      "category": "文化中心活動",
-      "venue": "禾禾文化空間",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2064243052747730945",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-02",
-      "end_date": "2026-10-02",
-      "title": "2026朱宗慶打擊樂團擊樂劇場《六部曲》",
-      "category": "文化中心活動",
-      "venue": "國家戲劇院",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2064989613489934337",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-02",
-      "end_date": "2026-10-02",
-      "title": "《跨世代之聲》",
-      "category": "文化中心活動",
-      "venue": "新竹縣政府文化局演藝廳",
-      "city": "新竹縣",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2072211480829239297",
       "organizer": ""
     },
     {
@@ -1649,17 +1660,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "http://www.hsinrong.org/",
       "organizer": "(中華民國)林盈銓"
-    },
-    {
-      "event_date": "2026-01-02",
-      "end_date": "2026-12-31",
-      "title": "彰化縣歷史建築-埔心羅厝天主堂文物館",
-      "category": "文化中心活動",
-      "venue": "埔心鄉（彰化縣）=",
-      "city": "彰化縣",
-      "summary": "文化部開放資料 (展覽)",
-      "url": "https://culture.bocach.gov.tw/portfolio/",
-      "organizer": "(中華民國)羅厝天主堂文物館"
     }
   ],
   "events": [
