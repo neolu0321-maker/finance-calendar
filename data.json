@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-06T09:42:13.830111+08:00",
+  "generated_at": "2026-10-07T08:31:00.574580+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "投資時不要只思考如何賺大錢，更要優先思考如何避免致命的虧損與愚蠢的錯誤。",
-      "reminder": "保持理性與逆向思考，在市場盲目樂觀時優先審視風險，防範未然才是長期生存之道。",
-      "date": "2026-10-06"
+      "explanation": "遇到複雜的投資問題時，與其思考如何才能賺大錢，不如先思考什麼行為會導致慘敗，然後竭力避免這些愚蠢的決定。",
+      "reminder": "在面對高波動的市場時，請先思考最壞的情況與風險承受度，避免槓桿過高才是長期生存之道。",
+      "date": "2026-10-07"
     }
   ],
   "activities": [
@@ -53,6 +53,17 @@
       "city": "臺中市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2068970591988879361",
+      "organizer": ""
+    },
+    {
+      "event_date": "2027-01-07",
+      "end_date": "2027-01-07",
+      "title": "NSO黃俊文與好朋友們《舞韻世代》",
+      "category": "文化中心活動",
+      "venue": "國家音樂廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2073781841937625089",
       "organizer": ""
     },
     {
@@ -1134,6 +1145,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-10-15",
+      "end_date": "2026-10-15",
+      "title": "2026國家兩廳院-目擊者：看戲大隊 第二季 保證金繳交",
+      "category": "文化中心活動",
+      "venue": "國家兩廳院",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2080233375851765761",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-10-14",
       "end_date": "2026-10-14",
       "title": "【2026衛武營管風琴音樂節】拉特利管風琴獨奏會《巴赫幻境》",
@@ -1318,17 +1340,6 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2068555371745091585",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-06",
-      "end_date": "2026-10-06",
-      "title": "《花漾50》台北室內50混聲合唱團十五周年音樂會",
-      "category": "文化中心活動",
-      "venue": "臺北市中山堂中正廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2074114129161904128",
       "organizer": ""
     },
     {
@@ -1649,17 +1660,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.taiwan.nps.gov.tw/home/zh-tw.html",
       "organizer": "(中華民國)玉山國家公園管理處"
-    },
-    {
-      "event_date": "2026-01-03",
-      "end_date": "2026-12-26",
-      "title": "電影小說讀書會",
-      "category": "圖書館講座",
-      "venue": "欣榮紀念圖書館暨玉蘭文化會館",
-      "city": "南投縣",
-      "summary": "文化部開放資料 (講座)",
-      "url": "http://www.hsinrong.org/",
-      "organizer": "(中華民國)林盈銓"
     }
   ],
   "events": [
