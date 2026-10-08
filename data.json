@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-07T08:31:00.574580+08:00",
+  "generated_at": "2026-10-08T08:52:14.009915+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "反過來想，總是反過來想。",
-      "author": "查理·蒙格",
-      "explanation": "遇到複雜的投資問題時，與其思考如何才能賺大錢，不如先思考什麼行為會導致慘敗，然後竭力避免這些愚蠢的決定。",
-      "reminder": "在面對高波動的市場時，請先思考最壞的情況與風險承受度，避免槓桿過高才是長期生存之道。",
-      "date": "2026-10-07"
+      "quote": "我只想知道我會死在哪裡，這樣我就永遠不去那裡。",
+      "author": "查理·蒙格 (Charlie Munger)",
+      "explanation": "投資時不要只思考如何獲利，而是先列出所有會讓你面臨毀滅性虧損的情況，並全力避開它們。透過逆向思考，能大幅降低犯下致命錯誤的機率。",
+      "reminder": "在關注市場熱點與預測通膨走向前，請先檢視資產組合是否具備足夠的安全邊際與抗風險能力。",
+      "date": "2026-10-08"
     }
   ],
   "activities": [
@@ -465,6 +465,17 @@
     {
       "event_date": "2026-11-18",
       "end_date": "2026-11-18",
+      "title": "2026屏東演藝廳『消失的密室』管風琴室導覽",
+      "category": "文化中心活動",
+      "venue": "屏東演藝廳音樂廳",
+      "city": "屏東縣",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/1998231506403491841",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-11-18",
+      "end_date": "2026-11-18",
       "title": "力晶2026藝文饗宴 賽門．拉圖爵士與巴伐利亞廣播交響樂團",
       "category": "文化中心活動",
       "venue": "國家音樂廳",
@@ -670,6 +681,17 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.facebook.com/profile.php?id=100064506377025",
       "organizer": "(中華民國)和美鎮立圖書館"
+    },
+    {
+      "event_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "title": "【幕名而來】菲利普.肯恩《人間樂園》節目導覽",
+      "category": "文化中心活動",
+      "venue": "國家戲劇院",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2076948367096213504",
+      "organizer": ""
     },
     {
       "event_date": "2026-11-06",
@@ -1092,6 +1114,17 @@
     {
       "event_date": "2026-10-17",
       "end_date": "2026-10-17",
+      "title": "NSO室內樂《舞動波希米亞》",
+      "category": "文化中心活動",
+      "venue": "國家兩廳院演奏廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2073788889504477185",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-17",
+      "end_date": "2026-10-17",
       "title": "蔡雨辰（沃時文化執行總監）｜圖像的複調：拆解繪本與跨域對讀",
       "category": "文化中心活動",
       "venue": "童里",
@@ -1318,28 +1351,6 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2068886907321294849",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-07",
-      "end_date": "2026-10-07",
-      "title": "2026屏東演藝廳『消失的密室』管風琴室導覽",
-      "category": "文化中心活動",
-      "venue": "屏東演藝廳音樂廳",
-      "city": "屏東縣",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/1998231506403491841",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-07",
-      "end_date": "2026-10-07",
-      "title": "力晶2026藝文饗宴《醍醐－卡薩爾斯四重奏之夜》",
-      "category": "文化中心活動",
-      "venue": "國家音樂廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2068555371745091585",
       "organizer": ""
     },
     {
@@ -1649,17 +1660,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://reurl.cc/K2xvmM",
       "organizer": "(中華民國)蔡惠茹"
-    },
-    {
-      "event_date": "2026-01-04",
-      "end_date": "2026-12-20",
-      "title": "2026玉山國家公園與鄰共好系列-東埔地區導覽解說教育活動（24場次）",
-      "category": "文化中心活動",
-      "venue": "信義鄉（南投縣）=",
-      "city": "南投縣",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.taiwan.nps.gov.tw/home/zh-tw.html",
-      "organizer": "(中華民國)玉山國家公園管理處"
     }
   ],
   "events": [
