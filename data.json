@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-08T08:52:14.009915+08:00",
+  "generated_at": "2026-10-09T09:05:38.880695+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "我只想知道我會死在哪裡，這樣我就永遠不去那裡。",
-      "author": "查理·蒙格 (Charlie Munger)",
-      "explanation": "投資時不要只思考如何獲利，而是先列出所有會讓你面臨毀滅性虧損的情況，並全力避開它們。透過逆向思考，能大幅降低犯下致命錯誤的機率。",
-      "reminder": "在關注市場熱點與預測通膨走向前，請先檢視資產組合是否具備足夠的安全邊際與抗風險能力。",
-      "date": "2026-10-08"
+      "quote": "反過來想，總是反過來想。",
+      "author": "查理·蒙格",
+      "explanation": "思考問題時，與其苦思如何成功，不如先想想如何才會導致失敗，並努力避開那些毀滅性的路徑。",
+      "reminder": "在複雜的投資市場中，先做好風險控管、避開自己不懂的領域與高槓桿風險，長期自然能累積豐厚回報。",
+      "date": "2026-10-09"
     }
   ],
   "activities": [
@@ -630,6 +630,17 @@
     {
       "event_date": "2026-11-08",
       "end_date": "2026-11-08",
+      "title": "NSO ✕ 麗寶彩雲室內樂系列 I《絃上行雲──聲音的形狀》",
+      "category": "文化中心活動",
+      "venue": "國家兩廳院演奏廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2073973901980475393",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-11-08",
+      "end_date": "2026-11-08",
       "title": "2026年11月【和美鎮立圖書館-親子英閱繪】",
       "category": "圖書館講座",
       "venue": "彰化縣和美鎮立圖書館",
@@ -1156,6 +1167,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "title": "來雲門共學 2026系列講座",
+      "category": "文化中心活動",
+      "venue": "雲門劇場",
+      "city": "新北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2086059234803216385",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-10-16",
       "end_date": "2026-10-16",
       "title": "《協奏曲》2026黃楚涵鋼琴獨奏會",
@@ -1301,6 +1323,17 @@
     {
       "event_date": "2026-10-09",
       "end_date": "2026-10-09",
+      "title": "巴洛克獨奏家樂團《布蘭登堡全集：巴赫的和聲奇蹟》",
+      "category": "文化中心活動",
+      "venue": "誠品表演廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2011666592979537921",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-09",
+      "end_date": "2026-10-09",
       "title": "當是貝多芬I：光啓之時",
       "category": "美術館展覽",
       "venue": "大東文化藝術中心",
@@ -1312,45 +1345,23 @@
     {
       "event_date": "2026-10-09",
       "end_date": "2026-10-09",
+      "title": "狂美《璀璨經典百老匯II》交響音樂會-2026新作翩然登場",
+      "category": "文化中心活動",
+      "venue": "苗北藝文中心演藝廳",
+      "city": "苗栗縣",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2062049163975860225",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-09",
+      "end_date": "2026-10-09",
       "title": "2026臺灣國際大提琴藝術節─東西交響《寶藏篇》",
       "category": "文化中心活動",
       "venue": "臺中國家歌劇院中劇院",
       "city": "臺中市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2061749031862509569",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-08",
-      "end_date": "2026-10-08",
-      "title": "巴洛克獨奏家樂團《布蘭登堡全集：巴赫的和聲奇蹟》",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心音樂廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2011666592979537921",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-08",
-      "end_date": "2026-10-08",
-      "title": "狂美《璀璨經典百老匯II》交響音樂會-2026新作翩然登場",
-      "category": "文化中心活動",
-      "venue": "臺北市中山堂中正廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2062049163975860225",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-08",
-      "end_date": "2026-10-08",
-      "title": "東西交響—大提琴名家 & TCO",
-      "category": "文化中心活動",
-      "venue": "國家音樂廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2068886907321294849",
       "organizer": ""
     },
     {
@@ -1649,17 +1660,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "http://www.hsinrong.org/",
       "organizer": "(中華民國)徐相明"
-    },
-    {
-      "event_date": "2026-01-06",
-      "end_date": "2026-12-29",
-      "title": "英語讀書會(27場)",
-      "category": "圖書館講座",
-      "venue": "臺中市立圖書館梧棲分館",
-      "city": "臺中市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://reurl.cc/K2xvmM",
-      "organizer": "(中華民國)蔡惠茹"
     }
   ],
   "events": [
