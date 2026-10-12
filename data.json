@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-11T08:10:22.436565+08:00",
+  "generated_at": "2026-10-12T08:22:20.384946+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "反過來想，總是反過來想。",
-      "author": "查理·蒙格",
-      "explanation": "思考問題時，比起專注於如何取得成功，不如先思考哪些行為會導致失敗，並竭力避免它們。",
-      "reminder": "在做出任何投資決策前，先評估最壞情況下的風險承受能力，而不是只幻想獲利的情景。",
-      "date": "2026-10-11"
+      "quote": "小狗跑在主人前面或後面，但最終總會回到主人身邊。",
+      "author": "安德烈·科斯托蘭尼",
+      "explanation": "小狗代表股票價格，主人代表經濟基本面。短期內股價會因為市場情緒與資金狂熱而劇烈波動、脫離軌道，但長期來看，價格終究會回歸經濟基本面的真實價值。",
+      "reminder": "投資時切忌盲目追逐短期瘋狂飆升的股價，冷靜觀察經濟基本面，才能在價格回歸時避開風險並抓住真正的機會。",
+      "date": "2026-10-12"
     }
   ],
   "activities": [
@@ -20,6 +20,17 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2072957490703167489",
+      "organizer": ""
+    },
+    {
+      "event_date": "2027-01-10",
+      "end_date": "2027-01-10",
+      "title": "NSO黃俊文與好朋友們《浪漫迴廊》",
+      "category": "文化中心活動",
+      "venue": "國家音樂廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2074385131019624448",
       "organizer": ""
     },
     {
@@ -42,6 +53,17 @@
       "city": "臺中市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2069253113025007617",
+      "organizer": ""
+    },
+    {
+      "event_date": "2027-01-09",
+      "end_date": "2027-01-09",
+      "title": "NSO黃俊文與好朋友們《傳承．蕭斯塔科維契透視》",
+      "category": "文化中心活動",
+      "venue": "國家音樂廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2074384200694501377",
       "organizer": ""
     },
     {
@@ -86,6 +108,17 @@
       "city": "高雄市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2072980781115437057",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-12-31",
+      "end_date": "2026-12-31",
+      "title": "富邦世紀音樂盛宴：NSO歲末饗宴《璀璨維也納》",
+      "category": "文化中心活動",
+      "venue": "國家音樂廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2074101653195931649",
       "organizer": ""
     },
     {
@@ -661,6 +694,28 @@
       "organizer": "(中華民國)伊誕創藝視界"
     },
     {
+      "event_date": "2026-11-11",
+      "end_date": "2026-11-11",
+      "title": "2026秋天藝術節【藝術家對談】巴奈回家",
+      "category": "文化中心活動",
+      "venue": "國家戲劇院四樓交誼廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2077678411348267009",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-11-11",
+      "end_date": "2026-11-11",
+      "title": "2026北藝夜遊：Beats到天臺",
+      "category": "美術館展覽",
+      "venue": "臺北表演藝術中心",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2090253659181064193",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-11-08",
       "end_date": "2026-11-08",
       "title": "2026卦山天空音樂會：彰化青年管樂團《秋日嬉遊親子音樂會》",
@@ -790,6 +845,17 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2064685082194972673",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "title": "2026秋天藝術節：題外話",
+      "category": "文化中心活動",
+      "venue": "國家戲劇院一樓大廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2077968176053907457",
       "organizer": ""
     },
     {
@@ -1321,30 +1387,8 @@
       "organizer": ""
     },
     {
-      "event_date": "2026-10-11",
-      "end_date": "2026-10-11",
-      "title": "巴洛克獨奏家樂團《布蘭登堡全集：巴赫的和聲奇蹟》",
-      "category": "文化中心活動",
-      "venue": "臺中國家歌劇院中劇院",
-      "city": "臺中市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2011666592979537921",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-11",
-      "end_date": "2026-10-11",
-      "title": "故鄉台法名曲饗宴",
-      "category": "文化中心活動",
-      "venue": "誠品表演廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2028080668680204289",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-11",
-      "end_date": "2026-10-11",
+      "event_date": "2026-10-12",
+      "end_date": "2026-10-12",
       "title": "王羽佳XR音樂會《羽火共舞》",
       "category": "文化中心活動",
       "venue": "國家兩廳院實驗劇場",
@@ -1352,39 +1396,6 @@
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2062012882677915648",
       "organizer": ""
-    },
-    {
-      "event_date": "2026-10-11",
-      "end_date": "2026-10-11",
-      "title": "2026臺灣國際大提琴藝術節─東西交響《寶藏篇》",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心表演廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2061749031862509569",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-11",
-      "end_date": "2026-10-11",
-      "title": "2026年10月【和美鎮立圖書館-親子英閱繪】",
-      "category": "圖書館講座",
-      "venue": "彰化縣和美鎮立圖書館",
-      "city": "彰化縣",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.facebook.com/profile.php?id=100064506377025",
-      "organizer": "(中華民國)彰化縣和美鎮立圖書館"
-    },
-    {
-      "event_date": "2026-10-11",
-      "end_date": "2026-10-11",
-      "title": "2026年10月【員林市立圖書館-英文繪本快樂遊】",
-      "category": "圖書館講座",
-      "venue": "彰化縣員林市立圖書館",
-      "city": "彰化縣",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.facebook.com/yuanlinlibrary",
-      "organizer": "(中華民國)員林市立圖書館"
     },
     {
       "event_date": "2026-10-04",
@@ -1649,17 +1660,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "http://www.hsinrong.org/",
       "organizer": "(中華民國)徐相明"
-    },
-    {
-      "event_date": "2026-01-06",
-      "end_date": "2026-12-29",
-      "title": "英語讀書會(27場)",
-      "category": "圖書館講座",
-      "venue": "臺中市立圖書館梧棲分館",
-      "city": "臺中市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://reurl.cc/K2xvmM",
-      "organizer": "(中華民國)蔡惠茹"
     }
   ],
   "events": [
