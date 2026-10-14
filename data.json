@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-14T08:12:39.684480+08:00",
+  "generated_at": "2026-10-15T07:47:56.335819+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "quote": "等待 AI 靈感中...",
       "author": "系統",
-      "explanation": "錯誤代碼: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash\nPlease retry in 3.276343924s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-3.6-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 3\n}\n]",
+      "explanation": "錯誤代碼: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash\nPlease retry in 13.040066448s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-3.6-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 13\n}\n]",
       "reminder": "請稍後重試"
     }
   ],
@@ -1290,6 +1290,17 @@
     {
       "event_date": "2026-10-17",
       "end_date": "2026-10-17",
+      "title": "卓家萱小提琴獨奏會《藝遊東西》",
+      "category": "文化中心活動",
+      "venue": "衛武營國家藝術文化中心表演廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2066448007069065217",
+      "organizer": "國藝會(Logo)"
+    },
+    {
+      "event_date": "2026-10-17",
+      "end_date": "2026-10-17",
       "title": "蔡雨辰（沃時文化執行總監）｜圖像的複調：拆解繪本與跨域對讀",
       "category": "文化中心活動",
       "venue": "童里",
@@ -1367,34 +1378,23 @@
     {
       "event_date": "2026-10-15",
       "end_date": "2026-10-15",
-      "title": "2026國家兩廳院-目擊者：看戲大隊 第二季 保證金繳交",
-      "category": "文化中心活動",
-      "venue": "國家兩廳院",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.opentix.life/program/2080233375851765761",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-14",
-      "end_date": "2026-10-14",
-      "title": "【2026衛武營管風琴音樂節】拉特利管風琴獨奏會《巴赫幻境》",
-      "category": "文化中心活動",
-      "venue": "屏東演藝廳音樂廳",
-      "city": "屏東縣",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2046906947960000512",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-14",
-      "end_date": "2026-10-14",
       "title": "王羽佳XR音樂會《羽火共舞》",
       "category": "文化中心活動",
       "venue": "國家兩廳院實驗劇場",
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2062012882677915648",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-15",
+      "end_date": "2026-10-15",
+      "title": "2026國家兩廳院-目擊者：看戲大隊 第二季 保證金繳交",
+      "category": "文化中心活動",
+      "venue": "國家兩廳院",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2080233375851765761",
       "organizer": ""
     },
     {
