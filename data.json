@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-13T10:29:23.044668+08:00",
+  "generated_at": "2026-10-14T08:12:39.684480+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "小狗跑在前面，但最終還是會回到主人身邊。",
-      "author": "安德烈·科斯托蘭尼",
-      "explanation": "主人代表經濟基本面，小狗代表股票價格。短期內股價會因為市場情緒的過熱或悲觀而偏離基本面，但長期來看，價格終究會回歸價值的真實軌道。",
-      "reminder": "面對市場劇烈波動時，請保持理性，不要跟隨市場情緒起舞，應專注於資產的內在價值與長遠趨勢。",
-      "date": "2026-10-13"
+      "date": "2026-10-14",
+      "quote": "等待 AI 靈感中...",
+      "author": "系統",
+      "explanation": "錯誤代碼: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash\nPlease retry in 3.276343924s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-3.6-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 3\n}\n]",
+      "reminder": "請稍後重試"
     }
   ],
   "activities": [
@@ -993,6 +993,17 @@
     {
       "event_date": "2026-10-25",
       "end_date": "2026-10-25",
+      "title": "台北陶笛樂團20週年紀念音樂會",
+      "category": "文化中心活動",
+      "venue": "蘆洲功學社音樂廳",
+      "city": "新北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CG4CEE",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-25",
+      "end_date": "2026-10-25",
       "title": "2026年10月【員林市立圖書館-閩南語真趣味】",
       "category": "圖書館講座",
       "venue": "彰化縣員林市立圖書館",
@@ -1376,19 +1387,8 @@
       "organizer": ""
     },
     {
-      "event_date": "2026-10-13",
-      "end_date": "2026-10-13",
-      "title": "力晶2026藝文饗宴 —聖馬丁學院管弦樂團 x 貝爾",
-      "category": "文化中心活動",
-      "venue": "國家音樂廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2068963950904086528",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-13",
-      "end_date": "2026-10-13",
+      "event_date": "2026-10-14",
+      "end_date": "2026-10-14",
       "title": "王羽佳XR音樂會《羽火共舞》",
       "category": "文化中心活動",
       "venue": "國家兩廳院實驗劇場",
@@ -1407,17 +1407,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.facebook.com/yuanlinlibrary",
       "organizer": "(中華民國)員林市立圖書館志工、彰化縣故事閱讀協會"
-    },
-    {
-      "event_date": "2026-09-22",
-      "end_date": "2026-10-13",
-      "title": "《你好不好？》演前戲劇工作坊",
-      "category": "文化中心活動",
-      "venue": "國立陽明交通大學演藝廳",
-      "city": "陽明交",
-      "summary": "文化部開放資料 (親子與綜合)",
-      "url": "https://arts.nycu.edu.tw/alive-pre-performance-theatre-workshop/",
-      "organizer": ""
     },
     {
       "event_date": "2026-09-01",
@@ -1660,6 +1649,17 @@
       "summary": "文化部開放資料 (講座)",
       "url": "http://www.hsinrong.org/",
       "organizer": "(中華民國)徐相明"
+    },
+    {
+      "event_date": "2026-01-06",
+      "end_date": "2026-12-29",
+      "title": "英語讀書會(27場)",
+      "category": "圖書館講座",
+      "venue": "臺中市立圖書館梧棲分館",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://reurl.cc/K2xvmM",
+      "organizer": "(中華民國)蔡惠茹"
     }
   ],
   "events": [
@@ -1667,11 +1667,6 @@
       "date": "2026-10-02",
       "title": "美國非農就業報告 (NFP)",
       "category": "總經"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "美國 CPI 發布 (預估)",
-      "category": "CPI"
     },
     {
       "date": "2026-10-21",
