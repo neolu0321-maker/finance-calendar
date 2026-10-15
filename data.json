@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-15T07:47:56.335819+08:00",
+  "generated_at": "2026-10-16T07:36:58.553215+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "date": "2026-10-15",
-      "quote": "等待 AI 靈感中...",
-      "author": "系統",
-      "explanation": "錯誤代碼: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash\nPlease retry in 13.040066448s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-3.6-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 13\n}\n]",
-      "reminder": "請稍後重試"
+      "quote": "小狗與主人的散步理論：主人走了一公里，小狗跑來跑去跑了四公里，但最後小狗和主人同時到達終點。",
+      "author": "安德烈·科斯托蘭尼",
+      "explanation": "主人代表長期經濟基本面，小狗代表短期股市走勢。短期內市場會因情緒過度反應而劇烈波動，但長期股價終將回歸基本面。",
+      "reminder": "投資時切勿被短期市場波動與群眾情緒牽著走，請專注於經濟發展與企業價值的長期趨勢。",
+      "date": "2026-10-16"
     }
   ],
   "activities": [
@@ -626,6 +626,17 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr;jsessionid=94BDCD61C7BDFFB6D13CDFC2E45BD5D8?actId=60091&utm_source=NMTL&utm_medium=index&utm_campaign=60091",
       "organizer": "(西班牙)Manuel Sanchez;(西班牙)Laura Vela"
+    },
+    {
+      "event_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "title": "2026年 中台世界博物館「雲裳萬象－博古遊歷誌」",
+      "category": "博物館活動",
+      "venue": "中台世界博物館",
+      "city": "埔里鎮",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://lihi1.me/QFkbI",
+      "organizer": ""
     },
     {
       "event_date": "2026-11-13",
@@ -1367,17 +1378,6 @@
     {
       "event_date": "2026-10-16",
       "end_date": "2026-10-16",
-      "title": "顏華容2026鋼琴獨奏會II–水・樂",
-      "category": "文化中心活動",
-      "venue": "臺中國家歌劇院小劇場",
-      "city": "臺中市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2074331493916798976",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-15",
-      "end_date": "2026-10-15",
       "title": "王羽佳XR音樂會《羽火共舞》",
       "category": "文化中心活動",
       "venue": "國家兩廳院實驗劇場",
@@ -1387,14 +1387,14 @@
       "organizer": ""
     },
     {
-      "event_date": "2026-10-15",
-      "end_date": "2026-10-15",
-      "title": "2026國家兩廳院-目擊者：看戲大隊 第二季 保證金繳交",
+      "event_date": "2026-10-16",
+      "end_date": "2026-10-16",
+      "title": "顏華容2026鋼琴獨奏會II–水・樂",
       "category": "文化中心活動",
-      "venue": "國家兩廳院",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.opentix.life/program/2080233375851765761",
+      "venue": "臺中國家歌劇院小劇場",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2074331493916798976",
       "organizer": ""
     },
     {
@@ -1667,6 +1667,11 @@
       "date": "2026-10-02",
       "title": "美國非農就業報告 (NFP)",
       "category": "總經"
+    },
+    {
+      "date": "2026-10-14",
+      "title": "美國 CPI 發布 (預估)",
+      "category": "CPI"
     },
     {
       "date": "2026-10-21",
