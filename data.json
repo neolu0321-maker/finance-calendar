@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-16T07:36:58.553215+08:00",
+  "generated_at": "2026-10-17T07:22:45.574397+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "小狗與主人的散步理論：主人走了一公里，小狗跑來跑去跑了四公里，但最後小狗和主人同時到達終點。",
-      "author": "安德烈·科斯托蘭尼",
-      "explanation": "主人代表長期經濟基本面，小狗代表短期股市走勢。短期內市場會因情緒過度反應而劇烈波動，但長期股價終將回歸基本面。",
-      "reminder": "投資時切勿被短期市場波動與群眾情緒牽著走，請專注於經濟發展與企業價值的長期趨勢。",
-      "date": "2026-10-16"
+      "quote": "反過來想，總是反過來想。",
+      "author": "查理·蒙格",
+      "explanation": "在思考投資策略時，與其苦思如何獲利，不如先想想怎樣會讓你賠光所有錢，然後主動避開那些致命危險。",
+      "reminder": "長期來看，確保自己不犯下愚蠢的錯誤，比試圖展現絕頂聰明更能帶來穩健的回報。",
+      "date": "2026-10-17"
     }
   ],
   "activities": [
@@ -1015,6 +1015,17 @@
     {
       "event_date": "2026-10-25",
       "end_date": "2026-10-25",
+      "title": "聖光煉焰～托馬許．卡米耶尼亞克2026台灣音樂會",
+      "category": "文化中心活動",
+      "venue": "衛武營國家藝術文化中心表演廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2073325986027565057",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-25",
+      "end_date": "2026-10-25",
       "title": "2026年10月【員林市立圖書館-閩南語真趣味】",
       "category": "圖書館講座",
       "venue": "彰化縣員林市立圖書館",
@@ -1180,6 +1191,28 @@
     {
       "event_date": "2026-10-18",
       "end_date": "2026-10-18",
+      "title": "顏華容2026鋼琴獨奏會II–水・樂",
+      "category": "文化中心活動",
+      "venue": "衛武營國家藝術文化中心表演廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2074331493916798976",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "title": "《豐琴樂揚》在琴弦與信念之間-蘇揚哲的小提琴之路",
+      "category": "文化中心活動",
+      "venue": "誠品表演廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2073958162762985473",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-18",
+      "end_date": "2026-10-18",
       "title": "苗北藝術學苑-2026苗北講堂III：管弦總動員-搭配人聲昇華為終極交響宇宙心靈之聲《從貝多芬《合唱》到馬勒《復活》，人聲與交響詮釋出管弦樂至高境界》",
       "category": "文化中心活動",
       "venue": "苗栗縣苗北藝文中心",
@@ -1279,6 +1312,17 @@
     {
       "event_date": "2026-10-17",
       "end_date": "2026-10-17",
+      "title": "王羽佳XR音樂會《羽火共舞》",
+      "category": "文化中心活動",
+      "venue": "國家兩廳院實驗劇場",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2062012882677915648",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-17",
+      "end_date": "2026-10-17",
       "title": "NSO室內樂《舞動波希米亞》",
       "category": "文化中心活動",
       "venue": "國家兩廳院演奏廳",
@@ -1362,39 +1406,6 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.opentix.life/program/2077972652203708417",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-16",
-      "end_date": "2026-10-16",
-      "title": "《協奏曲》2026黃楚涵鋼琴獨奏會",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心表演廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2066438193235144705",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-16",
-      "end_date": "2026-10-16",
-      "title": "王羽佳XR音樂會《羽火共舞》",
-      "category": "文化中心活動",
-      "venue": "國家兩廳院實驗劇場",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2062012882677915648",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-16",
-      "end_date": "2026-10-16",
-      "title": "顏華容2026鋼琴獨奏會II–水・樂",
-      "category": "文化中心活動",
-      "venue": "臺中國家歌劇院小劇場",
-      "city": "臺中市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2074331493916798976",
       "organizer": ""
     },
     {
@@ -1649,17 +1660,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "http://www.hsinrong.org/",
       "organizer": "(中華民國)徐相明"
-    },
-    {
-      "event_date": "2026-01-06",
-      "end_date": "2026-12-29",
-      "title": "英語讀書會(27場)",
-      "category": "圖書館講座",
-      "venue": "臺中市立圖書館梧棲分館",
-      "city": "臺中市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://reurl.cc/K2xvmM",
-      "organizer": "(中華民國)蔡惠茹"
     }
   ],
   "events": [
