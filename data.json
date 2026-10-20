@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-19T06:55:02.397408+08:00",
+  "generated_at": "2026-10-20T08:11:14.932980+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
-      "author": "查理·蒙格",
-      "explanation": "在做任何投資決策時，不要只盲目思考如何賺大錢，而是先思考哪些行為會讓你陷入絕境，並極力避開這些錯誤。",
-      "reminder": "投資的關鍵不是比誰做對最多聰明事，而是比誰最少犯傻。先確保資產不被毀滅，複利的作用才會顯現。",
-      "date": "2026-10-19"
+      "author": "查理·蒙格 (Charlie Munger)",
+      "explanation": "面對複雜的金融市場與投資抉擇時，與其苦思如何才能快速致富，不如先思考哪些行為會導致破產與慘敗，並極力避開它們。",
+      "reminder": "在大盤高檔波動或總體經濟變數增多時，優先評估部位的下行風險與流動性，遠比盲目追逐短期高報酬更為安全。",
+      "date": "2026-10-20"
     }
   ],
   "activities": [
@@ -1200,6 +1200,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-10-26",
+      "end_date": "2026-10-26",
+      "title": "AI 驅動的虛擬製作：生成式影像 × 3DGS",
+      "category": "文化中心活動",
+      "venue": "LIVE WAREHOUSE大義C10倉庫",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2097295250578354177",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-10-25",
       "end_date": "2026-10-25",
       "title": "顏華容2026鋼琴獨奏會II–水・樂",
@@ -1409,8 +1420,8 @@
       "organizer": ""
     },
     {
-      "event_date": "2026-10-19",
-      "end_date": "2026-10-19",
+      "event_date": "2026-10-20",
+      "end_date": "2026-10-20",
       "title": "王羽佳XR音樂會《羽火共舞》",
       "category": "文化中心活動",
       "venue": "國家兩廳院實驗劇場",
@@ -1649,17 +1660,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.instagram.com/p/DVLM1e8kirN/",
       "organizer": "(中華民國)沙鹿深波油畫班"
-    },
-    {
-      "event_date": "2026-01-07",
-      "end_date": "2026-12-30",
-      "title": "英文演講會",
-      "category": "圖書館講座",
-      "venue": "國立公共資訊圖書館中興分館",
-      "city": "南投縣",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.facebook.com/NLPICH",
-      "organizer": "(中華民國)國際演講會第67地區"
     }
   ],
   "events": [
