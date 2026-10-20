@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-20T08:11:14.932980+08:00",
+  "generated_at": "2026-10-21T07:42:47.831681+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "反過來想，總是反過來想。",
-      "author": "查理·蒙格 (Charlie Munger)",
-      "explanation": "面對複雜的金融市場與投資抉擇時，與其苦思如何才能快速致富，不如先思考哪些行為會導致破產與慘敗，並極力避開它們。",
-      "reminder": "在大盤高檔波動或總體經濟變數增多時，優先評估部位的下行風險與流動性，遠比盲目追逐短期高報酬更為安全。",
-      "date": "2026-10-20"
+      "quote": "如果我知道我會死在哪裡，我將永遠不去那個地方。",
+      "author": "查理·蒙格",
+      "explanation": "投資的第一原則是避免犯下不可挽回的致命錯誤。只要能透過逆向思考排除極端風險，長期下來自然能獲得優異的報酬。",
+      "reminder": "在市場波動加劇時，請優先進行風險控管，切勿使用過高槓桿或參與自己不懂的投機標的。",
+      "date": "2026-10-21"
     }
   ],
   "activities": [
@@ -1389,6 +1389,17 @@
     {
       "event_date": "2026-10-21",
       "end_date": "2026-10-21",
+      "title": "絢麗系列 — 角野隼斗世界巡演音樂會",
+      "category": "文化中心活動",
+      "venue": "國家音樂廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2061101629433319425",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-21",
+      "end_date": "2026-10-21",
       "title": "窩噗瘋一下！The WHOOP Group 臺北現場",
       "category": "文化中心活動",
       "venue": "國家兩廳院演奏廳",
@@ -1400,34 +1411,23 @@
     {
       "event_date": "2026-10-21",
       "end_date": "2026-10-21",
-      "title": "2026北藝學院｜人物筆記：破浪而出的《海籠》──跨媒材的邊界消融",
-      "category": "美術館展覽",
-      "venue": "臺北表演藝術中心 2樓太陽廳東南角",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.opentix.life/program/2087012898945593345",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-20",
-      "end_date": "2026-10-20",
-      "title": "絢麗系列 — 角野隼斗世界巡演音樂會",
-      "category": "文化中心活動",
-      "venue": "國家音樂廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2061101629433319425",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-20",
-      "end_date": "2026-10-20",
       "title": "王羽佳XR音樂會《羽火共舞》",
       "category": "文化中心活動",
       "venue": "國家兩廳院實驗劇場",
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2062012882677915648",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-21",
+      "end_date": "2026-10-21",
+      "title": "2026北藝學院｜人物筆記：破浪而出的《海籠》──跨媒材的邊界消融",
+      "category": "美術館展覽",
+      "venue": "臺北表演藝術中心 2樓太陽廳東南角",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2087012898945593345",
       "organizer": ""
     },
     {
