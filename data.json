@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-21T07:42:47.831681+08:00",
+  "generated_at": "2026-10-22T07:56:31.079503+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "如果我知道我會死在哪裡，我將永遠不去那個地方。",
-      "author": "查理·蒙格",
-      "explanation": "投資的第一原則是避免犯下不可挽回的致命錯誤。只要能透過逆向思考排除極端風險，長期下來自然能獲得優異的報酬。",
-      "reminder": "在市場波動加劇時，請優先進行風險控管，切勿使用過高槓桿或參與自己不懂的投機標的。",
-      "date": "2026-10-21"
+      "date": "2026-10-22",
+      "quote": "等待 AI 靈感中...",
+      "author": "系統",
+      "explanation": "錯誤代碼: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash\nPlease retry in 5.322126721s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-3.6-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 5\n}\n]",
+      "reminder": "請稍後重試"
     }
   ],
   "activities": [
@@ -152,6 +152,17 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2030931388949524481",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-12-27",
+      "end_date": "2026-12-27",
+      "title": "2026南風音樂節x演藝廳十週年-輕歌劇 《蝙蝠》",
+      "category": "文化中心活動",
+      "venue": "屏東演藝廳音樂廳",
+      "city": "屏東縣",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2067165222281093121",
       "organizer": ""
     },
     {
@@ -410,6 +421,17 @@
     {
       "event_date": "2026-12-05",
       "end_date": "2026-12-05",
+      "title": "2026南風音樂節x演藝廳十週年-李淑德教授繁星系列-簡名彥小提琴獨奏會-“命運之迴響”",
+      "category": "文化中心活動",
+      "venue": "屏東演藝廳音樂廳",
+      "city": "屏東縣",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2077712801896718336",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-12-05",
+      "end_date": "2026-12-05",
       "title": "2026年12月【和美鎮立圖書館-歡樂溫馨說故事活動】",
       "category": "圖書館講座",
       "venue": "彰化縣和美鎮立圖書館",
@@ -647,6 +669,17 @@
       "city": "新北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2070397407542661121",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "title": "《午後音樂會｜阿格麗希與她的朋友們》",
+      "category": "文化中心活動",
+      "venue": "屏東演藝廳音樂廳",
+      "city": "屏東縣",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2072537230141886465",
       "organizer": ""
     },
     {
@@ -1211,6 +1244,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-10-26",
+      "end_date": "2026-10-26",
+      "title": "Wētā 大師講堂：虛擬製作專題",
+      "category": "文化中心活動",
+      "venue": "LIVE WAREHOUSE大義C10倉庫",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2097299622090956801",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-10-25",
       "end_date": "2026-10-25",
       "title": "顏華容2026鋼琴獨奏會II–水・樂",
@@ -1345,6 +1389,17 @@
     {
       "event_date": "2026-10-22",
       "end_date": "2026-10-22",
+      "title": "王羽佳XR音樂會《羽火共舞》",
+      "category": "文化中心活動",
+      "venue": "國家兩廳院實驗劇場",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2062012882677915648",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-22",
+      "end_date": "2026-10-22",
       "title": "五種音色，一個心跳",
       "category": "文化中心活動",
       "venue": "衛武營國家藝術文化中心表演廳",
@@ -1373,61 +1428,6 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2071441935697416192",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-21",
-      "end_date": "2026-10-21",
-      "title": "【2026衛武營小時光】韓國傳統說唱故事《水底王國，彼岸之歌》",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心表演廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2043627257385357312",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-21",
-      "end_date": "2026-10-21",
-      "title": "絢麗系列 — 角野隼斗世界巡演音樂會",
-      "category": "文化中心活動",
-      "venue": "國家音樂廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2061101629433319425",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-21",
-      "end_date": "2026-10-21",
-      "title": "窩噗瘋一下！The WHOOP Group 臺北現場",
-      "category": "文化中心活動",
-      "venue": "國家兩廳院演奏廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2059476491180302337",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-21",
-      "end_date": "2026-10-21",
-      "title": "王羽佳XR音樂會《羽火共舞》",
-      "category": "文化中心活動",
-      "venue": "國家兩廳院實驗劇場",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2062012882677915648",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-21",
-      "end_date": "2026-10-21",
-      "title": "2026北藝學院｜人物筆記：破浪而出的《海籠》──跨媒材的邊界消融",
-      "category": "美術館展覽",
-      "venue": "臺北表演藝術中心 2樓太陽廳東南角",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.opentix.life/program/2087012898945593345",
       "organizer": ""
     },
     {
@@ -1667,11 +1667,6 @@
       "date": "2026-10-02",
       "title": "美國非農就業報告 (NFP)",
       "category": "總經"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "美國 CPI 發布 (預估)",
-      "category": "CPI"
     },
     {
       "date": "2026-10-21",
