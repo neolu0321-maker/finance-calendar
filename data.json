@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T07:56:09.314060+08:00",
+  "generated_at": "2026-10-24T07:48:08.131113+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "別在乾草堆裡找針，把整個乾草堆買下來！",
-      "author": "約翰·柏格",
-      "explanation": "與其耗費心力試圖挑選出少數幾支能戰勝市場的飆股，不如透過買進涵蓋整個市場的指數型基金（如全市場 ETF），穩健獲取市場的長期平均報酬。",
-      "reminder": "頻繁交易與預測個股走勢往往只會增加手續費與風險，保持耐心並堅守長期指數化投資才是散戶致勝的關鍵。",
-      "date": "2026-10-23"
+      "quote": "反過來想，總是反過來想。",
+      "author": "查理·蒙格",
+      "explanation": "思考投資問題時，不要只專注於如何快速獲利，而是先列出所有會導致虧損與失敗的原因，並在策略中盡力避開它們。",
+      "reminder": "在波動劇烈的金融市場中，避免犯下致命的錯誤，往往比盲目追求高報酬更能確保長期的成功。",
+      "date": "2026-10-24"
     }
   ],
   "activities": [
@@ -1024,6 +1024,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "title": "2026 NTT遇見巨人—2025-2026歌劇院駐館藝術家賴奇霞《共振計畫：感．響》",
+      "category": "文化中心活動",
+      "venue": "臺中國家歌劇院小劇場",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2072960932035305473",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-11-05",
       "end_date": "2026-11-05",
       "title": "《匠心之巔》準．馬寇爾、斯蒂凡．賈基夫與NSO",
@@ -1233,6 +1244,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "title": "2026 NTT遇見巨人─莫札特歌劇《女人皆如此》",
+      "category": "文化中心活動",
+      "venue": "臺中國家歌劇院大劇院",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2068984452018319361",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-10-28",
       "end_date": "2026-10-28",
       "title": "2026尹昭永X閑弦室內樂集",
@@ -1345,6 +1367,17 @@
     {
       "event_date": "2026-10-25",
       "end_date": "2026-10-25",
+      "title": "玉山音樂饗宴—維也納少年合唱團",
+      "category": "文化中心活動",
+      "venue": "衛武營國家藝術文化中心音樂廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2069705340555059200",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-25",
+      "end_date": "2026-10-25",
       "title": "2026年10月【員林市立圖書館-閩南語真趣味】",
       "category": "圖書館講座",
       "venue": "彰化縣員林市立圖書館",
@@ -1362,6 +1395,17 @@
       "city": "高雄市",
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.opentix.life/program/2097193946428018689",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "title": "王羽佳XR音樂會《羽火共舞》",
+      "category": "文化中心活動",
+      "venue": "國家兩廳院實驗劇場",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2062012882677915648",
       "organizer": ""
     },
     {
@@ -1407,39 +1451,6 @@
       "summary": "文化部開放資料 (親子與綜合)",
       "url": "http://www.baoyan.org",
       "organizer": "寶嚴山寶嚴禪寺"
-    },
-    {
-      "event_date": "2026-10-23",
-      "end_date": "2026-10-23",
-      "title": "冠名贊助：卡洛塔妮 〈島影情深 III 余曉怡管風琴音樂會 · 人文關懷之夜〉",
-      "category": "文化中心活動",
-      "venue": "國家音樂廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2028779666870386688",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-23",
-      "end_date": "2026-10-23",
-      "title": "窩噗瘋一下! The WHOOP Group x 高雄市管樂團",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心音樂廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2059554701435854848",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-23",
-      "end_date": "2026-10-23",
-      "title": "王羽佳XR音樂會《羽火共舞》",
-      "category": "文化中心活動",
-      "venue": "國家兩廳院實驗劇場",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2062012882677915648",
-      "organizer": ""
     },
     {
       "event_date": "2026-10-17",
@@ -1649,17 +1660,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "http://www.hsinrong.org/",
       "organizer": "(中華民國)陳素微"
-    },
-    {
-      "event_date": "2026-01-16",
-      "end_date": "2026-12-18",
-      "title": "竹頭文學讀書會",
-      "category": "圖書館講座",
-      "venue": "欣榮紀念圖書館暨玉蘭文化會館",
-      "city": "南投縣",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.facebook.com/profile.php?id=100064705267614#",
-      "organizer": "(中華民國)林怡君"
     }
   ],
   "events": [
