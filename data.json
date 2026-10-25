@@ -1,16 +1,49 @@
 {
-  "generated_at": "2026-10-25T07:01:56.779114+08:00",
+  "generated_at": "2026-10-26T07:06:50.930560+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "在面對投資決策時，與其花時間研究如何快速致富，不如先思考哪些行為會導致慘敗，並極力避免這些致命錯誤。",
-      "reminder": "當市場熱潮湧現時，請先冷靜思考最壞的情境與風險，永遠不要做出超出自身承擔能力的槓桿操作。",
-      "date": "2026-10-25"
+      "explanation": "思考問題時，與其苦惱如何成功，不如先列出所有會導致失敗的原因並竭力避免。避開了愚蠢與錯誤，成功自然會隨之而來。",
+      "reminder": "做投資決策時，不要只專注於能賺多少倍，請務必先評估最壞情況下可能面臨的致命風險。",
+      "date": "2026-10-26"
     }
   ],
   "activities": [
+    {
+      "event_date": "2027-06-17",
+      "end_date": "2027-06-17",
+      "title": "NTSO貝多芬鋼琴協奏曲全集I—水藍，白建宇與國臺交",
+      "category": "文化中心活動",
+      "venue": "衛武營國家藝術文化中心音樂廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2078514533891313664",
+      "organizer": ""
+    },
+    {
+      "event_date": "2027-03-26",
+      "end_date": "2027-03-26",
+      "title": "NTSO吳曜宇，斯特凡．席利與國臺交",
+      "category": "文化中心活動",
+      "venue": "衛武營國家藝術文化中心音樂廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2078508164126580737",
+      "organizer": ""
+    },
+    {
+      "event_date": "2027-03-06",
+      "end_date": "2027-03-06",
+      "title": "NTSO水藍，庄司紗矢香與國臺交",
+      "category": "文化中心活動",
+      "venue": "臺北市中山堂中正廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2078482062961602561",
+      "organizer": ""
+    },
     {
       "event_date": "2027-02-25",
       "end_date": "2027-02-25",
@@ -450,6 +483,17 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.bocach.gov.tw/News_Content.aspx?n=1241&s=50518",
       "organizer": "(中華民國)李立忠"
+    },
+    {
+      "event_date": "2026-12-05",
+      "end_date": "2026-12-05",
+      "title": "北藝生活—好食光講座",
+      "category": "美術館展覽",
+      "venue": "臺北表演藝術中心 11樓排練場2",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2097968561296707584",
+      "organizer": ""
     },
     {
       "event_date": "2026-12-04",
@@ -1266,6 +1310,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "title": "那些沒有說出口的演員獨白",
+      "category": "美術館展覽",
+      "venue": "嘉義市美術館3F多功能教室",
+      "city": "西區書",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.facebook.com/share/p/1F1XfRLXWC/",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-10-30",
       "end_date": "2026-10-30",
       "title": "【2026 TSO 大師系列】殷巴爾、齊柏絲坦與TSO",
@@ -1274,6 +1329,17 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/1993266721322434561",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-29",
+      "end_date": "2026-10-29",
+      "title": "聖光煉焰～托馬許．卡米耶尼亞克2026台灣音樂會",
+      "category": "文化中心活動",
+      "venue": "國家兩廳院演奏廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2073325986027565057",
       "organizer": ""
     },
     {
@@ -1345,6 +1411,17 @@
     {
       "event_date": "2026-10-26",
       "end_date": "2026-10-26",
+      "title": "玉山音樂饗宴—維也納少年合唱團",
+      "category": "文化中心活動",
+      "venue": "國家音樂廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2069705340555059200",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-26",
+      "end_date": "2026-10-26",
       "title": "AI 驅動的虛擬製作：生成式影像 × 3DGS",
       "category": "文化中心活動",
       "venue": "LIVE WAREHOUSE大義C10倉庫",
@@ -1374,83 +1451,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.accupass.com/event/2608250728484011067760",
       "organizer": "薪展新創文化"
-    },
-    {
-      "event_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "title": "顏華容2026鋼琴獨奏會II–水・樂",
-      "category": "文化中心活動",
-      "venue": "國家兩廳院演奏廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2074331493916798976",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "title": "台北陶笛樂團20週年紀念音樂會",
-      "category": "文化中心活動",
-      "venue": "蘆洲功學社音樂廳",
-      "city": "新北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CG4CEE",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "title": "聖光煉焰～托馬許．卡米耶尼亞克2026台灣音樂會",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心表演廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2073325986027565057",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "title": "玉山音樂饗宴—維也納少年合唱團",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心音樂廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2069705340555059200",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "title": "第18屆2026美麗的高雄鄭智仁感恩音樂會",
-      "category": "文化中心活動",
-      "venue": "高雄市文化中心至德堂",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DL7QOE",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "title": "2026年10月【員林市立圖書館-閩南語真趣味】",
-      "category": "圖書館講座",
-      "venue": "彰化縣員林市立圖書館",
-      "city": "彰化縣",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.facebook.com/yuanlinlibrary",
-      "organizer": "(中華民國)員林市立圖書館"
-    },
-    {
-      "event_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "title": "文化科技趨勢系列│AI影視革命─《金特務》特效大解密",
-      "category": "圖書館講座",
-      "venue": "高雄市立圖書館總館 7樓際會廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.opentix.life/program/2097193946428018689",
-      "organizer": ""
     },
     {
       "event_date": "2026-10-24",
