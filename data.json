@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-10-26T07:06:50.930560+08:00",
+  "generated_at": "2026-10-27T08:18:03.183167+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "思考問題時，與其苦惱如何成功，不如先列出所有會導致失敗的原因並竭力避免。避開了愚蠢與錯誤，成功自然會隨之而來。",
-      "reminder": "做投資決策時，不要只專注於能賺多少倍，請務必先評估最壞情況下可能面臨的致命風險。",
-      "date": "2026-10-26"
+      "explanation": "思考投資決策時，與其專注於如何獲得巨大成功，不如先思考哪些行為會導致毀滅性的失敗，並竭力避免它們。",
+      "reminder": "在追求高報酬之前，先徹底評估風險，確保自己不會因為單一錯誤而被迫退出市場。",
+      "date": "2026-10-27"
     }
   ],
   "activities": [
+    {
+      "event_date": "2027-06-20",
+      "end_date": "2027-06-20",
+      "title": "NTSO貝多芬鋼琴協奏曲全集II—水藍，白建宇與國臺交",
+      "category": "文化中心活動",
+      "venue": "國家音樂廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2079098559173386241",
+      "organizer": ""
+    },
     {
       "event_date": "2027-06-17",
       "end_date": "2027-06-17",
@@ -53,6 +64,17 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2072957490703167489",
+      "organizer": ""
+    },
+    {
+      "event_date": "2027-02-20",
+      "end_date": "2027-02-20",
+      "title": "【大師講座】林懷民 X 阿喀郎．汗—談身體、文化與創作",
+      "category": "文化中心活動",
+      "venue": "衛武營國家藝術文化中心戲劇院",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2100194148093235200",
       "organizer": ""
     },
     {
@@ -394,6 +416,17 @@
       "city": "苗栗縣",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2074403922534002689",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "title": "NTSO簡文彬，樫本大進與國臺交",
+      "category": "文化中心活動",
+      "venue": "國家音樂廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2079139102634627073",
       "organizer": ""
     },
     {
@@ -1321,6 +1354,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "title": "【廳院迷俱樂部】進入慾望城國",
+      "category": "文化中心活動",
+      "venue": "板橋放送所 CLT 戲劇館",
+      "city": "新北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2106946788979920897",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-10-30",
       "end_date": "2026-10-30",
       "title": "【2026 TSO 大師系列】殷巴爾、齊柏絲坦與TSO",
@@ -1329,6 +1373,17 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/1993266721322434561",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-30",
+      "end_date": "2026-11-01",
+      "title": "2026青銀有約：秋天思辨版",
+      "category": "文化中心活動",
+      "venue": "國家兩廳院",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2104894666075901953",
       "organizer": ""
     },
     {
@@ -1387,30 +1442,8 @@
       "organizer": ""
     },
     {
-      "event_date": "2026-10-26",
-      "end_date": "2026-10-26",
-      "title": "跨樂鋼琴三重奏 她的樂語",
-      "category": "文化中心活動",
-      "venue": "國家兩廳院演奏廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2032338803290832897",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-26",
-      "end_date": "2026-10-26",
-      "title": "2026 王昱翔薩克斯風獨奏會-法國作品集 II",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心表演廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2074437015481688065",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-26",
-      "end_date": "2026-10-26",
+      "event_date": "2026-10-27",
+      "end_date": "2026-10-27",
       "title": "玉山音樂饗宴—維也納少年合唱團",
       "category": "文化中心活動",
       "venue": "國家音樂廳",
@@ -1418,39 +1451,6 @@
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2069705340555059200",
       "organizer": ""
-    },
-    {
-      "event_date": "2026-10-26",
-      "end_date": "2026-10-26",
-      "title": "AI 驅動的虛擬製作：生成式影像 × 3DGS",
-      "category": "文化中心活動",
-      "venue": "LIVE WAREHOUSE大義C10倉庫",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.opentix.life/program/2097295250578354177",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-26",
-      "end_date": "2026-10-26",
-      "title": "Wētā 大師講堂：虛擬製作專題",
-      "category": "文化中心活動",
-      "venue": "LIVE WAREHOUSE大義C10倉庫",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.opentix.life/program/2097299622090956801",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-26",
-      "end_date": "2026-10-26",
-      "title": "廟語心聲：松山霞海城隍廟 | 閱讀建築・閱讀文化・閱讀人生",
-      "category": "文化中心活動",
-      "venue": "松山霞海城隍廟",
-      "city": "松山區",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.accupass.com/event/2608250728484011067760",
-      "organizer": "薪展新創文化"
     },
     {
       "event_date": "2026-10-24",
@@ -1669,7 +1669,7 @@
       "category": "總經"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-13",
       "title": "美國 CPI 發布 (預估)",
       "category": "CPI"
     },
