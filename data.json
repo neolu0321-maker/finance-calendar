@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T08:18:03.183167+08:00",
+  "generated_at": "2026-10-28T08:21:41.266040+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "思考投資決策時，與其專注於如何獲得巨大成功，不如先思考哪些行為會導致毀滅性的失敗，並竭力避免它們。",
-      "reminder": "在追求高報酬之前，先徹底評估風險，確保自己不會因為單一錯誤而被迫退出市場。",
-      "date": "2026-10-27"
+      "explanation": "思考投資問題時，與其一昧研究『如何才能賺大錢』，不如先思考『做什麼事會導致慘賠』並竭力避免它。避開致命錯誤，成功的概率自然會大大提高。",
+      "reminder": "在做任何交易決策前，請先評估最壞情況下的風險與止損點，確保自己能留在牌桌上才是長期獲利的基石。",
+      "date": "2026-10-28"
     }
   ],
   "activities": [
@@ -130,6 +130,17 @@
       "city": "臺中市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2068970591988879361",
+      "organizer": ""
+    },
+    {
+      "event_date": "2027-01-08",
+      "end_date": "2027-01-08",
+      "title": "NTSO榮光與信念—水藍，蔣啟真與國臺交",
+      "category": "文化中心活動",
+      "venue": "衛武營國家藝術文化中心音樂廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2079143354259632129",
       "organizer": ""
     },
     {
@@ -1266,6 +1277,17 @@
       "organizer": "(中華民國)員林市立圖書館志工、彰化縣故事閱讀協會"
     },
     {
+      "event_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "title": "【幕名而來】2026秋天藝術節 卡羅琳．居拉．阮 《眼淚》節目導覽",
+      "category": "文化中心活動",
+      "venue": "國家戲劇院",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.opentix.life/program/2105565467459653633",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-10-31",
       "end_date": "2026-10-31",
       "title": "2026風動室內樂團《無限》宮崎駿動畫音樂精選",
@@ -1422,34 +1444,23 @@
     {
       "event_date": "2026-10-28",
       "end_date": "2026-10-28",
+      "title": "玉山音樂饗宴—維也納少年合唱團",
+      "category": "文化中心活動",
+      "venue": "桃園展演中心展演廳",
+      "city": "桃園市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2069705340555059200",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-28",
+      "end_date": "2026-10-28",
       "title": "講座《台灣同運怎麼走到今天— 同志運動史回顧》",
       "category": "文化中心活動",
       "venue": "CLASSROOM 1廳",
       "city": "臺北市",
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.opentix.life/program/2097639842060341248",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-27",
-      "end_date": "2026-10-27",
-      "title": "【2026 TSO 室內沙龍】當青春遇見永恆：五把弦樂的跨時空對話",
-      "category": "文化中心活動",
-      "venue": "國家兩廳院演奏廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2029762519870402561",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-27",
-      "end_date": "2026-10-27",
-      "title": "玉山音樂饗宴—維也納少年合唱團",
-      "category": "文化中心活動",
-      "venue": "國家音樂廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2069705340555059200",
       "organizer": ""
     },
     {
@@ -1462,17 +1473,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr;jsessionid=94BDCD61C7BDFFB6D13CDFC2E45BD5D8?actId=60091&utm_source=NMTL&utm_medium=index&utm_campaign=60091",
       "organizer": "(不分國籍)丁徳芬  Delphine De Temmerman;(澳大利亞)Scott Writer"
-    },
-    {
-      "event_date": "2026-10-24",
-      "end_date": "2026-10-27",
-      "title": "楞嚴神奇大法會",
-      "category": "文化中心活動",
-      "venue": "板樹體育館",
-      "city": "板橋區",
-      "summary": "文化部開放資料 (親子與綜合)",
-      "url": "http://www.baoyan.org",
-      "organizer": "寶嚴山寶嚴禪寺"
     },
     {
       "event_date": "2026-10-17",
@@ -1669,7 +1669,7 @@
       "category": "總經"
     },
     {
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "title": "美國 CPI 發布 (預估)",
       "category": "CPI"
     },
