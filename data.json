@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-10-28T08:21:41.266040+08:00",
+  "generated_at": "2026-10-29T08:41:55.462613+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "反過來想，總是反過來想。",
-      "author": "查理·蒙格",
-      "explanation": "思考投資問題時，與其一昧研究『如何才能賺大錢』，不如先思考『做什麼事會導致慘賠』並竭力避免它。避開致命錯誤，成功的概率自然會大大提高。",
-      "reminder": "在做任何交易決策前，請先評估最壞情況下的風險與止損點，確保自己能留在牌桌上才是長期獲利的基石。",
-      "date": "2026-10-28"
+      "quote": "在別人貪婪時恐懼，在別人恐懼時貪婪。",
+      "author": "華倫·巴菲特",
+      "explanation": "當市場大眾情緒過度樂觀、資產價格被大幅推高時，投資人應保持警惕；反之，當市場陷入恐慌拋售、優質企業價格被低估時，才是勇敢進場的良機。",
+      "reminder": "市場總是在極端情緒之間擺盪，切忌盲目從眾，堅守價值與獨立思考才是長期獲利的基石。",
+      "date": "2026-10-29"
     }
   ],
   "activities": [
+    {
+      "event_date": "2027-06-26",
+      "end_date": "2027-06-26",
+      "title": "NTSO馬勒第五—水藍與國臺交",
+      "category": "文化中心活動",
+      "venue": "新竹市文化局演藝廳音樂廳",
+      "city": "新竹市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2079146935256879105",
+      "organizer": ""
+    },
     {
       "event_date": "2027-06-20",
       "end_date": "2027-06-20",
@@ -1156,6 +1167,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "title": "11月我們的文學夢：陳栢青",
+      "category": "文化中心活動",
+      "venue": "紀州庵文學森林",
+      "city": "中正區",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://kishuan.org.tw/activity_detail1910.htm",
+      "organizer": "紀州庵文學森林"
+    },
+    {
       "event_date": "2026-11-05",
       "end_date": "2026-11-05",
       "title": "《匠心之巔》準．馬寇爾、斯蒂凡．賈基夫與NSO",
@@ -1399,6 +1421,17 @@
     },
     {
       "event_date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "title": "玉山音樂饗宴—維也納少年合唱團",
+      "category": "文化中心活動",
+      "venue": "臺中市中山堂",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2069705340555059200",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-30",
       "end_date": "2026-11-01",
       "title": "2026青銀有約：秋天思辨版",
       "category": "文化中心活動",
@@ -1428,39 +1461,6 @@
       "city": "臺中市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2068984452018319361",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-28",
-      "end_date": "2026-10-28",
-      "title": "2026尹昭永X閑弦室內樂集",
-      "category": "文化中心活動",
-      "venue": "國家音樂廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2075055692987322369",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-28",
-      "end_date": "2026-10-28",
-      "title": "玉山音樂饗宴—維也納少年合唱團",
-      "category": "文化中心活動",
-      "venue": "桃園展演中心展演廳",
-      "city": "桃園市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2069705340555059200",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-28",
-      "end_date": "2026-10-28",
-      "title": "講座《台灣同運怎麼走到今天— 同志運動史回顧》",
-      "category": "文化中心活動",
-      "venue": "CLASSROOM 1廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.opentix.life/program/2097639842060341248",
       "organizer": ""
     },
     {
