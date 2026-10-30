@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-29T08:41:55.462613+08:00",
+  "generated_at": "2026-10-30T08:42:19.659677+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "在別人貪婪時恐懼，在別人恐懼時貪婪。",
-      "author": "華倫·巴菲特",
-      "explanation": "當市場大眾情緒過度樂觀、資產價格被大幅推高時，投資人應保持警惕；反之，當市場陷入恐慌拋售、優質企業價格被低估時，才是勇敢進場的良機。",
-      "reminder": "市場總是在極端情緒之間擺盪，切忌盲目從眾，堅守價值與獨立思考才是長期獲利的基石。",
-      "date": "2026-10-29"
+      "quote": "反過來想，總是反過來想。",
+      "author": "查理·蒙格",
+      "explanation": "在投資與生活中，與其盲目思考如何迅速致富，不如先思考哪些行為會讓你陷入絕境，並極力避免它們。",
+      "reminder": "切記控制風險與槓桿，只要能徹底避開毀滅性的打擊，長期的複利效果自然會帶領你走向成功。",
+      "date": "2026-10-30"
     }
   ],
   "activities": [
@@ -482,6 +482,17 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2071788709521534976",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-12-10",
+      "end_date": "2026-12-10",
+      "title": "NTSO樫本大進與國臺交室內樂音樂會",
+      "category": "文化中心活動",
+      "venue": "嘉義市政府文化局音樂廳",
+      "city": "嘉義市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2079194709134209025",
       "organizer": ""
     },
     {
@@ -1422,6 +1433,17 @@
     {
       "event_date": "2026-10-30",
       "end_date": "2026-10-30",
+      "title": "2026 NTT遇見巨人─莫札特歌劇《女人皆如此》",
+      "category": "文化中心活動",
+      "venue": "臺中國家歌劇院大劇院",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2068984452018319361",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-30",
+      "end_date": "2026-10-30",
       "title": "玉山音樂饗宴—維也納少年合唱團",
       "category": "文化中心活動",
       "venue": "臺中市中山堂",
@@ -1439,28 +1461,6 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.opentix.life/program/2104894666075901953",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-29",
-      "end_date": "2026-10-29",
-      "title": "聖光煉焰～托馬許．卡米耶尼亞克2026台灣音樂會",
-      "category": "文化中心活動",
-      "venue": "國家兩廳院演奏廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2073325986027565057",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-29",
-      "end_date": "2026-10-29",
-      "title": "2026 NTT遇見巨人─莫札特歌劇《女人皆如此》",
-      "category": "文化中心活動",
-      "venue": "臺中國家歌劇院大劇院",
-      "city": "臺中市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2068984452018319361",
       "organizer": ""
     },
     {
