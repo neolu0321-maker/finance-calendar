@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-30T08:42:19.659677+08:00",
+  "generated_at": "2026-10-31T08:35:27.503916+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "在投資與生活中，與其盲目思考如何迅速致富，不如先思考哪些行為會讓你陷入絕境，並極力避免它們。",
-      "reminder": "切記控制風險與槓桿，只要能徹底避開毀滅性的打擊，長期的複利效果自然會帶領你走向成功。",
-      "date": "2026-10-30"
+      "explanation": "在投資與人生中，與其不斷思考如何才能成功，不如先列出所有會導致失敗與破產的原因，並在實踐中竭力避免它們。",
+      "reminder": "評估任何投資標的前，請先思考最糟糕的情況是什麼，優先做好風險控管，確保自己能留在桌上繼續參與賽局。",
+      "date": "2026-10-31"
     }
   ],
   "activities": [
@@ -53,6 +53,28 @@
       "city": "高雄市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2078508164126580737",
+      "organizer": ""
+    },
+    {
+      "event_date": "2027-03-20",
+      "end_date": "2027-03-20",
+      "title": "NTSO波希米亞隨想",
+      "category": "文化中心活動",
+      "venue": "彰化縣文化局員林演藝廳表演廳",
+      "city": "彰化縣",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2079207431066738689",
+      "organizer": ""
+    },
+    {
+      "event_date": "2027-03-13",
+      "end_date": "2027-03-13",
+      "title": "NTSO大衛．胡斯與國臺交",
+      "category": "文化中心活動",
+      "venue": "臺中市中山堂",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2079200061178986497",
       "organizer": ""
     },
     {
@@ -727,6 +749,17 @@
       "organizer": "(中華民國)金喇叭銅管樂團"
     },
     {
+      "event_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "title": "金車文藝講堂：林峻丞/甘樂文創執行長【從老屋、食堂到孩子的學習基地：甘樂文創的地方創生實踐】",
+      "category": "文化中心活動",
+      "venue": "金車文藝中心 臺北南京館",
+      "city": "中山區",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.kingcarart.org.tw/projects-detail/214",
+      "organizer": "金車文藝中心 臺北南京館"
+    },
+    {
       "event_date": "2026-11-18",
       "end_date": "2026-11-18",
       "title": "2026屏東演藝廳『消失的密室』管風琴室導覽",
@@ -1156,6 +1189,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "title": "做伙來踅菜市仔—台語兒童繪本圖文手作工作坊／希希媽咪識童繪",
+      "category": "文化中心活動",
+      "venue": "厝內的水果味—台語兒童繪本圖文手作工作坊",
+      "city": "桃園文",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.accupass.com/event/2610010350371993342605",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-11-06",
       "end_date": "2026-11-06",
       "title": "【2026 TSO 大師系列】殷巴爾與TSO之馬勒第九號",
@@ -1400,6 +1444,17 @@
     {
       "event_date": "2026-10-31",
       "end_date": "2026-10-31",
+      "title": "2026 NTT遇見巨人─莫札特歌劇《女人皆如此》",
+      "category": "文化中心活動",
+      "venue": "臺中國家歌劇院大劇院",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2068984452018319361",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-10-31",
+      "end_date": "2026-10-31",
       "title": "那些沒有說出口的演員獨白",
       "category": "美術館展覽",
       "venue": "嘉義市美術館3F多功能教室",
@@ -1417,39 +1472,6 @@
       "city": "新北市",
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.opentix.life/program/2106946788979920897",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-30",
-      "end_date": "2026-10-30",
-      "title": "【2026 TSO 大師系列】殷巴爾、齊柏絲坦與TSO",
-      "category": "文化中心活動",
-      "venue": "國家音樂廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/1993266721322434561",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-30",
-      "end_date": "2026-10-30",
-      "title": "2026 NTT遇見巨人─莫札特歌劇《女人皆如此》",
-      "category": "文化中心活動",
-      "venue": "臺中國家歌劇院大劇院",
-      "city": "臺中市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2068984452018319361",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-30",
-      "end_date": "2026-10-30",
-      "title": "玉山音樂饗宴—維也納少年合唱團",
-      "category": "文化中心活動",
-      "venue": "臺中市中山堂",
-      "city": "臺中市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2069705340555059200",
       "organizer": ""
     },
     {
@@ -1638,28 +1660,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "http://www.hsinrong.org",
       "organizer": "(中華民國)汪宥穎"
-    },
-    {
-      "event_date": "2026-01-29",
-      "end_date": "2026-12-31",
-      "title": "大英博物館鉅獻《埃及之王：法老》",
-      "category": "博物館活動",
-      "venue": "臺南市奇美博物館",
-      "city": "臺南市",
-      "summary": "文化部開放資料 (展覽)",
-      "url": "https://www.chimeimuseum.org/special-exhibition/68a68f0a422a6/68a68fa1d1a3b",
-      "organizer": "(中華民國)奇美博物館;(英國)大英博物館"
-    },
-    {
-      "event_date": "2026-01-27",
-      "end_date": "2026-12-29",
-      "title": "易學文化讀書會",
-      "category": "圖書館講座",
-      "venue": "欣榮紀念圖書館暨玉蘭文化會館",
-      "city": "南投縣",
-      "summary": "文化部開放資料 (講座)",
-      "url": "http://www.hsinrong.org/",
-      "organizer": "(中華民國)吳金忠"
     }
   ],
   "events": [
