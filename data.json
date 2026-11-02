@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-01T07:59:00.089644+08:00",
+  "generated_at": "2026-11-02T08:28:12.396672+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "反過來想，總是反過來想。",
-      "author": "查理·蒙格 (Charlie Munger)",
-      "explanation": "在投資與人生中，先思考如何避免失敗與災難，往往比盲目追求成功更能確保長期獲利。",
-      "reminder": "做任何投資決策前，先評估最大可能的風險與最壞打算，確保自己能在極端行情中存活下來。",
-      "date": "2026-11-01"
+      "quote": "第一條規則：絕不虧損；第二條規則：永遠不要忘記第一條規則。",
+      "author": "華倫·巴菲特 (Warren Buffett)",
+      "explanation": "投資的首要任務是控制風險與保住本金。只要能在市場中長期存活而不被淘汰，時間與複利就會成為你最大的助力。",
+      "reminder": "在做任何投資決策時，請優先評估最壞狀況下的風險與本金安全性，而非只聚焦於潛在的獲利。",
+      "date": "2026-11-02"
     }
   ],
   "activities": [
@@ -42,6 +42,17 @@
       "city": "高雄市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2078514533891313664",
+      "organizer": ""
+    },
+    {
+      "event_date": "2027-05-22",
+      "end_date": "2027-05-22",
+      "title": "NTSO荷西．龐斯，黃凱珉與國臺交",
+      "category": "文化中心活動",
+      "venue": "臺中市中山堂",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2079465898175578113",
       "organizer": ""
     },
     {
@@ -1180,6 +1191,17 @@
     {
       "event_date": "2026-11-08",
       "end_date": "2026-11-08",
+      "title": "屏東演藝廳《沙龍音樂會》",
+      "category": "文化中心活動",
+      "venue": "屏東演藝廳音樂廳 大廳",
+      "city": "屏東縣",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2013173153050226689",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-11-08",
+      "end_date": "2026-11-08",
       "title": "2026卦山天空音樂會：彰化青年管樂團《秋日嬉遊親子音樂會》",
       "category": "文化中心活動",
       "venue": "國立彰化生活美學館",
@@ -1187,6 +1209,28 @@
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://event.culture.tw/mocweb/reg/CHCSEC/Detail.init.ctr?actId=60309",
       "organizer": "(中華民國)彰化青年管樂團"
+    },
+    {
+      "event_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "title": "狂美《璀璨經典百老匯II》交響音樂會-2026新作翩然登場",
+      "category": "文化中心活動",
+      "venue": "彰化縣文化局員林演藝廳表演廳",
+      "city": "彰化縣",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2062049163975860225",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "title": "時代的軌跡–扎斯拉夫斯基獨奏",
+      "category": "文化中心活動",
+      "venue": "桃園市政府文化局演藝廳",
+      "city": "桃園市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2072870491394531328",
+      "organizer": ""
     },
     {
       "event_date": "2026-11-08",
@@ -1230,6 +1274,17 @@
       "city": "高雄市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2039594730535641089",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-11-07",
+      "end_date": "2026-11-07",
+      "title": "2026朱宗慶打擊樂團擊樂劇場《六部曲》",
+      "category": "文化中心活動",
+      "venue": "臺中國家歌劇院大劇院",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2064989613489934337",
       "organizer": ""
     },
     {
@@ -1389,78 +1444,23 @@
     {
       "event_date": "2026-11-02",
       "end_date": "2026-11-02",
+      "title": "戰火中的靈魂—李昀陽鋼琴獨奏會",
+      "category": "文化中心活動",
+      "venue": "國家音樂廳",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2082317893389787136",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-11-02",
+      "end_date": "2026-11-02",
       "title": "2026秋天藝術節【藝術家對談】艾薩．霍克森 ✕ 維努里．佩雷拉 創作講座",
       "category": "文化中心活動",
       "venue": "國家戲劇院四樓交誼廳",
       "city": "臺北市",
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.opentix.life/program/2077965990218698753",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-01",
-      "end_date": "2026-11-01",
-      "title": "屏東演藝廳《沙龍音樂會》",
-      "category": "文化中心活動",
-      "venue": "屏東演藝廳音樂廳 大廳",
-      "city": "屏東縣",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2013173153050226689",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-01",
-      "end_date": "2026-11-01",
-      "title": "布拉姆斯：迷情單簧管",
-      "category": "文化中心活動",
-      "venue": "國家兩廳院演奏廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2034841016303771648",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-01",
-      "end_date": "2026-11-01",
-      "title": "2026朱宗慶打擊樂團擊樂劇場《六部曲》",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心歌劇院",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2064989613489934337",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-01",
-      "end_date": "2026-11-01",
-      "title": "狂美《璀璨經典百老匯II》交響音樂會-2026新作翩然登場",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心音樂廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2062049163975860225",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-01",
-      "end_date": "2026-11-01",
-      "title": "時代的軌跡–扎斯拉夫斯基獨奏",
-      "category": "文化中心活動",
-      "venue": "國家兩廳院演奏廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2072870491394531328",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-01",
-      "end_date": "2026-11-01",
-      "title": "2026 NTT遇見巨人─莫札特歌劇《女人皆如此》",
-      "category": "文化中心活動",
-      "venue": "臺中國家歌劇院大劇院",
-      "city": "臺中市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2068984452018319361",
       "organizer": ""
     },
     {
@@ -1473,28 +1473,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.facebook.com/yuanlinlibrary",
       "organizer": "(中華民國)員林市立圖書館志工、彰化縣故事閱讀協會"
-    },
-    {
-      "event_date": "2026-11-01",
-      "end_date": "2026-11-01",
-      "title": "【幕名而來】2026秋天藝術節 卡羅琳．居拉．阮 《眼淚》節目導覽",
-      "category": "文化中心活動",
-      "venue": "國家戲劇院",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.opentix.life/program/2105565467459653633",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-10-30",
-      "end_date": "2026-11-01",
-      "title": "2026青銀有約：秋天思辨版",
-      "category": "文化中心活動",
-      "venue": "國家兩廳院",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.opentix.life/program/2104894666075901953",
-      "organizer": ""
     },
     {
       "event_date": "2026-09-01",
@@ -1660,6 +1638,28 @@
       "summary": "文化部開放資料 (展覽)",
       "url": "https://www.chimeimuseum.org/special-exhibition/68a68f0a422a6/68a68fa1d1a3b",
       "organizer": "(中華民國)奇美博物館;(英國)大英博物館"
+    },
+    {
+      "event_date": "2026-01-27",
+      "end_date": "2026-12-29",
+      "title": "易學文化讀書會",
+      "category": "圖書館講座",
+      "venue": "欣榮紀念圖書館暨玉蘭文化會館",
+      "city": "南投縣",
+      "summary": "文化部開放資料 (講座)",
+      "url": "http://www.hsinrong.org/",
+      "organizer": "(中華民國)吳金忠"
+    },
+    {
+      "event_date": "2026-01-24",
+      "end_date": "2026-12-26",
+      "title": "2026☼朗朗故事樹/朗朗小書房x朗朗愛閱基地",
+      "category": "文化中心活動",
+      "venue": "東區（新竹市）=",
+      "city": "新竹市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.facebook.com/sunnybookshouse/",
+      "organizer": "(中華民國)朗朗小書房"
     }
   ],
   "events": [
