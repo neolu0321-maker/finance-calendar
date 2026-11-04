@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-03T10:50:19.855271+08:00",
+  "generated_at": "2026-11-04T09:08:11.967901+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "我們這種人長遠來看能獲得巨大優勢，是因為我們一直努力做到不犯傻，而不是試圖變得非常聰明。",
+      "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "成功的投資不需要頻繁做出高難度或天才般的操作，只要能持續避免犯下致命的愚蠢錯誤（如過度槓桿、盲目跟風），時間與複利就會成為你最大的助力。",
-      "reminder": "在市場熱絡時，克制貪婪並堅持不犯傻，遠比試圖展現聰明更重要。",
-      "date": "2026-11-03"
+      "explanation": "評估投資或人生決策時，與其苦思如何獲得成功，不如先思考如何避免致命的失敗與愚蠢的錯誤。",
+      "reminder": "在宏觀經濟充滿不確定性時，請先確保資產配置具備足夠的抗風險能力，避免因槓桿過高而被迫清場。",
+      "date": "2026-11-04"
     }
   ],
   "activities": [
@@ -218,6 +218,17 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2074384200694501377",
+      "organizer": ""
+    },
+    {
+      "event_date": "2027-01-09",
+      "end_date": "2027-01-09",
+      "title": "2026年三秀園雅集-聽風藝術節《冬之旅》",
+      "category": "文化中心活動",
+      "venue": "雲林縣三秀園",
+      "city": "雲林縣",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2077295238766981121",
       "organizer": ""
     },
     {
@@ -1092,6 +1103,17 @@
     {
       "event_date": "2026-11-14",
       "end_date": "2026-11-14",
+      "title": "2026和風  頌  風華演唱會",
+      "category": "美術館展覽",
+      "venue": "大東文化藝術中心演藝廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DQZ6W2",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-11-14",
+      "end_date": "2026-11-14",
       "title": "2026「書香彰化—與大師有約」林予晴：讓幸福有能力可循：SEL 如何支持我們的一生",
       "category": "文化中心活動",
       "venue": "南北管音樂戲曲館",
@@ -1475,39 +1497,6 @@
       "organizer": ""
     },
     {
-      "event_date": "2026-11-03",
-      "end_date": "2026-11-03",
-      "title": "絢麗系列 — 歐拉夫森鋼琴獨奏會",
-      "category": "文化中心活動",
-      "venue": "國家音樂廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2064685082194972673",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-03",
-      "end_date": "2026-11-03",
-      "title": "時代的軌跡─扎斯拉夫斯基獨奏",
-      "category": "文化中心活動",
-      "venue": "陽明交大演藝廳",
-      "city": "新竹市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BWXDX9",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-03",
-      "end_date": "2026-11-03",
-      "title": "2026秋天藝術節：題外話",
-      "category": "文化中心活動",
-      "venue": "國家戲劇院一樓大廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.opentix.life/program/2077968176053907457",
-      "organizer": ""
-    },
-    {
       "event_date": "2026-11-01",
       "end_date": "2026-11-29",
       "title": "2026年11月【員林市立圖書館-說故事活動】共3場",
@@ -1660,6 +1649,17 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://reurl.cc/YDl4l0；https://reurl.cc/Wb4AdL",
       "organizer": "(中華民國)翁啟耀"
+    },
+    {
+      "event_date": "2026-03-01",
+      "end_date": "2026-12-20",
+      "title": "英文小學堂",
+      "category": "圖書館講座",
+      "venue": "欣榮紀念圖書館暨玉蘭文化會館",
+      "city": "南投縣",
+      "summary": "文化部開放資料 (講座)",
+      "url": "http://www.hsinrong.org",
+      "organizer": "(中華民國)汪宥穎"
     }
   ],
   "events": [
