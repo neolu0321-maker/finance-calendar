@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-04T09:08:11.967901+08:00",
+  "generated_at": "2026-11-05T09:24:05.529875+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "反過來想，總是反過來想。",
+      "quote": "我只想知道我會死在哪裡，這樣我就永遠不去那裡。",
       "author": "查理·蒙格",
-      "explanation": "評估投資或人生決策時，與其苦思如何獲得成功，不如先思考如何避免致命的失敗與愚蠢的錯誤。",
-      "reminder": "在宏觀經濟充滿不確定性時，請先確保資產配置具備足夠的抗風險能力，避免因槓桿過高而被迫清場。",
-      "date": "2026-11-04"
+      "explanation": "投資時先思考如何避免致命的錯誤與風險，遠比盲目追求高報酬更重要。只要能避開毀滅性的資產重創，長期自然能累積財富。",
+      "reminder": "養成逆向思考的習慣，在投入資本之前，務必先評估最壞狀況與風險控管。",
+      "date": "2026-11-05"
     }
   ],
   "activities": [
@@ -641,7 +641,7 @@
     {
       "event_date": "2026-12-10",
       "end_date": "2026-12-10",
-      "title": "《光影與詩》馬利歐．凡薩戈、帕斯卡．羅傑與NSO",
+      "title": "《光影與詩》馬利歐．凡薩戈、安德烈．古寧與NSO",
       "category": "文化中心活動",
       "venue": "國家音樂廳",
       "city": "臺北市",
@@ -903,6 +903,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "title": "講座｜從一幅畫到一部漫畫：《四種花開》的圖像敘事與創作幕後",
+      "category": "文化中心活動",
+      "venue": "講座｜從一幅畫到一部漫畫：《四種花開》的圖像敘事與創作幕後",
+      "city": "臺北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.accupass.com/event/2610270612481076400634",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-11-21",
       "end_date": "2026-11-21",
       "title": "卡通大冒險-親子音樂會",
@@ -923,6 +934,17 @@
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/event/1993239082164842497",
       "organizer": "(中華民國)金喇叭銅管樂團"
+    },
+    {
+      "event_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "title": "〈Danzz舞臺味〉足夢午茶音樂會",
+      "category": "圖書館講座",
+      "venue": "中壢新明國小李輝義紀念圖書館",
+      "city": "桃園市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://www.opentix.life/program/2077580038693351425",
+      "organizer": ""
     },
     {
       "event_date": "2026-11-21",
@@ -1464,6 +1486,17 @@
       "organizer": "紀州庵文學森林"
     },
     {
+      "event_date": "2026-11-06",
+      "end_date": "2026-11-06",
+      "title": "到哪都能喝一杯，打造自己的深夜食堂",
+      "category": "文化中心活動",
+      "venue": "新光三越台北信義新天地A4 3F APUJAN專櫃",
+      "city": "信義區",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.facebook.com/share/p/1ErmokDZYT/",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-11-05",
       "end_date": "2026-11-05",
       "title": "《匠心之巔》準．馬寇爾、斯蒂凡．賈基夫與NSO",
@@ -1472,28 +1505,6 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://www.opentix.life/program/2072943938696704001",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-04",
-      "end_date": "2026-11-04",
-      "title": "大塊文章－張昊辰2026鋼琴獨奏會",
-      "category": "文化中心活動",
-      "venue": "國家音樂廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/program/2075055636831432704",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-04",
-      "end_date": "2026-11-04",
-      "title": "2026秋天藝術節【藝術家對談】共存的想像：菲利普．肯恩 × 李貞葳 × 法庫亞．佐坦",
-      "category": "文化中心活動",
-      "venue": "國家戲劇院四樓交誼廳",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.opentix.life/program/2077963745139183617",
       "organizer": ""
     },
     {
@@ -1649,17 +1660,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://reurl.cc/YDl4l0；https://reurl.cc/Wb4AdL",
       "organizer": "(中華民國)翁啟耀"
-    },
-    {
-      "event_date": "2026-03-01",
-      "end_date": "2026-12-20",
-      "title": "英文小學堂",
-      "category": "圖書館講座",
-      "venue": "欣榮紀念圖書館暨玉蘭文化會館",
-      "city": "南投縣",
-      "summary": "文化部開放資料 (講座)",
-      "url": "http://www.hsinrong.org",
-      "organizer": "(中華民國)汪宥穎"
     }
   ],
   "events": [
