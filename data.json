@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-07T08:46:55.576695+08:00",
+  "generated_at": "2026-11-08T08:18:06.392421+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "反過來想，總是反過來想。",
-      "author": "查理·蒙格",
-      "explanation": "在投資與人生中，比起思考如何快速成功，先思考如何避免失敗與愚蠢的決定更能保住資本並獲取長期勝利。",
-      "reminder": "當市場熱度極高時，別急著盲目追高，先反過來想想若遭遇劇烈回檔，自己的資金與心理是否能承受得起。",
-      "date": "2026-11-07"
+      "quote": "我們這種人之所以能取得長期巨大的優勢，不是因為我們試著變得很聰明，而是因為我們不斷試著不要變得愚蠢。",
+      "author": "查理·蒙格 (Charlie Munger)",
+      "explanation": "在投資市場中，避免犯下致命的錯誤（例如盲目跟風、過度槓桿）遠比試圖捕捉每一次飆漲行情更為重要。只要長期保持理性、少犯傻，成績自然能超越大多數人。",
+      "reminder": "入市前請先考慮如何控管下行風險，而不是盲目追求高報酬；不犯低級錯誤就是通往成功的捷徑。",
+      "date": "2026-11-08"
     }
   ],
   "activities": [
@@ -31,6 +31,17 @@
       "city": "臺北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I5ROJP",
+      "organizer": ""
+    },
+    {
+      "event_date": "2027-01-04",
+      "end_date": "2027-01-04",
+      "title": "希望盛典・新・英雄再現",
+      "category": "文化中心活動",
+      "venue": "衛武營國家藝術文化中心音樂廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I73209",
       "organizer": ""
     },
     {
@@ -430,6 +441,17 @@
       "organizer": ""
     },
     {
+      "event_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "title": "南台灣太鼓第12週年聯合展演",
+      "category": "文化中心活動",
+      "venue": "屏東藝術館",
+      "city": "屏東縣",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FFL95J",
+      "organizer": ""
+    },
+    {
       "event_date": "2026-11-14",
       "end_date": "2026-11-14",
       "title": "2026和風  頌  風華演唱會",
@@ -538,50 +560,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.facebook.com/yuanlinlibrary",
       "organizer": "(中華民國)員林市立圖書館"
-    },
-    {
-      "event_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "title": "嘉頌擊樂《野牛大遷徙－天國之渡》",
-      "category": "文化中心活動",
-      "venue": "嘉義市政府文化局音樂廳",
-      "city": "嘉義市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1E0DEB2",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "title": "南台灣太鼓第12週年聯合展演",
-      "category": "文化中心活動",
-      "venue": "高雄市立社會教育館演藝廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FFL95J",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "title": "2026年11月【和美鎮立圖書館-歡樂溫馨說故事活動】",
-      "category": "圖書館講座",
-      "venue": "彰化縣和美鎮立圖書館",
-      "city": "彰化縣",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.facebook.com/profile.php?id=100064506377025",
-      "organizer": "(中華民國)和美鎮立圖書館"
-    },
-    {
-      "event_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "title": "做伙來踅菜市仔—台語兒童繪本圖文手作工作坊／希希媽咪識童繪",
-      "category": "文化中心活動",
-      "venue": "厝內的水果味—台語兒童繪本圖文手作工作坊",
-      "city": "桃園文",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.accupass.com/event/2610010350371993342605",
-      "organizer": ""
     },
     {
       "event_date": "2026-11-01",
@@ -1660,6 +1638,28 @@
       "summary": "文化部開放資料 (展覽)",
       "url": "https://web3.nmns.edu.tw/Exhibits/114/2025earths-treasures/",
       "organizer": "國立自然科學博物館"
+    },
+    {
+      "event_date": "2024-01-19",
+      "end_date": "2034-12-31",
+      "title": "科博館《奇幻自然》常設展",
+      "category": "博物館活動",
+      "venue": "國立自然科學博物館",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (展覽)",
+      "url": "https://www.nmns.edu.tw/ch/exhibitions/galleries/life-science-hall/fantastic/",
+      "organizer": "國立自然科學博物館"
+    },
+    {
+      "event_date": "2022-03-10",
+      "end_date": "2031-03-10",
+      "title": "付費課程【線上 online】核心幹部管理實務認證班-線上課程",
+      "category": "文化中心活動",
+      "venue": "線上活動",
+      "city": "地點未",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://kktix.com/",
+      "organizer": ""
     }
   ],
   "events": [
