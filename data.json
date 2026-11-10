@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-09T08:40:19.119306+08:00",
+  "generated_at": "2026-11-10T11:20:01.715005+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "在投資與人生中，與其盲目思考如何迅速致富，不如先思考哪些行為會導致毀滅性的失敗，並徹底避開它們。",
-      "reminder": "面對極端市場行情時，請先評估最壞情況，做好風險控管永遠比追求高報酬更重要。",
-      "date": "2026-11-09"
+      "explanation": "在投資與人生中，與其苦思如何快速成功，不如先列出所有會導致失敗與虧損的原因，並極力避免它們。",
+      "reminder": "當市場極度熱絡時，別只專注於預期收益，務必先反向思考最壞情況下自己能承受多少風險。",
+      "date": "2026-11-10"
     }
   ],
   "activities": [
@@ -42,6 +42,17 @@
       "city": "高雄市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1I73209",
+      "organizer": ""
+    },
+    {
+      "event_date": "2027-01-02",
+      "end_date": "2027-01-02",
+      "title": "漫畫臺中・神秘路徑：與漫畫家一起閱讀城市",
+      "category": "文化中心活動",
+      "venue": "怪獸AI實驗室",
+      "city": "東區復",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSe7sOlb-qjvyLajOjESbmbVE5GLMdRJDTJC8rpS3RM0DNPQ8w/viewform",
       "organizer": ""
     },
     {
@@ -1643,17 +1654,6 @@
       "event_date": "2022-02-14",
       "end_date": "2031-02-14",
       "title": "付費課程 【線上 online】任用管理師認證班",
-      "category": "文化中心活動",
-      "venue": "線上活動",
-      "city": "地點未",
-      "summary": "文化部開放資料 (親子與綜合)",
-      "url": "https://kktix.com/",
-      "organizer": ""
-    },
-    {
-      "event_date": "2022-02-08",
-      "end_date": "2031-02-08",
-      "title": "付費課程 【線上 online】高獲利訂價策略實戰班",
       "category": "文化中心活動",
       "venue": "線上活動",
       "city": "地點未",
