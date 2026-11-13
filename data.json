@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-12T10:10:12.795565+08:00",
+  "generated_at": "2026-11-13T09:44:06.962729+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "在投資與人生中，比起盲目追逐成功，先思考如何避免失敗與愚蠢的決定，往往更能確保長期的穩定獲利。",
-      "reminder": "在做任何投資決策前，先評估最糟的情況是什麼，確保自己有能力承擔潛在風險。",
-      "date": "2026-11-12"
+      "explanation": "想要在投資中獲得成功，與其一心追求卓越的獲利，不如先專注於如何避免犯下愚蠢的錯誤。",
+      "reminder": "做決策前，請先列出所有可能導致這筆投資失敗的因素，確保自己能承受最壞情況的風險。",
+      "date": "2026-11-13"
     }
   ],
   "activities": [
@@ -87,6 +87,17 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.facebook.com/yuanlinlibrary",
       "organizer": "(中華民國)員林市立圖書館"
+    },
+    {
+      "event_date": "2026-12-26",
+      "end_date": "2026-12-26",
+      "title": "新星扎根新秀鋼琴獨奏發表會",
+      "category": "文化中心活動",
+      "venue": "高雄市音樂館演奏廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IEDPQ0",
+      "organizer": ""
     },
     {
       "event_date": "2026-12-25",
@@ -186,6 +197,17 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.facebook.com/yuanlinlibrary",
       "organizer": "(中華民國)員林市立圖書館"
+    },
+    {
+      "event_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "title": "【站在玉山擁抱藝術】藝文講座-從文物修復的角度看《共生之華》",
+      "category": "文化中心活動",
+      "venue": "從文物修復的角度看《共生之華》",
+      "city": "敦化北",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://event.esunbank.com.tw/mkt/foundation/twart/index.html",
+      "organizer": "張元鳳教授"
     },
     {
       "event_date": "2026-12-10",
@@ -296,6 +318,17 @@
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1COVZN7",
       "organizer": ""
+    },
+    {
+      "event_date": "2026-12-04",
+      "end_date": "2026-12-04",
+      "title": "12月我們的文學夢：陳淑瑤",
+      "category": "文化中心活動",
+      "venue": "紀州庵文學森林",
+      "city": "中正區",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://kishuan.org.tw/activity_detail1918.htm",
+      "organizer": "紀州庵文學森林"
     },
     {
       "event_date": "2026-12-03",
@@ -518,17 +551,6 @@
       "organizer": ""
     },
     {
-      "event_date": "2026-11-12",
-      "end_date": "2026-11-12",
-      "title": "以你為語 — 湯詩渝與薩繆爾．尼德豪瑟鋼琴與大提琴二重奏音樂會",
-      "category": "文化中心活動",
-      "venue": "陽明交大演藝廳",
-      "city": "新竹市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BWXDXG",
-      "organizer": ""
-    },
-    {
       "event_date": "2026-11-11",
       "end_date": "2026-12-31",
       "title": "temavelak 接手－承傳排灣族雙管口、鼻笛藝術行動展",
@@ -549,6 +571,17 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.facebook.com/yuanlinlibrary",
       "organizer": "(中華民國)員林市立圖書館志工、彰化縣故事閱讀協會"
+    },
+    {
+      "event_date": "2026-10-21",
+      "end_date": "2027-01-11",
+      "title": "2026水圳綠道自行車認證",
+      "category": "文化中心活動",
+      "venue": "2026水圳綠道自行車認證",
+      "city": "包含雲",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://theme.ia.gov.tw/iaBike/index.aspx",
+      "organizer": ""
     },
     {
       "event_date": "2026-09-01",
@@ -1627,39 +1660,6 @@
       "summary": "文化部開放資料 (展覽)",
       "url": "https://www.nmns.edu.tw/ch/exhibitions/galleries/life-science-hall/fantastic/",
       "organizer": "國立自然科學博物館"
-    },
-    {
-      "event_date": "2022-03-10",
-      "end_date": "2031-03-10",
-      "title": "付費課程【線上 online】核心幹部管理實務認證班-線上課程",
-      "category": "文化中心活動",
-      "venue": "線上活動",
-      "city": "地點未",
-      "summary": "文化部開放資料 (親子與綜合)",
-      "url": "https://kktix.com/",
-      "organizer": ""
-    },
-    {
-      "event_date": "2022-03-03",
-      "end_date": "2031-03-03",
-      "title": "付費課程【線上 online】薪資管理師認證班 -線上課程",
-      "category": "文化中心活動",
-      "venue": "線上活動",
-      "city": "地點未",
-      "summary": "文化部開放資料 (親子與綜合)",
-      "url": "https://kktix.com/",
-      "organizer": ""
-    },
-    {
-      "event_date": "2022-02-14",
-      "end_date": "2031-02-14",
-      "title": "付費課程【線上 online】工作說明書設計撰寫實務認證班",
-      "category": "文化中心活動",
-      "venue": "線上活動",
-      "city": "地點未",
-      "summary": "文化部開放資料 (親子與綜合)",
-      "url": "https://kktix.com/",
-      "organizer": ""
     }
   ],
   "events": [
@@ -1669,7 +1669,7 @@
       "category": "總經"
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-12",
       "title": "美國 CPI 發布 (預估)",
       "category": "CPI"
     },
