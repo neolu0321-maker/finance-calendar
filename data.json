@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-14T09:21:41.255200+08:00",
+  "generated_at": "2026-11-15T08:55:04.930429+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
-      "author": "查理·蒙格",
-      "explanation": "在投資與思考問題時，與其苦思如何成功，不如先列出所有會讓你走向失敗的因素，並全力避免它們。透過逆向思考來排除愚蠢行為，往往比試圖展現極聰明更有用。",
-      "reminder": "投資前先評估最壞情況，控制風險永遠比盲目追求報酬更重要。",
-      "date": "2026-11-14"
+      "author": "查理·蒙格 (Charlie Munger)",
+      "explanation": "在思考投資或人生難題時，與其苦思如何獲得成功，不如先思考如何避免失敗與愚蠢的決策。",
+      "reminder": "面對市場波動與誘惑時，先評估極端風險與極致壞的結果，能幫你避開大多數的災難。",
+      "date": "2026-11-15"
     }
   ],
   "activities": [
@@ -251,6 +251,17 @@
       "city": "台北市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F8SPFR",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-12-09",
+      "end_date": "2026-12-09",
+      "title": "大師課程 – 萬變中，喚醒不變的力量",
+      "category": "文化中心活動",
+      "venue": "台北國際會議中心大會堂",
+      "city": "台北市",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IDBXKY",
       "organizer": ""
     },
     {
@@ -505,28 +516,6 @@
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FFL95J",
       "organizer": ""
-    },
-    {
-      "event_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "title": "2026和風  頌  風華演唱會",
-      "category": "美術館展覽",
-      "venue": "大東文化藝術中心演藝廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DQZ6W2",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "title": "2026「書香彰化—與大師有約」林予晴：讓幸福有能力可循：SEL 如何支持我們的一生",
-      "category": "文化中心活動",
-      "venue": "南北管音樂戲曲館",
-      "city": "彰化縣",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.bocach.gov.tw/News_Content.aspx?n=1241&s=50518",
-      "organizer": "(中華民國)林予晴"
     },
     {
       "event_date": "2026-11-14",
@@ -1660,6 +1649,17 @@
       "summary": "文化部開放資料 (展覽)",
       "url": "https://www.nmns.edu.tw/ch/exhibitions/galleries/life-science-hall/fantastic/",
       "organizer": "國立自然科學博物館"
+    },
+    {
+      "event_date": "2022-03-10",
+      "end_date": "2031-03-10",
+      "title": "付費課程【線上 online】核心幹部管理實務認證班-線上課程",
+      "category": "文化中心活動",
+      "venue": "線上活動",
+      "city": "地點未",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://kktix.com/",
+      "organizer": ""
     }
   ],
   "events": [
@@ -1669,7 +1669,7 @@
       "category": "總經"
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-12",
       "title": "美國 CPI 發布 (預估)",
       "category": "CPI"
     },
