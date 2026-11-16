@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-15T08:55:04.930429+08:00",
+  "generated_at": "2026-11-16T08:53:16.885761+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "反過來想，總是反過來想。",
+      "quote": "我們這群人能取得這麼大的長期優勢，關鍵在於我們持續努力『不犯傻』，而不是試圖變得『極度聰明』。",
       "author": "查理·蒙格 (Charlie Munger)",
-      "explanation": "在思考投資或人生難題時，與其苦思如何獲得成功，不如先思考如何避免失敗與愚蠢的決策。",
-      "reminder": "面對市場波動與誘惑時，先評估極端風險與極致壞的結果，能幫你避開大多數的災難。",
-      "date": "2026-11-15"
+      "explanation": "在投資市場中，許多人為了追求暴利而進行高風險、高複雜度的操作，最終往往招致毀滅性失敗。長期成功的秘訣不在於預測每一次波動或尋求超凡神技，而是有紀律地避免犯下盲目跟風、過度槓桿等致命錯誤。",
+      "reminder": "切忌盲目追求聽不懂的熱門概念，堅守自己的能力圈，不犯蠢比裝聰明更能幫你穩健累積財富。",
+      "date": "2026-11-16"
     }
   ],
   "activities": [
@@ -256,7 +256,7 @@
     {
       "event_date": "2026-12-09",
       "end_date": "2026-12-09",
-      "title": "大師課程 – 萬變中，喚醒不變的力量",
+      "title": "古儒吉大師課程 – 萬變中，喚醒不變的力量",
       "category": "文化中心活動",
       "venue": "台北國際會議中心大會堂",
       "city": "台北市",
@@ -496,28 +496,6 @@
       "organizer": ""
     },
     {
-      "event_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "title": "2026 功學社「賞心樂目」年度音樂會（高雄場）",
-      "category": "文化中心活動",
-      "venue": "國立中山大學逸仙館",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F5TXVJ",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-15",
-      "end_date": "2026-11-15",
-      "title": "南台灣太鼓第12週年聯合展演",
-      "category": "文化中心活動",
-      "venue": "屏東藝術館",
-      "city": "屏東縣",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FFL95J",
-      "organizer": ""
-    },
-    {
       "event_date": "2026-11-14",
       "end_date": "2026-11-21",
       "title": "2026故事聯合國：每個國家都來講故事-11月",
@@ -527,17 +505,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr;jsessionid=94BDCD61C7BDFFB6D13CDFC2E45BD5D8?actId=60091&utm_source=NMTL&utm_medium=index&utm_campaign=60091",
       "organizer": "(西班牙)Manuel Sanchez;(西班牙)Laura Vela"
-    },
-    {
-      "event_date": "2026-11-14",
-      "end_date": "2026-11-15",
-      "title": "2026年 中台世界博物館「雲裳萬象－博古遊歷誌」",
-      "category": "博物館活動",
-      "venue": "中台世界博物館",
-      "city": "埔里鎮",
-      "summary": "文化部開放資料 (親子與綜合)",
-      "url": "https://lihi1.me/QFkbI",
-      "organizer": ""
     },
     {
       "event_date": "2026-11-11",
@@ -1654,6 +1621,39 @@
       "event_date": "2022-03-10",
       "end_date": "2031-03-10",
       "title": "付費課程【線上 online】核心幹部管理實務認證班-線上課程",
+      "category": "文化中心活動",
+      "venue": "線上活動",
+      "city": "地點未",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://kktix.com/",
+      "organizer": ""
+    },
+    {
+      "event_date": "2022-03-03",
+      "end_date": "2031-03-03",
+      "title": "付費課程【線上 online】薪資管理師認證班 -線上課程",
+      "category": "文化中心活動",
+      "venue": "線上活動",
+      "city": "地點未",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://kktix.com/",
+      "organizer": ""
+    },
+    {
+      "event_date": "2022-02-14",
+      "end_date": "2031-02-14",
+      "title": "付費課程【線上 online】工作說明書設計撰寫實務認證班",
+      "category": "文化中心活動",
+      "venue": "線上活動",
+      "city": "地點未",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://kktix.com/",
+      "organizer": ""
+    },
+    {
+      "event_date": "2022-02-14",
+      "end_date": "2031-02-14",
+      "title": "付費課程 【線上 online】任用管理師認證班",
       "category": "文化中心活動",
       "venue": "線上活動",
       "city": "地點未",
