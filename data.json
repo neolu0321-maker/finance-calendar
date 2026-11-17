@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-16T08:53:16.885761+08:00",
+  "generated_at": "2026-11-17T11:34:54.225849+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "我們這群人能取得這麼大的長期優勢，關鍵在於我們持續努力『不犯傻』，而不是試圖變得『極度聰明』。",
-      "author": "查理·蒙格 (Charlie Munger)",
-      "explanation": "在投資市場中，許多人為了追求暴利而進行高風險、高複雜度的操作，最終往往招致毀滅性失敗。長期成功的秘訣不在於預測每一次波動或尋求超凡神技，而是有紀律地避免犯下盲目跟風、過度槓桿等致命錯誤。",
-      "reminder": "切忌盲目追求聽不懂的熱門概念，堅守自己的能力圈，不犯蠢比裝聰明更能幫你穩健累積財富。",
-      "date": "2026-11-16"
+      "quote": "反過來想，總是反過來想。",
+      "author": "查理·蒙格",
+      "explanation": "在思考投資或人生議題時，與其苦思如何獲得成功，不如先找出導致失敗的原因並極力避免。避開愚蠢比展現聰明更容易帶來長期的卓越績效。",
+      "reminder": "在做任何投資決策前，請先問自己『這筆投資怎麼做會徹底失敗』，並確認自己能夠承擔極端情境下的風險。",
+      "date": "2026-11-17"
     }
   ],
   "activities": [
@@ -318,6 +318,17 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://www.bocach.gov.tw/News_Content.aspx?n=1241&s=50518",
       "organizer": "(中華民國)李立忠"
+    },
+    {
+      "event_date": "2026-12-05",
+      "end_date": "2026-12-05",
+      "title": "金車文藝講堂：黃若潔【食物設計的幻象與真實】",
+      "category": "文化中心活動",
+      "venue": "金車文藝中心承德館",
+      "city": "大同區",
+      "summary": "文化部開放資料 (講座)",
+      "url": "https://www.kingcarart.org.tw/projects-detail/217",
+      "organizer": ""
     },
     {
       "event_date": "2026-12-04",
@@ -1488,6 +1499,17 @@
     {
       "event_date": "2026-01-01",
       "end_date": "2026-12-31",
+      "title": "臺南市奇美博物館【常設展】動物廳",
+      "category": "博物館活動",
+      "venue": "臺南市奇美博物館",
+      "city": "臺南市",
+      "summary": "文化部開放資料 (展覽)",
+      "url": "https://www.chimeimuseum.org/",
+      "organizer": "(中華民國)臺南市奇美博物館"
+    },
+    {
+      "event_date": "2026-01-01",
+      "end_date": "2026-12-31",
       "title": "生活工藝館-陶藝DIY手作體驗",
       "category": "文化中心活動",
       "venue": "國立臺灣工藝研究發展中心（臺灣工藝文化園區）",
@@ -1632,28 +1654,6 @@
       "event_date": "2022-03-03",
       "end_date": "2031-03-03",
       "title": "付費課程【線上 online】薪資管理師認證班 -線上課程",
-      "category": "文化中心活動",
-      "venue": "線上活動",
-      "city": "地點未",
-      "summary": "文化部開放資料 (親子與綜合)",
-      "url": "https://kktix.com/",
-      "organizer": ""
-    },
-    {
-      "event_date": "2022-02-14",
-      "end_date": "2031-02-14",
-      "title": "付費課程【線上 online】工作說明書設計撰寫實務認證班",
-      "category": "文化中心活動",
-      "venue": "線上活動",
-      "city": "地點未",
-      "summary": "文化部開放資料 (親子與綜合)",
-      "url": "https://kktix.com/",
-      "organizer": ""
-    },
-    {
-      "event_date": "2022-02-14",
-      "end_date": "2031-02-14",
-      "title": "付費課程 【線上 online】任用管理師認證班",
       "category": "文化中心活動",
       "venue": "線上活動",
       "city": "地點未",
