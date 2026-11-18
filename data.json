@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-17T11:34:54.225849+08:00",
+  "generated_at": "2026-11-18T10:48:05.588881+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "反過來想，總是反過來想。",
-      "author": "查理·蒙格",
-      "explanation": "在思考投資或人生議題時，與其苦思如何獲得成功，不如先找出導致失敗的原因並極力避免。避開愚蠢比展現聰明更容易帶來長期的卓越績效。",
-      "reminder": "在做任何投資決策前，請先問自己『這筆投資怎麼做會徹底失敗』，並確認自己能夠承擔極端情境下的風險。",
-      "date": "2026-11-17"
+      "date": "2026-11-18",
+      "quote": "等待 AI 靈感中...",
+      "author": "系統",
+      "explanation": "錯誤代碼: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 1.274973008s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://aistudio.google.com/docs/rate-limits\"\n}\n, violations {\n  description: \"Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\"\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-3.6-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 1\n}\n]",
+      "reminder": "請稍後重試"
     }
   ],
   "activities": [
@@ -1667,11 +1667,6 @@
       "date": "2026-11-06",
       "title": "美國非農就業報告 (NFP)",
       "category": "總經"
-    },
-    {
-      "date": "2026-11-12",
-      "title": "美國 CPI 發布 (預估)",
-      "category": "CPI"
     },
     {
       "date": "2026-11-18",
