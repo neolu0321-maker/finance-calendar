@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-18T10:48:05.588881+08:00",
+  "generated_at": "2026-11-19T10:25:30.259768+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "date": "2026-11-18",
-      "quote": "等待 AI 靈感中...",
-      "author": "系統",
-      "explanation": "錯誤代碼: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-3.6-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 1.274973008s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://aistudio.google.com/docs/rate-limits\"\n}\n, violations {\n  description: \"Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\"\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-3.6-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 5\n}\n, retry_delay {\n  seconds: 1\n}\n]",
-      "reminder": "請稍後重試"
+      "quote": "我們這種人透過努力保持『不犯傻』，而不是試圖變得『極度聰明』，獲得了驚人的長期優勢。",
+      "author": "查理·蒙格 (Charlie Munger)",
+      "explanation": "在投資市場中，避免做出過度槓桿、盲目追高或盲從熱潮等愚蠢決定，比試圖精準預測每一次暴漲更為重要。只要能長期規避重大錯誤，時間自然會帶來豐厚的複利回報。",
+      "reminder": "投資時請保持理性與紀律，優先評估下行風險而非僅看潛在收益，切忌為了追求短期暴利而做出違背常理的決策。",
+      "date": "2026-11-19"
     }
   ],
   "activities": [
@@ -20,6 +20,17 @@
       "city": "高雄市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FSW8QU",
+      "organizer": ""
+    },
+    {
+      "event_date": "2027-01-24",
+      "end_date": "2027-01-24",
+      "title": "銅聲迴響",
+      "category": "文化中心活動",
+      "venue": "高雄市音樂館演奏廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IL6U7T",
       "organizer": ""
     },
     {
@@ -1649,17 +1660,6 @@
       "summary": "文化部開放資料 (親子與綜合)",
       "url": "https://kktix.com/",
       "organizer": ""
-    },
-    {
-      "event_date": "2022-03-03",
-      "end_date": "2031-03-03",
-      "title": "付費課程【線上 online】薪資管理師認證班 -線上課程",
-      "category": "文化中心活動",
-      "venue": "線上活動",
-      "city": "地點未",
-      "summary": "文化部開放資料 (親子與綜合)",
-      "url": "https://kktix.com/",
-      "organizer": ""
     }
   ],
   "events": [
@@ -1667,6 +1667,11 @@
       "date": "2026-11-06",
       "title": "美國非農就業報告 (NFP)",
       "category": "總經"
+    },
+    {
+      "date": "2026-11-12",
+      "title": "美國 CPI 發布 (預估)",
+      "category": "CPI"
     },
     {
       "date": "2026-11-18",
