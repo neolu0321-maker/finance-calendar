@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-11-19T10:25:30.259768+08:00",
+  "generated_at": "2026-11-20T10:09:49.885291+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "我們這種人透過努力保持『不犯傻』，而不是試圖變得『極度聰明』，獲得了驚人的長期優勢。",
-      "author": "查理·蒙格 (Charlie Munger)",
-      "explanation": "在投資市場中，避免做出過度槓桿、盲目追高或盲從熱潮等愚蠢決定，比試圖精準預測每一次暴漲更為重要。只要能長期規避重大錯誤，時間自然會帶來豐厚的複利回報。",
-      "reminder": "投資時請保持理性與紀律，優先評估下行風險而非僅看潛在收益，切忌為了追求短期暴利而做出違背常理的決策。",
-      "date": "2026-11-19"
+      "quote": "反過來想，總是反過來想。",
+      "author": "查理·蒙格",
+      "explanation": "在投資與人生中，與其盲目思考如何才能成功，不如先思考如何避免失敗與愚蠢。只要你能避開所有致命的陷阱與錯誤，成功的結果自然隨之而來。",
+      "reminder": "進行任何交易前，請先評估最壞情況下的風險承受度，保住本金才是長期生存並享受複利的唯一法門。",
+      "date": "2026-11-20"
     }
   ],
   "activities": [
+    {
+      "event_date": "2027-02-21",
+      "end_date": "2027-02-21",
+      "title": "雄頌管弦樂團音樂會-北國詩篇",
+      "category": "美術館展覽",
+      "venue": "大東文化藝術中心演藝廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IOQV6P",
+      "organizer": ""
+    },
     {
       "event_date": "2027-02-13",
       "end_date": "2027-02-13",
@@ -153,6 +164,17 @@
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://event.culture.tw/mocweb/reg/CHCSEC/Detail.init.ctr?actId=60309",
       "organizer": "(中華民國)彰化青年管樂團"
+    },
+    {
+      "event_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "title": "弦．深語",
+      "category": "文化中心活動",
+      "venue": "高雄市音樂館演奏廳",
+      "city": "高雄市",
+      "summary": "文化部開放資料 (音樂戲劇)",
+      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IOFDIW",
+      "organizer": ""
     },
     {
       "event_date": "2026-12-19",
@@ -1638,28 +1660,6 @@
       "summary": "文化部開放資料 (展覽)",
       "url": "https://web3.nmns.edu.tw/Exhibits/114/2025earths-treasures/",
       "organizer": "國立自然科學博物館"
-    },
-    {
-      "event_date": "2024-01-19",
-      "end_date": "2034-12-31",
-      "title": "科博館《奇幻自然》常設展",
-      "category": "博物館活動",
-      "venue": "國立自然科學博物館",
-      "city": "臺中市",
-      "summary": "文化部開放資料 (展覽)",
-      "url": "https://www.nmns.edu.tw/ch/exhibitions/galleries/life-science-hall/fantastic/",
-      "organizer": "國立自然科學博物館"
-    },
-    {
-      "event_date": "2022-03-10",
-      "end_date": "2031-03-10",
-      "title": "付費課程【線上 online】核心幹部管理實務認證班-線上課程",
-      "category": "文化中心活動",
-      "venue": "線上活動",
-      "city": "地點未",
-      "summary": "文化部開放資料 (親子與綜合)",
-      "url": "https://kktix.com/",
-      "organizer": ""
     }
   ],
   "events": [
