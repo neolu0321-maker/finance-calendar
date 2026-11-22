@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-21T10:03:01.947771+08:00",
+  "generated_at": "2026-11-22T09:05:16.605936+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "思考問題時，不要只專注於如何成功，而是先想怎樣會徹底失敗，然後在投資與生活中盡力避開那些致命錯誤。",
-      "reminder": "投資時請先思考如何不虧損與控制風險，避免盲目追高，能在市場中長期存活才是真正的贏家。",
-      "date": "2026-11-21"
+      "explanation": "在投資與人生中，與其盲目追逐成功的方法，不如先研究別人是如何失敗的，並在自己的決策中極力避免這些錯誤。",
+      "reminder": "當市場一片樂觀時，請反向思考潛在的下行風險；保持理性與獨立思考，是長期存活的關鍵。",
+      "date": "2026-11-22"
     }
   ],
   "activities": [
@@ -505,50 +505,6 @@
       "summary": "文化部開放資料 (講座)",
       "url": "https://nicetrip.tw/activity-detail.html?event=mind-body-balance-20261122",
       "organizer": "薪展新創文化"
-    },
-    {
-      "event_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "title": "金喇叭銅管樂團《卡通大冒險》親子音樂會",
-      "category": "文化中心活動",
-      "venue": "南投縣政府文化局",
-      "city": "南投縣",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://www.opentix.life/event/1993239082164842497",
-      "organizer": "(中華民國)金喇叭銅管樂團"
-    },
-    {
-      "event_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "title": "金車文藝講堂：林峻丞/甘樂文創執行長【從老屋、食堂到孩子的學習基地：甘樂文創的地方創生實踐】",
-      "category": "文化中心活動",
-      "venue": "金車文藝中心 臺北南京館",
-      "city": "中山區",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.kingcarart.org.tw/projects-detail/214",
-      "organizer": "金車文藝中心 臺北南京館"
-    },
-    {
-      "event_date": "2026-11-21",
-      "end_date": "2026-11-21",
-      "title": "忠泰美術館 X ADA 新銳建築獎-從新銳走向未來 系列講座",
-      "category": "文化中心活動",
-      "venue": "NOKE 忠泰樂生活 3F Uncanny大階梯",
-      "city": "中山區",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.accupass.com/event/2610201344041913000296",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-14",
-      "end_date": "2026-11-21",
-      "title": "2026故事聯合國：每個國家都來講故事-11月",
-      "category": "文化中心活動",
-      "venue": "國立臺灣文學館",
-      "city": "臺南市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr;jsessionid=94BDCD61C7BDFFB6D13CDFC2E45BD5D8?actId=60091&utm_source=NMTL&utm_medium=index&utm_campaign=60091",
-      "organizer": "(西班牙)Manuel Sanchez;(西班牙)Laura Vela"
     },
     {
       "event_date": "2026-11-11",
@@ -1660,6 +1616,50 @@
       "summary": "文化部開放資料 (展覽)",
       "url": "https://web3.nmns.edu.tw/Exhibits/114/2025earths-treasures/",
       "organizer": "國立自然科學博物館"
+    },
+    {
+      "event_date": "2024-01-19",
+      "end_date": "2034-12-31",
+      "title": "科博館《奇幻自然》常設展",
+      "category": "博物館活動",
+      "venue": "國立自然科學博物館",
+      "city": "臺中市",
+      "summary": "文化部開放資料 (展覽)",
+      "url": "https://www.nmns.edu.tw/ch/exhibitions/galleries/life-science-hall/fantastic/",
+      "organizer": "國立自然科學博物館"
+    },
+    {
+      "event_date": "2022-03-10",
+      "end_date": "2031-03-10",
+      "title": "付費課程【線上 online】核心幹部管理實務認證班-線上課程",
+      "category": "文化中心活動",
+      "venue": "線上活動",
+      "city": "地點未",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://kktix.com/",
+      "organizer": ""
+    },
+    {
+      "event_date": "2022-03-03",
+      "end_date": "2031-03-03",
+      "title": "付費課程【線上 online】薪資管理師認證班 -線上課程",
+      "category": "文化中心活動",
+      "venue": "線上活動",
+      "city": "地點未",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://kktix.com/",
+      "organizer": ""
+    },
+    {
+      "event_date": "2022-02-14",
+      "end_date": "2031-02-14",
+      "title": "付費課程【線上 online】工作說明書設計撰寫實務認證班",
+      "category": "文化中心活動",
+      "venue": "線上活動",
+      "city": "地點未",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://kktix.com/",
+      "organizer": ""
     }
   ],
   "events": [
