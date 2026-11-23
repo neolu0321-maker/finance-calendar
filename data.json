@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-22T09:05:16.605936+08:00",
+  "generated_at": "2026-11-23T09:28:56.352652+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "反過來想，總是反過來想。",
-      "author": "查理·蒙格",
-      "explanation": "在投資與人生中，與其盲目追逐成功的方法，不如先研究別人是如何失敗的，並在自己的決策中極力避免這些錯誤。",
-      "reminder": "當市場一片樂觀時，請反向思考潛在的下行風險；保持理性與獨立思考，是長期存活的關鍵。",
-      "date": "2026-11-22"
+      "quote": "小狗與主人：主人走路時，小狗會在前面跑來跑去，但最後還是會回到主人身邊。主人是經濟，小狗是股市。",
+      "author": "安德烈·科斯托蘭尼",
+      "explanation": "股市短期的價格波動就像到處亂跑的小狗，難以精準預測，但長期來看，股市的終點必定會回歸實體經濟的基本面。",
+      "reminder": "投資時切勿隨短期的價格漲跌起舞，應將目光放遠，專注於長期的經濟趨勢與企業內在價值。",
+      "date": "2026-11-23"
     }
   ],
   "activities": [
@@ -461,50 +461,6 @@
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F5JGKM",
       "organizer": ""
-    },
-    {
-      "event_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "title": "《聲生相續》",
-      "category": "文化中心活動",
-      "venue": "嘉義市政府文化局音樂廳",
-      "city": "嘉義市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1E6BK4C",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "title": "2026年11月【員林市立圖書館-閩南語真趣味】",
-      "category": "圖書館講座",
-      "venue": "彰化縣員林市立圖書館",
-      "city": "彰化縣",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.facebook.com/yuanlinlibrary",
-      "organizer": "(中華民國)員林市立圖書館"
-    },
-    {
-      "event_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "title": "講座｜從一幅畫到一部漫畫：《四種花開》的圖像敘事與創作幕後",
-      "category": "文化中心活動",
-      "venue": "講座｜從一幅畫到一部漫畫：《四種花開》的圖像敘事與創作幕後",
-      "city": "臺北市",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.accupass.com/event/2610270612481076400634",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-22",
-      "end_date": "2026-11-22",
-      "title": "給自己60分鐘｜先靜心，再放鬆",
-      "category": "文化中心活動",
-      "venue": "松山霞海城隍廟",
-      "city": "松山區",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://nicetrip.tw/activity-detail.html?event=mind-body-balance-20261122",
-      "organizer": "薪展新創文化"
     },
     {
       "event_date": "2026-11-11",
@@ -1654,6 +1610,28 @@
       "event_date": "2022-02-14",
       "end_date": "2031-02-14",
       "title": "付費課程【線上 online】工作說明書設計撰寫實務認證班",
+      "category": "文化中心活動",
+      "venue": "線上活動",
+      "city": "地點未",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://kktix.com/",
+      "organizer": ""
+    },
+    {
+      "event_date": "2022-02-14",
+      "end_date": "2031-02-14",
+      "title": "付費課程 【線上 online】任用管理師認證班",
+      "category": "文化中心活動",
+      "venue": "線上活動",
+      "city": "地點未",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://kktix.com/",
+      "organizer": ""
+    },
+    {
+      "event_date": "2022-02-08",
+      "end_date": "2031-02-08",
+      "title": "付費課程 【線上 online】高獲利訂價策略實戰班",
       "category": "文化中心活動",
       "venue": "線上活動",
       "city": "地點未",
