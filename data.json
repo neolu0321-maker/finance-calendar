@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-23T09:28:56.352652+08:00",
+  "generated_at": "2026-11-24T13:11:59.621442+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "小狗與主人：主人走路時，小狗會在前面跑來跑去，但最後還是會回到主人身邊。主人是經濟，小狗是股市。",
-      "author": "安德烈·科斯托蘭尼",
-      "explanation": "股市短期的價格波動就像到處亂跑的小狗，難以精準預測，但長期來看，股市的終點必定會回歸實體經濟的基本面。",
-      "reminder": "投資時切勿隨短期的價格漲跌起舞，應將目光放遠，專注於長期的經濟趨勢與企業內在價值。",
-      "date": "2026-11-23"
+      "quote": "反過來想，總是反過來想。",
+      "author": "查理·蒙格",
+      "explanation": "在投資與決策時，與其窮盡心力研究如何賺大錢，不如先逆向思考哪些錯誤會導致毀滅性的虧損，並全力避免它們。",
+      "reminder": "市場充滿不確定性，入市前請務必優先評估極端風險與下行空間，確保資產安全永遠高於盲目追求報酬。",
+      "date": "2026-11-24"
     }
   ],
   "activities": [
@@ -174,6 +174,17 @@
       "city": "高雄市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1IOFDIW",
+      "organizer": ""
+    },
+    {
+      "event_date": "2026-12-20",
+      "end_date": "2026-12-20",
+      "title": "【廟語心聲】松山霞海文化小旅行｜河港記憶 × 庶民生活 × 多元信仰",
+      "category": "文化中心活動",
+      "venue": "松山霞海城隍廟",
+      "city": "松山區",
+      "summary": "文化部開放資料 (親子與綜合)",
+      "url": "https://nicetrip.tw/activity-detail.html?event=temple-songshan-xiahai-20261220",
       "organizer": ""
     },
     {
