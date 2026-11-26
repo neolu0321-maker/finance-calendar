@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-25T12:01:46.305249+08:00",
+  "generated_at": "2026-11-26T11:26:42.635901+08:00",
   "source": "github-actions",
   "wisdom": [
     {
-      "quote": "在別人貪婪時恐懼，在別人恐懼時貪婪。",
-      "author": "華倫·巴菲特 (Warren Buffett)",
-      "explanation": "當市場大眾過度樂觀、盲目追高時，資產價格往往過度膨脹，此時應保持警覺；反之當市場陷入極度恐慌、恐慌性拋售時，往往是優質資產價格被嚴重低估的布局良機。",
-      "reminder": "逆向操作的前提是建立在對企業基本面的深刻研究與足夠的安全邊際之上，絕非盲目逆勢接刀。",
-      "date": "2026-11-25"
+      "quote": "反過來想，總是反過來想。",
+      "author": "查理·蒙格",
+      "explanation": "在投資與生活中，與其思考如何獲得成功，不如先專注於如何避免做出愚蠢的決定與重大失敗。",
+      "reminder": "當市場一片樂觀時，先別急著計算能賺多少，請務必先思考有哪些風險可能會讓你毀滅。",
+      "date": "2026-11-26"
     }
   ],
   "activities": [
@@ -460,17 +460,6 @@
       "city": "陽明交",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://arts.nycu.edu.tw/a-tribute-to-clarinet-maestros/",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-25",
-      "end_date": "2026-11-25",
-      "title": "2026黃品潔大提琴獨奏會",
-      "category": "文化中心活動",
-      "venue": "衛武營國家藝術文化中心表演廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F5JGKM",
       "organizer": ""
     },
     {
