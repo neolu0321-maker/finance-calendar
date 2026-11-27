@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-26T11:26:42.635901+08:00",
+  "generated_at": "2026-11-27T11:33:34.098362+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "在投資與生活中，與其思考如何獲得成功，不如先專注於如何避免做出愚蠢的決定與重大失敗。",
-      "reminder": "當市場一片樂觀時，先別急著計算能賺多少，請務必先思考有哪些風險可能會讓你毀滅。",
-      "date": "2026-11-26"
+      "explanation": "在面對投資或人生難題時，與其專注於『如何獲得成功』，不如逆向思考『什麼情況會導致失敗』，並設法完全避免它。",
+      "reminder": "評估任何投資標的前，請先思考最大可能發生的極端風險與虧損原因，做好風險控管再追求獲利。",
+      "date": "2026-11-27"
     }
   ],
   "activities": [
@@ -438,28 +438,6 @@
       "city": "高雄市",
       "summary": "文化部開放資料 (音樂戲劇)",
       "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1FDODMR",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-26",
-      "end_date": "2026-11-26",
-      "title": "湯志偉低音號獨奏音樂會",
-      "category": "文化中心活動",
-      "venue": "高雄市音樂館演奏廳",
-      "city": "高雄市",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://ticket.com.tw/Application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1DYR135",
-      "organizer": ""
-    },
-    {
-      "event_date": "2026-11-26",
-      "end_date": "2026-11-26",
-      "title": "搖擺不設限．致敬大師風範",
-      "category": "文化中心活動",
-      "venue": "國立陽明交通大學演藝廳",
-      "city": "陽明交",
-      "summary": "文化部開放資料 (音樂戲劇)",
-      "url": "https://arts.nycu.edu.tw/a-tribute-to-clarinet-maestros/",
       "organizer": ""
     },
     {
