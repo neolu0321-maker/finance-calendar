@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-27T11:33:34.098362+08:00",
+  "generated_at": "2026-11-28T11:11:04.490090+08:00",
   "source": "github-actions",
   "wisdom": [
     {
       "quote": "反過來想，總是反過來想。",
       "author": "查理·蒙格",
-      "explanation": "在面對投資或人生難題時，與其專注於『如何獲得成功』，不如逆向思考『什麼情況會導致失敗』，並設法完全避免它。",
-      "reminder": "評估任何投資標的前，請先思考最大可能發生的極端風險與虧損原因，做好風險控管再追求獲利。",
-      "date": "2026-11-27"
+      "explanation": "在投資與思考問題時，與其窮極一生去研究如何獲得成功，不如先徹底研究如何避免致命的失敗與錯誤。",
+      "reminder": "每當急著想要追逐市場熱點時，請先反向思考：這筆投資最糟糕的狀況是什麼？自己是否能承受毀滅性的打擊？",
+      "date": "2026-11-28"
     }
   ],
   "activities": [
@@ -593,17 +593,6 @@
       "summary": "文化部開放資料 (親子與綜合)",
       "url": "https://ctwm-ma.oen.tw/events/3AYqUzBrLbLitUvMKo8UX22oafh",
       "organizer": "(中華民國)中台世界博物館"
-    },
-    {
-      "event_date": "2026-03-07",
-      "end_date": "2026-11-28",
-      "title": "115年度快樂魚池-兒童美語研習",
-      "category": "圖書館講座",
-      "venue": "南投縣魚池鄉立圖書館",
-      "city": "南投縣",
-      "summary": "文化部開放資料 (講座)",
-      "url": "https://www.facebook.com/yuchihlibrary",
-      "organizer": "(中華民國)南投縣魚池鄉立圖書館"
     },
     {
       "event_date": "2026-03-06",
